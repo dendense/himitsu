@@ -1,0 +1,2 @@
+# himitsu
+Idols Core Place
