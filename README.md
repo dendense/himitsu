@@ -18,8 +18,8 @@ Kami menggunakan Framework **[GatsbyJS](https://www.gatsbyjs.com/)** yang dimana
 
 # Kontak
 Jika ingin bertanya seputar project ini, kalian dapat menghubungi kontak berikut
-Email   : denyfarras@gmail.com
-Discord : @GutenTag#4712
+- Email   : denyfarras@gmail.com
+- Discord : @GutenTag#4712
 
 # Discord
 Dalam pembuatan
