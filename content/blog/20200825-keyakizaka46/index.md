@@ -1,11 +1,14 @@
 ---
-path: "/keyakizaka46"
+path: "/20200301-keyakite112"
 date: "2020-03-01"
 title: "Keyakizaka46"
-author: "Himitsu Project"
+author: "Himitsu Staff"
 description: "This is my very first blog of 2020!"
+tags: ["Keyakizaka46"]
+image: keyakite.jpg
 ---
 
+![Hopper The Rabbit](./keyakite.jpg)
 Here is my Keyakizaka46
 It is very interesting.
 

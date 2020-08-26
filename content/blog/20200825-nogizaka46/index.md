@@ -1,9 +1,11 @@
 ---
-path: "/nogizaka46"
+path: "/20200201-underconst140"
 date: "2020-02-01"
 title: "Nogizaka46"
-author: "Himitsu Project"
+author: "Himitsu Staff"
 description: "This is my very first blog of 2020!"
+tags: ["Nogizaka46"]
+image: nogizaka46.jpg
 ---
 
 Here is my Nogizaka46
