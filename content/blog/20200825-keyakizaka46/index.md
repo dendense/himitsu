@@ -5,10 +5,11 @@ title: "Keyakizaka46"
 author: "Himitsu Staff"
 description: "This is my very first blog of 2020!"
 tags: ["Keyakizaka46"]
-image: keyakite.jpg
+image: ./keyakite.jpg
 ---
 
-![Hopper The Rabbit](./keyakite.jpg)
+![Keyakite Eps.112](./keyakite.jpg)
+
 Here is my Keyakizaka46
 It is very interesting.
 

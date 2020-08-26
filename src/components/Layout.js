@@ -6,7 +6,7 @@ import Nav from "./Nav"
 const Layout = ({ children }) => (
   <div className="layout-himitsu">
     <Nav />
-    <main className="container-fluid bg-light">{children}</main>
+    <main className="container-fluid">{children}</main>
   </div>
 )
 

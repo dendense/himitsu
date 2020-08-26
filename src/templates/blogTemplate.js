@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import "./blogTemplate.scss"
 import Layout from "../components/Layout"
 
 export default function Template({ data }) {
@@ -11,9 +12,8 @@ export default function Template({ data }) {
     <Layout>
       <div className="row mt-3">
         <div className="col-md-8">
-          <div className>
+          <div className="content-bar">
             <h1>{title}</h1>
-            <div className="featured-image"></div>
             <p>
               Posted by {author} on {date}
             </p>
@@ -21,13 +21,7 @@ export default function Template({ data }) {
           </div>
         </div>
         <div className="col-md-4">
-          <div
-            style={{
-              width: "100%",
-              height: "100%",
-              backgroundColor: "rgba(0,0,0,0.4)",
-            }}
-          ></div>
+          <div className="sidebar"></div>
         </div>
       </div>
     </Layout>

@@ -1,14 +1,13 @@
 import React from "react"
 import { Link } from "gatsby"
-import Img from "gatsby-image"
 
 import "./post.scss"
 
 let alt = "himitsu-images"
-const Posts = ({ title, author, date, description, path, fluid }) => (
+const Posts = ({ title, author, date, description, path, image }) => (
   <div className="col mb-4">
     <div className="card">
-      <Img fluid={fluid} className="card-img-top" alt={alt} />
+      <img src={image} className="card-img-top" alt={alt} />
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
         <p className="card-text">{description}</p>
