@@ -1,37 +1,27 @@
 import React from "react"
 import { Link } from "gatsby"
+import { Navbar, Nav } from "react-bootstrap"
 
-import "../style/scss/style.scss"
+import "./nav.scss"
 import LogoHimitsu from "../images/himitsu-logo.png"
 
-const Nav = () => (
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+const Navigation = props => (
+  <Navbar bg="dark" variant="dark" expand="lg">
     <Link to="/">
-      <a class="navbar-brand" href="/">
+      <Navbar.Brand>
         <img
+          alt=""
           src={LogoHimitsu}
           width="30"
           height="30"
-          class="d-inline-block align-top mr-1"
-          alt=""
-          loading="lazy"
+          className="d-inline-block align-top mr-2"
         />
-        <span className="icon-text">HIMITSU PROJECT</span>
-      </a>
+        HIMITSU PROJECT
+      </Navbar.Brand>
     </Link>
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-toggle="collapse"
-      data-target="#navbarNavAltMarkup"
-      aria-controls="navbarNavAltMarkup"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
+    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+    <Navbar.Collapse id="basic-navbar-nav">
+      <Nav className="mr-auto">
         <Link
           class="nav-link"
           activeClassName="nav-link active"
@@ -52,9 +42,9 @@ const Nav = () => (
         <Link class="nav-link" activeClassName="nav-link active" to="/music">
           Music
         </Link>
-      </div>
-    </div>
-  </nav>
+      </Nav>
+    </Navbar.Collapse>
+  </Navbar>
 )
 
-export default Nav
+export default Navigation
