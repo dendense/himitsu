@@ -1,12 +1,15 @@
 ---
-path: "/20200101-nogizaka9thsingle"
-date: "2020-01-01"
-title: "Himitsu Project"
+path: "/blog/20200101-nogizaka9thsingle"
+date: "2020-01-12"
+title: "Aimyon Tour 2019 -SIXTH SENSE STORY"
 author: "Himitsu Staff"
-description: "This is my very first blog of 2020!"
+description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignissimos
+aut consequuntur aspernatur corrupti ratione. amio"
 tags: ["Music", "Nogizaka46"]
-image: nogizaka46.jpg
+image: aimyon-concert.jpg
 ---
+
+![Aimyon Tour 2019](./aimyon-concert.jpg)
 
 Here is my main content
 It is very interesting.

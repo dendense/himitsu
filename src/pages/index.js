@@ -16,16 +16,19 @@ const Home = ({ data }) => (
             date,
             description,
             path,
+            tags,
           } = post.node.frontmatter
           const image = post.node.frontmatter.image.childImageSharp.fluid.src
           return (
             <Post
+              key={`${date}__${title}`}
               title={title}
               author={author}
               date={date}
               description={description}
               path={path}
               image={image}
+              tags={tags}
             ></Post>
           )
         })}
@@ -38,15 +41,16 @@ export default Home
 
 export const AllBlogsQuery = graphql`
   query AllBlogPosts {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date }) {
       edges {
         node {
           frontmatter {
-            date
+            date(formatString: "DD MMMM, YYYY")
             title
             description
             author
             path
+            tags
             image {
               childImageSharp {
                 fluid(maxWidth: 500) {

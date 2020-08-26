@@ -2,7 +2,6 @@ import React from "react"
 import { Link } from "gatsby"
 import { Navbar, Nav } from "react-bootstrap"
 
-import "./nav.scss"
 import LogoHimitsu from "../images/himitsu-logo.png"
 
 const Navigation = props => (

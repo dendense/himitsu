@@ -1,11 +1,12 @@
 ---
-path: "/20200201-underconst140"
-date: "2020-02-01"
-title: "Nogizaka46"
+path: "/blog/20200201-underconst140"
+date: "2020-02-23"
+title: "Nogizaka46 7th Birthday Live"
 author: "Himitsu Staff"
-description: "This is my very first blog of 2020!"
+description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignissimos
+aut consequuntur aspernatur corrupti ratione.odit"
 tags: ["Nogizaka46"]
-image: nogizaka46.jpg
+image: n46-live.jpg
 ---
 
 Here is my Nogizaka46

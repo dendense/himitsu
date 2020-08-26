@@ -1,9 +1,10 @@
 ---
-path: "/20200301-keyakite112"
+path: "/blog/20200301-keyakite112"
 date: "2020-03-01"
-title: "Keyakizaka46"
+title: "Keyakitte Kakenai Ep.237"
 author: "Himitsu Staff"
-description: "This is my very first blog of 2020!"
+description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignissimos
+aut consequuntur aspernatur corrupti ratione."
 tags: ["Keyakizaka46"]
 image: ./keyakite.jpg
 ---
