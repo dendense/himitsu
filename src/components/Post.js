@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { slugify } from "../utils/utilityFunction"
-import "./post.scss"
+import "../styles/index.scss"
 
 let alt = "himitsu-images"
 const Posts = ({ title, author, date, description, path, image, tags }) => (

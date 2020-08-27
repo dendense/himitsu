@@ -1,8 +1,10 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import "./blogTemplate.scss"
+import "../styles/index.scss"
 import Layout from "../components/Layout"
+import Sidebar from "../components/Sidebar"
+import SEO from "../components/Seo"
 
 export default function Template({ data }) {
   const post = data.markdownRemark
@@ -10,6 +12,7 @@ export default function Template({ data }) {
 
   return (
     <Layout>
+      <SEO title={title} />
       <div className="row mt-3">
         <div className="col-md-8">
           <div className="content-bar">
@@ -21,7 +24,7 @@ export default function Template({ data }) {
           </div>
         </div>
         <div className="col-md-4">
-          <div className="sidebar"></div>
+          <Sidebar />
         </div>
       </div>
     </Layout>

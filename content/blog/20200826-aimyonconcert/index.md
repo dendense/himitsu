@@ -5,7 +5,7 @@ title: "Aimyon Tour 2019 -SIXTH SENSE STORY"
 author: "Himitsu Staff"
 description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignissimos
 aut consequuntur aspernatur corrupti ratione. amio"
-tags: ["Music", "Nogizaka46"]
+tags: ["Music", "Musician"]
 image: aimyon-concert.jpg
 ---
 
