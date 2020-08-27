@@ -7,7 +7,11 @@ const TestPage = () => {
     <Layout>
       <SEO title="Testing Page" />
       <div>
-        <div className="card"></div>
+        <div className="card">
+          <a href="https://facebook.com" rel="noreferer">
+            <i className="fab fa-discord" />
+          </a>
+        </div>
       </div>
     </Layout>
   )
