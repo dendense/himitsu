@@ -4,12 +4,12 @@ import { Navbar, Nav } from "react-bootstrap"
 
 import LogoHimitsu from "../images/himitsu-logo.png"
 
-const Navigation = props => (
+const Navigation = ({ tags }) => (
   <Navbar bg="dark" variant="dark" expand="lg">
     <Link to="/">
       <Navbar.Brand>
         <img
-          alt=""
+          alt="Himitsu Project"
           src={LogoHimitsu}
           width="30"
           height="30"
@@ -21,11 +21,7 @@ const Navigation = props => (
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="mr-auto">
-        <Link
-          class="nav-link"
-          activeClassName="nav-link active"
-          to="/sakamichi"
-        >
+        <Link class="nav-link" activeClassName="nav-link active" to="#">
           Sakamichi Series
         </Link>
         <Link class="nav-link" activeClassName="nav-link active" to="/48groups">

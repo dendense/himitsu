@@ -6,7 +6,6 @@ import Post from "../components/Post"
 
 const Home = ({ data }) => (
   <Layout>
-    {console.log(data)}
     <div className="mt-3">
       <div className="row row-cols-1 row-cols-md-3">
         {data.allMarkdownRemark.edges.map(post => {
