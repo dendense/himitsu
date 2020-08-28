@@ -7,6 +7,7 @@ description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignis
 aut consequuntur aspernatur corrupti ratione. amio"
 tags: ["Music", "Hinatazaka46"]
 image: H462A.jpg
+badge: "../badges/nogizaka46"
 ---
 
 ![Doremisolasido](./H462A.jpg)

@@ -4,6 +4,8 @@ import { graphql } from "gatsby"
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import PostSmall from "../components/PostSmall"
+import NogiBadge from "../images/nogizaka46.png"
+import HinaBadge from "../images/hinatazaka46.png"
 import "../styles/index.scss"
 
 const TestPage = ({ data }) => {
@@ -12,23 +14,195 @@ const TestPage = ({ data }) => {
       <SEO title="Testing Page" />
       <div className="row post-small">
         <div className="col-md">
-          <ul className="list-group">
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
+          <h1 className="h3 text-uppercase">Nogizaka46</h1>
+          <ul className="list-group post-list">
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={NogiBadge}
+                alt="nogizaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>
+                Nogizaka Underconstruction Ep.225
+              </span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={NogiBadge}
+                alt="nogizaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>
+                Nogizaka Underconstruction Ep.225
+              </span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={NogiBadge}
+                alt="nogizaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>
+                Nogizaka Underconstruction Ep.225
+              </span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={NogiBadge}
+                alt="nogizaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>
+                Nogizaka Underconstruction Ep.225
+              </span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={NogiBadge}
+                alt="nogizaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>
+                Nogizaka Underconstruction Ep.225
+              </span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={NogiBadge}
+                alt="nogizaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>
+                Nogizaka Underconstruction Ep.225
+              </span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={NogiBadge}
+                alt="nogizaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>
+                Nogizaka Underconstruction Ep.225
+              </span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
           </ul>
         </div>
         <div className="col-md">
-          <ul className="list-group">
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
-            <li class="list-group-item">Dapibus ac facilisis in</li>
+          <h1 className="h3 text-uppercase">Hinatazaka46</h1>
+          <ul className="list-group post-list">
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={HinaBadge}
+                alt="hinatazaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>Hina Bingo! Ep.225</span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={HinaBadge}
+                alt="hinatazaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>Hina Bingo! Ep.225</span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={HinaBadge}
+                alt="hinatazaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>Hina Bingo! Ep.225</span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={HinaBadge}
+                alt="hinatazaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>Hina Bingo! Ep.225</span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={HinaBadge}
+                alt="hinatazaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>Hina Bingo! Ep.225</span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={HinaBadge}
+                alt="hinatazaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>Hina Bingo! Ep.225</span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
+            <li class="list-group-item d-flex align-items-center">
+              <img
+                src={HinaBadge}
+                alt="hinatazaka46"
+                style={{ height: "35px" }}
+                className="mr-2"
+              />
+              <span style={{ width: "100%" }}>Hina Bingo! Ep.225</span>
+              <button class="btn btn-outline-success float-right">
+                Details
+              </button>
+            </li>
           </ul>
         </div>
       </div>
@@ -53,16 +227,15 @@ const TestPage = ({ data }) => {
 }
 export default TestPage
 
-export const SmallBlogsQuery = graphql`
-  query SmallBlogPosts {
-    allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date }) {
+export const PerTagsQuery = graphql`
+  query PerTagsQuery {
+    allMarkdownRemark(filter: { frontmatter: { tags: { in: ["Musician"] } } }) {
       edges {
         node {
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
-            title
-            path
             tags
+            path
+            title
           }
         }
       }
