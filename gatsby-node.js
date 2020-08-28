@@ -12,26 +12,23 @@ exports.createPages = ({ actions, graphql }) => {
           node {
             frontmatter {
               path
-              tags
             }
           }
         }
+        distinct(field: frontmatter___tags)
       }
     }
   `).then(res => {
     if (res.errors) {
       return Promise.reject(res.errors)
     }
-    var tags = [];
     res.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
         component: postTemplate,
       })
-      for (let tag of node.frontmatter.tags) tags.push(tag);
     })
-    tags = Array.from(new Set(tags));
-    tags.forEach(tag => {
+    res.data.allMarkdownRemark.distinct.forEach(tag => {
       createPage({
         path: `/tag/${tag.toLowerCase()}`,
         component: tagsTemplate,
