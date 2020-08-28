@@ -16,6 +16,7 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
+        distinct(field: frontmatter___tags)
       }
     }
   `).then(res => {
@@ -32,6 +33,15 @@ exports.createPages = ({ actions, graphql }) => {
     })
     tags = Array.from(new Set(tags));
     tags.forEach(tag => {
+      createPage({
+        path: `/tag/${tag.toLowerCase()}`,
+        component: tagsTemplate,
+        context: {
+          tags: tag
+        }
+      })
+    })
+    res.data.allMarkdownRemark.distinct.forEach(tag => {
       createPage({
         path: `/tag/${tag.toLowerCase()}`,
         component: tagsTemplate,
