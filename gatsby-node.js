@@ -22,19 +22,13 @@ exports.createPages = ({ actions, graphql }) => {
     if (res.errors) {
       return Promise.reject(res.errors)
     }
-    res.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      createPage({
-        path: node.frontmatter.path,
-        component: postTemplate,
-      })
-    })
     res.data.allMarkdownRemark.distinct.forEach(tag => {
       createPage({
         path: `/tag/${tag.toLowerCase()}`,
         component: tagsTemplate,
         context: {
-          tags: tag
-        }
+          tags: tag,
+        },
       })
     })
   })
