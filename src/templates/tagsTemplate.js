@@ -13,7 +13,7 @@ export default function Template({ data, pageContext }) {
       <div className="mt-3">
         <h1>Post with tags {tags}</h1>
         <div className="row row-cols-1 row-cols-md-3">
-          {data.allMarkdownRemark.nodes.map(post => {
+          {data.allMarkdownRemark.node.map(post => {
             const {
               title,
               author,
