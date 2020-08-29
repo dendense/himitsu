@@ -12,9 +12,9 @@ const Posts = ({ title, author, date, description, path, image, tags }) => (
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
         {tags.map(tag => (
-          <div className="mr-1 d-inline-flex">
+          <div className="mr-1 d-inline-flex" key={tag}>
             <Link to={`/tag/${slugify(tag)}`}>
-              <span class="badge badge-primary text-uppercase">{tag}</span>
+              <span className="badge badge-primary text-uppercase">{tag}</span>
             </Link>
           </div>
         ))}

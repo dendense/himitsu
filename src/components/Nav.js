@@ -20,23 +20,23 @@ const Navigation = ({ tags }) => (
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="mr-auto">
         <Link
-          class="nav-link"
+          className="nav-link"
           activeClassName="nav-link active"
           to="/sakamichi"
         >
           Sakamichi Series
         </Link>
-        <Link class="nav-link" activeClassName="nav-link active" to="/48groups">
+        <Link className="nav-link" activeClassName="nav-link active" to="/48groups">
           48 Groups
         </Link>
         <Link
-          class="nav-link"
+          className="nav-link"
           activeClassName="nav-link active"
           to="/underground"
         >
           Underground
         </Link>
-        <Link class="nav-link" activeClassName="nav-link active" to="/music">
+        <Link className="nav-link" activeClassName="nav-link active" to="/music">
           Music
         </Link>
       </Nav>
