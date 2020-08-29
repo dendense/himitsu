@@ -4,9 +4,9 @@ import PropTypes from "prop-types"
 import Nav from "./Nav"
 
 const Layout = ({ children }) => (
-  <div className="layout-himitsu">
+  <div>
     <Nav />
-    <main className="container-fluid">{children}</main>
+    <div className="container-fluid">{children}</div>
   </div>
 )
 
