@@ -3,6 +3,7 @@ const path = require("path")
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
   const postTemplate = path.resolve("src/templates/blogTemplate.js")
+  const tagsTemplate = path.resolve("src/templates/tagsTemplate.js")
 
   return graphql(`
     {
@@ -14,6 +15,7 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
+        distinct(field: frontmatter___tags)
       }
     }
   `).then(res => {
@@ -24,6 +26,15 @@ exports.createPages = ({ actions, graphql }) => {
       createPage({
         path: node.frontmatter.path,
         component: postTemplate,
+      })
+    })
+    res.data.allMarkdownRemark.distinct.forEach(tag => {
+      createPage({
+        path: `/tag/${tag.toLowerCase()}`,
+        component: tagsTemplate,
+        context: {
+          tags: tag
+        }
       })
     })
   })
