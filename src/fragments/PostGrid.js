@@ -9,7 +9,7 @@ export default function PostGrid(props) {
             gap: '30px'
         }}>
             {props.data.map(i => (
-                <div>
+                <div key={i.frontmatter.path}>
                     <Post
                         key={i.frontmatter.path}
                         title={i.frontmatter.title}

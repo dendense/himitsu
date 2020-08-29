@@ -7,6 +7,12 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
   const postTemplate = path.resolve("src/templates/blogTemplate.js")
   const tagsTemplate = path.resolve("src/templates/tagsTemplate.js")
+  const groupTemplate = path.resolve("src/templates/groupTemplate.js")
+
+  const groupPagesConfig = [
+    { name: 'Sakamichi', tags: ['Nogizaka46', 'Keyakizaka46', 'Hinatazaka46'] },
+    { name: 'Music', tags: ['Music', 'Musician'] }
+  ];
 
   return graphql(`
     {
@@ -45,6 +51,17 @@ exports.createPages = ({ actions, graphql }) => {
         component: tagsTemplate,
         context: {
           tags: tag
+        }
+      })
+    })
+    groupPagesConfig.forEach(group => {
+      console.log(group);
+      createPage({
+        path: `/${group.name.toLowerCase()}`,
+        component: groupTemplate,
+        context: {
+          name: group.name,
+          tags: group.tags
         }
       })
     })
