@@ -11,7 +11,7 @@ const PostSmall = ({ title, path, image2 }) => (
       style={{ height: "35px" }}
       className="mr-2"
     />
-    <span style={{ width: "60%" }}>{title}</span>
+    <span style={{ width: "59%" }}>{title}</span>
     <Link to={path} className="btn btn-outline-success btn-sm ml-1 float-right">
       Read more
     </Link>

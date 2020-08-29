@@ -2,13 +2,15 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
+import TwoPartStyled from "../fragments/twoPartStyle"
 import Post from "../components/Post"
 import SEO from "../components/Seo"
 
 const Home = ({ data }) => (
   <Layout>
     <SEO title="Homepage" />
-    <div className="mt-3">
+    <div>
+      <TwoPartStyled />
       <div className="row row-cols-1 row-cols-md-3">
         {data.allMarkdownRemark.edges.map(post => {
           const {

@@ -42,4 +42,5 @@ Jika ingin bertanya seputar project ini, kalian dapat menghubungi kontak berikut
 
 # Discord
 
-Dalam pembuatan
+Klik disini untuk bergabung : **[Come Join Us](https://discord.gg/hWSHRb5)**
+
