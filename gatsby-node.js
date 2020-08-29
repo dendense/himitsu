@@ -12,7 +12,6 @@ exports.createPages = ({ actions, graphql }) => {
           node {
             frontmatter {
               path
-              tags
             }
           }
         }
@@ -23,22 +22,10 @@ exports.createPages = ({ actions, graphql }) => {
     if (res.errors) {
       return Promise.reject(res.errors)
     }
-    var tags = [];
     res.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
         component: postTemplate,
-      })
-      for (let tag of node.frontmatter.tags) tags.push(tag);
-    })
-    tags = Array.from(new Set(tags));
-    tags.forEach(tag => {
-      createPage({
-        path: `/tag/${tag.toLowerCase()}`,
-        component: tagsTemplate,
-        context: {
-          tags: tag
-        }
       })
     })
     res.data.allMarkdownRemark.distinct.forEach(tag => {
