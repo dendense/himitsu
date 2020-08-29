@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Disqus, CommentCount } from 'gatsby-plugin-disqus';
+import { Disqus, CommentCount } from "gatsby-plugin-disqus"
 
 import "../styles/index.scss"
 import Layout from "../components/Layout"
@@ -16,7 +16,7 @@ export default function Template({ data, pageContext }) {
   const disqusConfig = {
     // url: `himitsu.dev${path}`,
     title: title,
-    identifier: path.split('/').slice(-1)[0]
+    identifier: path.split("/").slice(-1)[0],
   }
 
   return (
@@ -27,7 +27,8 @@ export default function Template({ data, pageContext }) {
           <div className="content-bar">
             <h1>{title}</h1>
             <p>
-              Posted by {author} on {date} | <CommentCount config={disqusConfig} />
+              Posted by {author} on {date} |{" "}
+              <CommentCount config={disqusConfig} />
             </p>
             <div dangerouslySetInnerHTML={{ __html: post.html }} />
             {link.length > 0 && 
@@ -43,7 +44,7 @@ export default function Template({ data, pageContext }) {
                 })}
               </div>
             }
-            <div style={{ marginTop: '3rem' }}>
+            <div style={{ marginTop: "3rem" }}>
               <Disqus config={disqusConfig} />
             </div>
           </div>

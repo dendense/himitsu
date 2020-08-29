@@ -3,13 +3,17 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
 import PostGrid from '../fragments/PostGrid'
+import TwoPartStyled from "../fragments/twoPartStyle"
 import SEO from "../components/Seo"
 
 const Home = ({ data }) => (
   <Layout>
     <SEO title="Homepage" />
-    <div className="mt-3">
-      <PostGrid data={data.allMarkdownRemark.nodes} col={4} />
+    <div>
+      <TwoPartStyled />
+      <div className="mt-3">
+        <PostGrid data={data.allMarkdownRemark.nodes} col={4} />
+      </div>
     </div>
   </Layout>
 )
