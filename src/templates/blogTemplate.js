@@ -7,9 +7,10 @@ import Layout from "../components/Layout"
 import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
-export default function Template({ data }) {
+export default function Template({ data, pageContext }) {
   const post = data.markdownRemark
   const { title, author, date, link, path } = post.frontmatter
+  const { shortenedLink } = pageContext;
 
   // pas production mode, kalau disqusconfig nya sesuain sama production nya yaa~
   const disqusConfig = {
@@ -32,11 +33,11 @@ export default function Template({ data }) {
             {link.length > 0 && 
               <div className="card mx-auto mt-4" style={{ maxWidth: '600px' }}>
                 <div className="card-header text-center">Downloadable Content</div>
-                {link.map(i => {
+                {link.map((i, index) => {
                   return (
                     <li key={i.label} className="list-group-item text-center">
                       <span className="font-weight-bold mr-2">[{i.label}]</span>
-                      <a href={i.url} target="_blank" rel="noreferrer">{i.url}</a>
+                      <a href={shortenedLink[index]} target="_blank" rel="noreferrer">{shortenedLink[index]}</a>
                     </li>
                   )
                 })}
