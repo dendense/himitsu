@@ -4,7 +4,7 @@ import SEO from "../components/Seo"
 
 const Music = () => (
   <Layout>
-    <SEO title="Music" />
+    <SEO title="News" />
     <h1>Music</h1>
   </Layout>
 )
