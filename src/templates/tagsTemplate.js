@@ -7,10 +7,10 @@ import SEO from "../components/Seo"
 
 export default function Template({ data, pageContext }) {
   const { tags } = pageContext
-  console.log(data);
+  console.log(data)
   return (
     <Layout>
-      <SEO title={"Tags " + tags} />
+      <SEO title={"Tags " + tags} keyword={tags} />
       <div className="mt-3">
         <h1>Post with tags {tags}</h1>
         <div className="row row-cols-1 row-cols-md-3">

@@ -5,13 +5,15 @@ import Layout from "../components/Layout"
 import TwoPartStyled from "../fragments/twoPartStyle"
 import Post from "../components/Post"
 import SEO from "../components/Seo"
+import Hero from "../components/Hero"
 
 const Home = ({ data }) => (
   <Layout>
     <SEO title="Homepage" />
-    <div>
+    <div className="mt-3">
+      <Hero />
       <TwoPartStyled />
-      <div className="row row-cols-1 row-cols-md-3">
+      <div className="mt-3 row row-cols-1 row-cols-md-3">
         {data.allMarkdownRemark.edges.map(post => {
           const {
             title,

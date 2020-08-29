@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql, StaticQuery } from "gatsby"
 
-import PostSmall from "../../components/PostSmall"
+import PostList from "../../components/PostList"
 import { slugify } from "../../utils/utilityFunction"
 import "../../styles/index.scss"
 
@@ -54,12 +54,12 @@ export default props => (
             const image2 =
               post.node.frontmatter.image2.childImageSharp.fluid.src
             return (
-              <PostSmall
+              <PostList
                 key={`${title}`}
                 title={title}
                 path={path}
                 image2={image2}
-              ></PostSmall>
+              ></PostList>
             )
           })}
         </ul>

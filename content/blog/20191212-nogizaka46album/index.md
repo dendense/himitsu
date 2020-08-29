@@ -20,9 +20,3 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignissimos
 aut consequuntur aspernatur corrupti ratione, odit similique tenetur
 accusantium, est nostrum esse minus iure voluptatum nihil cumque
 blanditiis non? Odit.
-
-<script type="text/javascript">
-    var ouo_token = 'zPdQ4s7s';
-    var domains = ['drive.google.com', 'racaty.net']; 
-</script>
-<script src="//cdn.ouo.io/js/full-page-script.js"></script>

@@ -1,5 +1,5 @@
 ---
-path: "/20200827-sheissummer-newsingle"
+path: "/blog/20200827-sheissummer-newsingle"
 date: "2020-08-29"
 title: "She Is Summer"
 author: "Himitsu Staff"

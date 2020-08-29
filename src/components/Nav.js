@@ -5,7 +5,7 @@ import { Navbar, Nav } from "react-bootstrap"
 import LogoHimitsu from "../images/himitsu-logo.png"
 
 const Navigation = ({ tags }) => (
-  <Navbar bg="dark" variant="dark" expand="lg">
+  <Navbar expand="lg" bg="dark" variant="dark">
     <Link to="/">
       <Navbar.Brand>
         <img

@@ -20,7 +20,7 @@ export default function Template({ data }) {
 
   return (
     <Layout>
-      <SEO title={title} />
+      <SEO title={title} keyword={("Idols", "Music" + title)} />
       <div className="row mt-3">
         <div className="col-md-8">
           <div className="content-bar">
