@@ -7,6 +7,8 @@ description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dignis
 aut consequuntur aspernatur corrupti ratione.odit"
 tags: ["Nogizaka46"]
 image: n46-live.jpg
+badge: "../assets/badges/nogizaka46.png"
+link:  [{ label: 'Google Drive', url: 'https://drive.google.com/file/d/11PGJWuv55HQUEotLOU-pmxsJZP4WJ27h/view?usp=sharing' }, {label: 'Racaty', url: 'https://racaty.net/1qlo0uaptjyw'}]
 ---
 
 ![Nogizaka46 7th Birthday Live](./n46-live.jpg)
