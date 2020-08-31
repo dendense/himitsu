@@ -9,4 +9,8 @@ const slugify = function (text) {
     .replace(/-+$/, "") // Trim - from end of text
 }
 
-module.exports = { slugify }
+const truncate = function(text, length) {
+  return `${text.slice(0, length)}${text.length > length ? '...' : ''}`;
+}
+
+module.exports = { slugify, truncate }

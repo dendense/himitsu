@@ -58,12 +58,21 @@ const Sidebar = () => {
         <div className="card-body">
           <a
             type="link"
-            className="container-fluid btn btn-warning"
+            className="container-fluid btn btn-donation text-white"
+            href="https://trakteer.id/dendense-project"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <i className="fa fa-heart" /> Support Us on Trakteer!
+          </a>
+          <a
+            type="link"
+            className="container-fluid btn btn-warning mt-2"
             href="https://forms.gle/EJWqRyfLTUTV58Dp9"
             target="_blank"
             rel="noreferrer noopener"
           >
-            Report Error Links
+            <i class="fa fa-flag" /> Report Error Links
           </a>
         </div>
       </div>
