@@ -1,7 +1,7 @@
 const path = require("path")
-const OuoPromise = require("ouo-promise");
+const OuoPromise = require("ouo-promise")
 
-const ouo = new OuoPromise("zPdQ4s7s");
+const ouo = new OuoPromise("zPdQ4s7s")
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -10,9 +10,9 @@ exports.createPages = ({ actions, graphql }) => {
   const groupTemplate = path.resolve("src/templates/groupTemplate.js")
 
   const groupPagesConfig = [
-    { name: 'Sakamichi', tags: ['Nogizaka46', 'Keyakizaka46', 'Hinatazaka46'] },
-    { name: 'Music', tags: ['Music', 'Musician'] }
-  ];
+    { name: "Sakamichi", tags: ["Nogizaka46", "Keyakizaka46", "Hinatazaka46"] },
+    { name: "Music", tags: ["Music", "Musician"] },
+  ]
 
   return graphql(`
     {
@@ -36,13 +36,15 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(res.errors)
     }
     res.data.allMarkdownRemark.edges.forEach(async ({ node }) => {
-      let shortenedLink = await ouo.shortMany(node.frontmatter.link.map(i => i.url))
+      let shortenedLink = await ouo.shortMany(
+        node.frontmatter.link.map(i => i.url)
+      )
       createPage({
         path: node.frontmatter.path,
         component: postTemplate,
         context: {
-          shortenedLink: shortenedLink
-        }
+          shortenedLink: shortenedLink,
+        },
       })
     })
     res.data.allMarkdownRemark.distinct.forEach(tag => {
@@ -55,14 +57,14 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
     groupPagesConfig.forEach(group => {
-      console.log(group);
+      console.log(group)
       createPage({
         path: `/${group.name.toLowerCase()}`,
         component: groupTemplate,
         context: {
           name: group.name,
-          tags: group.tags
-        }
+          tags: group.tags,
+        },
       })
     })
   })
