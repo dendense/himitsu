@@ -2,20 +2,13 @@ import React from "react"
 import { Link } from "gatsby"
 import { Navbar, Nav } from "react-bootstrap"
 
-import LogoHimitsu from "../images/himitsu-logo.png"
+import IconText from "./IconText"
 
-const Navigation = ({ tags }) => (
+const Navigation = () => (
   <Navbar expand="lg" bg="dark" variant="dark">
     <Link to="/">
       <Navbar.Brand>
-        <img
-          alt="Himitsu Project"
-          src={LogoHimitsu}
-          width="30"
-          height="30"
-          className="d-inline-block align-top mr-2"
-        />
-        HIMITSU PROJECT
+        <IconText>HIMITSU PROJECT</IconText>
       </Navbar.Brand>
     </Link>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -28,7 +21,11 @@ const Navigation = ({ tags }) => (
         >
           Sakamichi Series
         </Link>
-        <Link className="nav-link" activeClassName="nav-link active" to="/48groups">
+        <Link
+          className="nav-link"
+          activeClassName="nav-link active"
+          to="/48groups"
+        >
           48 Groups
         </Link>
         <Link
@@ -38,7 +35,11 @@ const Navigation = ({ tags }) => (
         >
           Underground
         </Link>
-        <Link className="nav-link" activeClassName="nav-link active" to="/music">
+        <Link
+          className="nav-link"
+          activeClassName="nav-link active"
+          to="/music"
+        >
           Music
         </Link>
       </Nav>

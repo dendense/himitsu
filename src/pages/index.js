@@ -2,9 +2,9 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
+import SEO from "../components/Seo"
 import PostGrid from "../fragments/PostGrid"
 import TwoPartStyled from "../fragments/twoPartStyle"
-import SEO from "../components/Seo"
 import Hero from "../components/Hero"
 
 const Home = ({ data }) => (
@@ -13,7 +13,7 @@ const Home = ({ data }) => (
     <SEO title="Homepage" />
     <div className="mt-3">
       <Hero />
-      <TwoPartStyled data={data} />
+      <TwoPartStyled leftlabel="Music" rightlabel="Hinatazaka46" data={data} />
       <div className="mt-3">
         <PostGrid data={data.fragment1.nodes} col={4} />
       </div>

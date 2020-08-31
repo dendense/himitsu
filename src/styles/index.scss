@@ -1,4 +1,5 @@
 @import "../../node_modules/bootstrap/dist/css/bootstrap.css";
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 
 @import "./blogTemplate";
@@ -6,3 +7,13 @@
 @import "./postComponent";
 @import "./404";
 @import "./sidebarComponent";
+
+.himitsu-icontext {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 800;
+}
+
+.himitsu-body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+}
