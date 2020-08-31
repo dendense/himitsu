@@ -1,12 +1,12 @@
 .facebook {
-    border-radius: 5px 0 0 5px;
+    border-radius: 0;
     background: #4267B2;
     color: white;
     height: 80px;
 }
 
 .discord {
-    border-radius: 0 5px 5px 0;
+    border-radius: 0;
     background: #7289da;
     color: white;
     height: 80px;
@@ -17,5 +17,13 @@
 }
 
 .discord:hover {
+    opacity: 0.7;
+}
+
+.btn-donation {
+    background: #FF5147;
+}
+
+.btn-donation:hover {
     opacity: 0.7;
 }

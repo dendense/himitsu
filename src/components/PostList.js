@@ -3,13 +3,13 @@ import { Link } from "gatsby"
 
 import "../styles/index.scss"
 
-const PostSmall = ({ title, path, image2 }) => (
+const PostSmall = ({ title, path, image2, alt }) => (
   <li className="list-group-item">
     <div className="row">
       <div className="col d-flex align-items-center">
         <img
           src={image2}
-          alt="nogizaka46"
+          alt={alt}
           style={{ height: "35px" }}
           className="mr-2"
         />
