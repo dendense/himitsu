@@ -14,7 +14,7 @@ const Home = ({ data }) => (
     <div className="mt-3">
       <Hero />
       <TwoPartStyled leftlabel="Music" rightlabel="Hinatazaka46" data={data} />
-      <div className="mt-3">
+      <div className="mt-3 pl-3 pr-3">
         <PostGrid data={data.fragment1.nodes} col={4} />
       </div>
     </div>
