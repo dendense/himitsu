@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { Link, graphql, StaticQuery } from "gatsby"
 import { Disqus, CommentCount } from "gatsby-plugin-disqus"
 
 import "../styles/index.scss"
@@ -21,78 +21,89 @@ export default function Template({ data, pageContext }) {
   }
 
   return (
-    <Layout>
-      <SEO title={title} keyword={("Idols", "Music" + title)} />
-      <div className="row mt-3">
-        <div className="col-md-8">
-          <div className="content-bar">
-            <h1>{title}</h1>
-            <p>
-              Posted by {author} on {date} |{" "}
-              <CommentCount config={disqusConfig} />
-            </p>
-            <div dangerouslySetInnerHTML={{ __html: post.html }} />
-            {link.length > 0 && (
-              <div className="card mx-auto mt-4" style={{ maxWidth: "600px" }}>
-                <div className="card-header text-center">
-                  Downloadable Content
+    <StaticQuery
+      query={graphql`
+        query BlogPerPosts($path: String!) {
+          markdownRemark(frontmatter: { path: { eq: $path } }) {
+            frontmatter {
+              author
+              date
+              title
+              path
+              tags
+              link {
+                label
+                url
+              }
+            }
+            html
+          }
+        }
+      `}
+      render={data => (
+        <Layout>
+          <SEO title={title} keyword={("Idols", "Music" + title)} />
+          <div className="row mt-3">
+            <div className="col-md-8">
+              <div className="content-bar">
+                <h1>{title}</h1>
+                <p>
+                  Posted by {author} on {date} |{" "}
+                  <CommentCount config={disqusConfig} />
+                </p>
+                <div dangerouslySetInnerHTML={{ __html: post.html }} />
+                {link.length > 0 && (
+                  <div
+                    className="card mx-auto mt-4"
+                    style={{ maxWidth: "600px" }}
+                  >
+                    <div className="card-header text-center">
+                      Downloadable Content
+                    </div>
+                    {link.map((i, index) => {
+                      return (
+                        <li
+                          key={i.label}
+                          className="list-group-item text-center"
+                        >
+                          <span className="font-weight-bold mr-2">
+                            [{i.label}]
+                          </span>
+                          <a
+                            href={shortenedLink[index]}
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            {shortenedLink[index]}
+                          </a>
+                        </li>
+                      )
+                    })}
+                  </div>
+                )}
+                <div style={{ marginTop: "2rem" }}>
+                  Tags :{" "}
+                  {tags.map(tag => (
+                    <div className="mr-1 d-inline-flex" key={tag}>
+                      <Link to={`/tag/${slugify(tag)}`}>
+                        <span className="badge badge-secondary text-uppercase">
+                          {tag}
+                        </span>
+                      </Link>
+                    </div>
+                  ))}
                 </div>
-                {link.map((i, index) => {
-                  return (
-                    <li key={i.label} className="list-group-item text-center">
-                      <span className="font-weight-bold mr-2">[{i.label}]</span>
-                      <a
-                        href={shortenedLink[index]}
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        {shortenedLink[index]}
-                      </a>
-                    </li>
-                  )
-                })}
+                <div style={{ marginTop: "3rem" }}>
+                  <Disqus config={disqusConfig} />
+                </div>
               </div>
-            )}
-            <div style={{ marginTop: "2rem" }}>
-              Tags :{" "}
-              {tags.map(tag => (
-                <div className="mr-1 d-inline-flex" key={tag}>
-                  <Link to={`/tag/${slugify(tag)}`}>
-                    <span className="badge badge-secondary text-uppercase">
-                      {tag}
-                    </span>
-                  </Link>
-                </div>
-              ))}
             </div>
-            <div style={{ marginTop: "3rem" }}>
-              <Disqus config={disqusConfig} />
+            <div className="col-md-4">
+              <Sidebar />
             </div>
           </div>
-        </div>
-        <div className="col-md-4">
-          <Sidebar />
-        </div>
-      </div>
-    </Layout>
+        </Layout>
+      )}
+    />
   )
 }
-
-export const postQuery = graphql`
-  query BlogPerPosts($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
-      frontmatter {
-        author
-        date
-        title
-        path
-        tags
-        link {
-          label
-          url
-        }
-      }
-      html
-    }
-  }
-`
