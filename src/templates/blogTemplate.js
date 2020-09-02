@@ -79,7 +79,7 @@ export default function Template({ data, pageContext }) {
 }
 
 export const postQuery = graphql`
-  query BlogPosts($path: String!) {
+  query BlogPerPosts($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       frontmatter {
         author
