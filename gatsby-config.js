@@ -6,7 +6,7 @@ module.exports = {
       summary: `Creating & Develop Something.`,
     },
     description: `Idols Core Place, Expand Your Needs!`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://trusting-ramanujan-9ad5e0.netlify.app`,
     social: {
       instagram: `deny_desu`,
     },
@@ -59,8 +59,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Himitsu Project`,
+        short_name: `Himitsu`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

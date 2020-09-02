@@ -10,10 +10,10 @@ export default function Hero() {
   ]
   return (
     <div className="container-fluid">
-      <Carousel interval="2500">
-        {DataNews.map(x => {
+      <Carousel interval={2500}>
+        {DataNews.map((x, i) => {
           return (
-            <Carousel.Item>
+            <Carousel.Item key={i}>
               <img className="d-block w-100" src={x.img} alt={x.alt} />
             </Carousel.Item>
           )
