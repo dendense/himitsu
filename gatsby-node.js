@@ -37,20 +37,20 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(res.errors)
     }
     // index containing blog list with pagination
-    const totalItems = res.data.allMarkdownRemark.edges.length;
-    const itemsPerPage = 8;
-    const totalPages = Math.ceil(totalItems / itemsPerPage);
-    console.log(totalItems, itemsPerPage, totalPages);
+    const totalItems = res.data.allMarkdownRemark.edges.length
+    const itemsPerPage = 8
+    const totalPages = Math.ceil(totalItems / itemsPerPage)
+    console.log(totalItems, itemsPerPage, totalPages)
     Array.from({ length: totalPages }).forEach((val, i) => {
       createPage({
-        path: i===0 ? '/' : `/index/${i+1}`,
+        path: i === 0 ? "/" : `/index/${i + 1}`,
         component: indexTemplate,
         context: {
           limit: itemsPerPage,
           skip: i * itemsPerPage,
           totalPages: totalPages,
-          currentPage: i+1
-        }
+          currentPage: i + 1,
+        },
       })
     })
     // blog post

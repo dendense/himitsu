@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout"
-import PostGrid from "../fragments/PostGrid";
+import PostGrid from "../fragments/PostGrid"
 import SEO from "../components/Seo"
 
 export default function Template({ data, pageContext }) {
