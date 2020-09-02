@@ -5,7 +5,7 @@ import Layout from "../components/Layout"
 import PostGrid from "../fragments/PostGrid"
 import SEO from "../components/Seo"
 
-export default function Template({ data, pageContext }) {
+export default function tagsTemplate({ data, pageContext }) {
   const { tags } = pageContext
   return (
     <Layout>
