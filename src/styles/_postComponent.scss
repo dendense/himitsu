@@ -3,6 +3,30 @@
 }
 
 .post-list {
-    overflow-y: auto;
-    height: 300px;
+    overflow-x: auto;
+}
+
+.container-leftpart {
+    width: 100%;
+}
+
+.container-rightpart {
+    width: 100%;
+    padding-top: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .container-leftpart {
+        width: 50%;
+    }
+
+    .container-rightpart {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-rightpart {
+        padding-top: 1rem;
+    }
 }

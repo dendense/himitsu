@@ -14,7 +14,7 @@ const Home = ({ data }) => (
     <div className="mt-3">
       <Hero />
       <TwoPartStyled leftlabel="Music" rightlabel="Hinatazaka46" data={data} />
-      <div className="mt-3">
+      <div className="mt-3 pl-3 pr-3">
         <PostGrid data={data.fragment1.nodes} col={4} />
       </div>
     </div>
@@ -48,6 +48,7 @@ export const AllBlogsQuery = graphql`
     }
     fragment2: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Music"] } } }
+      limit: 5
     ) {
       edges {
         node {
@@ -68,6 +69,7 @@ export const AllBlogsQuery = graphql`
     }
     fragment3: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Hinatazaka46"] } } }
+      limit: 5
     ) {
       edges {
         node {
