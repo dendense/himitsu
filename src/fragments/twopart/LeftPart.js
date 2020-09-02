@@ -7,12 +7,12 @@ import "../../styles/index.scss"
 
 export default function LeftPartTags(props) {
   return (
-    <div className="col-md">
-      <div className="row">
-        <div className="col d-flex align-items-center">
+    <div className="container-fluid container-leftpart">
+      <div className="row row-leftpart">
+        <div className="col-sm-8">
           <h3>{props.showtags}</h3>
         </div>
-        <div className="col-sm-auto d-flex align-items-center">
+        <div className="col-sm-4">
           <Link to={`/tag/${slugify(props.showtags)}`}>
             <span className="btn btn-primary btn-sm">View More</span>
           </Link>

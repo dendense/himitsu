@@ -9,7 +9,7 @@ const Navigation = () => (
   <Navbar expand="lg" className="himitsu-navbar">
     <Link to="/">
       <Navbar.Brand>
-        <IconText SingleIcon="H">HIMITSU PROJECT</IconText>
+        <IconText TextIcon="H">HIMITSU PROJECT</IconText>
       </Navbar.Brand>
     </Link>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />

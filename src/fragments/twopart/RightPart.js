@@ -9,10 +9,10 @@ export default function RightPartTags(props) {
   return (
     <div className="col-md">
       <div className="row">
-        <div className="col d-flex align-items-center">
+        <div className="col-sm d-flex align-items-center">
           <h3>{props.showtags}</h3>
         </div>
-        <div className="col-sm-auto d-flex align-items-center">
+        <div className="col-auto d-flex align-items-center">
           <Link to={`/tag/${slugify(props.showtags)}`}>
             <span className="btn btn-primary btn-sm">View More</span>
           </Link>

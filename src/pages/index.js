@@ -48,6 +48,7 @@ export const AllBlogsQuery = graphql`
     }
     fragment2: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Music"] } } }
+      limit: 5
     ) {
       edges {
         node {
@@ -68,6 +69,7 @@ export const AllBlogsQuery = graphql`
     }
     fragment3: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Hinatazaka46"] } } }
+      limit: 5
     ) {
       edges {
         node {
