@@ -9,12 +9,14 @@ export default function LeftPartTags(props) {
   return (
     <div className="container-fluid container-leftpart">
       <div className="row row-leftpart">
-        <div className="col-sm-8">
-          <h3>{props.showtags}</h3>
+        <div className="col d-flex align-items-center">
+          <h4>{props.showtags}</h4>
         </div>
-        <div className="col-sm-4">
+        <div className="col">
           <Link to={`/tag/${slugify(props.showtags)}`}>
-            <span className="btn btn-primary btn-sm">View More</span>
+            <span className="btn btn-primary btn-sm float-right">
+              View More
+            </span>
           </Link>
         </div>
       </div>

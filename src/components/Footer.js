@@ -11,7 +11,7 @@ export default function Footer(props) {
           <IconText TextIcon="H">HIMITSU MEDIA</IconText>
         </div>
         <div class="col-auto p-1">
-          <IconText TextIcon="❤️">Made With Love</IconText>
+          <IconText TextIcon="💖">Made With Love</IconText>
         </div>
       </div>
     </div>

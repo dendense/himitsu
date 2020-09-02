@@ -7,14 +7,16 @@ import "../../styles/index.scss"
 
 export default function RightPartTags(props) {
   return (
-    <div className="col-md">
-      <div className="row">
-        <div className="col-sm d-flex align-items-center">
-          <h3>{props.showtags}</h3>
+    <div className="container-fluid container-rightpart">
+      <div className="row row-rightpart">
+        <div className="col d-flex align-items-center">
+          <h4>{props.showtags}</h4>
         </div>
-        <div className="col-auto d-flex align-items-center">
+        <div className="col">
           <Link to={`/tag/${slugify(props.showtags)}`}>
-            <span className="btn btn-primary btn-sm">View More</span>
+            <span className="btn btn-primary btn-sm float-right">
+              View More
+            </span>
           </Link>
         </div>
       </div>
