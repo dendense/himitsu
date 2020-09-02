@@ -1,5 +1,5 @@
 ---
-path: "/blog/20200101-nogizaka9thsingle"
+path: "/blog/20200101-aimyonconcert"
 date: "2020-01-12"
 title: "Aimyon Tour 2019 -SIXTH SENSE STORY"
 author: "Himitsu Staff"
