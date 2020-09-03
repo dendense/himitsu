@@ -48,7 +48,7 @@ const Sidebar = () => {
             Advertisement
           </div>
           <img
-            src="http://via.placeholder.com/320x200"
+            src="https://via.placeholder.com/320x200"
             alt="Advertise"
             style={{ width: "100%" }}
           />
