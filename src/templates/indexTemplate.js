@@ -1,11 +1,12 @@
 import React from "react"
 import { graphql, navigate } from "gatsby"
+import { Pagination } from "react-bootstrap"
+
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import Hero from "../components/Hero"
 import TwoPartStyle from "../fragments/twoPartStyle"
 import PostGrid from "../fragments/PostGrid"
-import { Pagination } from "react-bootstrap"
 
 export default function indexTemplate({ data, pageContext }) {
   const { totalPages, currentPage } = pageContext
@@ -18,7 +19,12 @@ export default function indexTemplate({ data, pageContext }) {
         <Hero />
         <TwoPartStyle leftlabel="Music" rightlabel="Hinatazaka46" data={data} />
         <div className="mt-3">
-          <PostGrid data={data.fragment1.nodes} col={4} />
+          <PostGrid
+            sideGap="1rem"
+            titlePart="Latest Posts"
+            data={data.fragment1.nodes}
+            col={4}
+          />
           <div className="d-flex justify-content-center p-4">
             <Pagination>
               <Pagination.First />
@@ -73,6 +79,7 @@ export const IndexQuery = graphql`
     fragment2: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Music"] } } }
       limit: 5
+      sort: { order: DESC, fields: frontmatter___date }
     ) {
       edges {
         node {
@@ -94,6 +101,7 @@ export const IndexQuery = graphql`
     fragment3: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Hinatazaka46"] } } }
       limit: 5
+      sort: { order: DESC, fields: frontmatter___date }
     ) {
       edges {
         node {

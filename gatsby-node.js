@@ -6,7 +6,7 @@ const ouo = new OuoPromise("zPdQ4s7s")
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
   const indexTemplate = path.resolve("src/templates/indexTemplate.js")
-  const blogTemplate = path.resolve("src/templates/blogTemplate.js")
+  const postTemplate = path.resolve("src/templates/blogTemplate.js")
   const tagsTemplate = path.resolve("src/templates/tagsTemplate.js")
   const groupTemplate = path.resolve("src/templates/groupTemplate.js")
 
@@ -60,7 +60,7 @@ exports.createPages = ({ actions, graphql }) => {
       )
       createPage({
         path: node.frontmatter.path,
-        component: blogTemplate,
+        component: postTemplate,
         context: {
           shortenedLink: shortenedLink,
         },

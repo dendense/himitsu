@@ -9,7 +9,7 @@ import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
 export default function blogTemplate({ data, pageContext }) {
-  const post = data.fragmentpost
+  const post = data.markdownRemark
   const { title, author, date, link, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
 
@@ -23,15 +23,18 @@ export default function blogTemplate({ data, pageContext }) {
   return (
     <Layout>
       <SEO title={title} keyword={("Idols", "Music" + title)} />
-      <div className="row mt-3">
+      <div className="row mt-3" style={{ margin: "0.3rem" }}>
         <div className="col-md-8">
           <div className="content-bar">
             <h1>{title}</h1>
             <p>
-              Posted by {author} on {date} |{" "}
+              Posted by <b>{author}</b> on {date} |{" "}
               <CommentCount config={disqusConfig} />
             </p>
-            <div dangerouslySetInnerHTML={{ __html: post.html }} />
+            <div
+              style={{ margin: "0.5rem" }}
+              dangerouslySetInnerHTML={{ __html: post.html }}
+            />
             {link.length > 0 && (
               <div className="card mx-auto mt-4" style={{ maxWidth: "600px" }}>
                 <div className="card-header text-center">
@@ -80,10 +83,10 @@ export default function blogTemplate({ data, pageContext }) {
 
 export const blogQuery = graphql`
   query BlogPerPosts($path: String!) {
-    fragmentpost: markdownRemark(frontmatter: { path: { eq: $path } }) {
+    markdownRemark(frontmatter: { path: { eq: $path } }) {
       frontmatter {
         author
-        date
+        date(formatString: "DD MMM, YYYY")
         title
         path
         tags
