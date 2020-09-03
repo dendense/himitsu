@@ -8,7 +8,7 @@ import Layout from "../components/Layout"
 import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
-export default function Template({ data, pageContext }) {
+export default function blogTemplate({ data, pageContext }) {
   const post = data.markdownRemark
   const { title, author, date, link, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
@@ -78,7 +78,7 @@ export default function Template({ data, pageContext }) {
   )
 }
 
-export const postQuery = graphql`
+export const blogQuery = graphql`
   query BlogPerPosts($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       frontmatter {
