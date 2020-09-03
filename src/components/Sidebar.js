@@ -54,7 +54,7 @@ const Sidebar = () => {
           />
         </div>
       </div>
-      <div className="card bg-light">
+      <div className="card bg-light" style={{ marginBottom: "1rem" }}>
         <div className="card-body">
           <a
             type="link"
