@@ -8,8 +8,28 @@ import Layout from "../components/Layout"
 import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
-export default function blogTemplate({ data, pageContext }) {
-  const post = data.fragmentpost
+export const blogperpostQuery = graphql`
+  query BlogPosts($path: String!) {
+    markdownRemark(frontmatter: { path: { eq: $path } }) {
+      frontmatter {
+        author
+        date(formatString: "DD MMMM, YYYY")
+        title
+        description
+        tags
+        path
+        link {
+          label
+          url
+        }
+      }
+      html
+    }
+  }
+`
+
+export default function postTemplate({ data, pageContext }) {
+  const post = data.markdownRemark
   const { title, author, date, link, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
 
@@ -19,10 +39,9 @@ export default function blogTemplate({ data, pageContext }) {
     title: title,
     identifier: path.split("/").slice(-1)[0],
   }
-
   return (
     <Layout>
-      <SEO title={title} keyword={("Idols", "Music" + title)} />
+      <SEO title={title} keyword={("Idols", tags, title)} />
       <div className="row mt-3">
         <div className="col-md-8">
           <div className="content-bar">
@@ -44,7 +63,7 @@ export default function blogTemplate({ data, pageContext }) {
                       <a
                         href={shortenedLink[index]}
                         target="_blank"
-                        rel="noreferrer"
+                        rel="noreferrer noopener"
                       >
                         {shortenedLink[index]}
                       </a>
@@ -77,22 +96,3 @@ export default function blogTemplate({ data, pageContext }) {
     </Layout>
   )
 }
-
-export const blogQuery = graphql`
-  query BlogPerPosts($path: String!) {
-    fragmentpost: markdownRemark(frontmatter: { path: { eq: $path } }) {
-      frontmatter {
-        author
-        date
-        title
-        path
-        tags
-        link {
-          label
-          url
-        }
-      }
-      html
-    }
-  }
-`
