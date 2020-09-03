@@ -19,11 +19,10 @@ export default function blogTemplate({ data, pageContext }) {
     title: title,
     identifier: path.split("/").slice(-1)[0],
   }
-
   return (
     <Layout>
-      <SEO title={title} keyword={("Idols", "Music" + title)} />
-      <div className="row mt-3" style={{ margin: "0.3rem" }}>
+      <SEO title={title} keyword={("Idols", tags, title)} />
+      <div className="row mt-3">
         <div className="col-md-8">
           <div className="content-bar">
             <h1>{title}</h1>
@@ -47,7 +46,7 @@ export default function blogTemplate({ data, pageContext }) {
                       <a
                         href={shortenedLink[index]}
                         target="_blank"
-                        rel="noreferrer"
+                        rel="noreferrer noopener"
                       >
                         {shortenedLink[index]}
                       </a>
