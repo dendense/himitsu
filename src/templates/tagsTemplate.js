@@ -10,10 +10,10 @@ export default function tagsTemplate({ data, pageContext }) {
   return (
     <Layout>
       <SEO title={"Tags " + tags} keyword={tags} />
-      <div className="mt-3">
+      <div className="mt-3" style={{ marginBottom: "1rem" }}>
         <h1>Post with tags {tags}</h1>
-        <div class="container">
-          <PostGrid data={data.allMarkdownRemark.nodes} col={3} />
+        <div class="container-fluid">
+          <PostGrid data={data.allMarkdownRemark.nodes} col={4} />
         </div>
       </div>
     </Layout>

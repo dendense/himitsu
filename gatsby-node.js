@@ -66,6 +66,19 @@ exports.createPages = ({ actions, graphql }) => {
         },
       })
     })
+    // blog post
+    res.data.allMarkdownRemark.edges.forEach(async ({ node }) => {
+      let shortenedLink = await ouo.shortMany(
+        node.frontmatter.link.map(i => i.url)
+      )
+      createPage({
+        path: node.frontmatter.path,
+        component: postTemplate,
+        context: {
+          shortenedLink: shortenedLink,
+        },
+      })
+    })
     // tag page (music, musician, nogi, concert, dll)
     res.data.allMarkdownRemark.distinct.forEach(tag => {
       createPage({

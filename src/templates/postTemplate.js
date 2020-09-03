@@ -8,27 +8,7 @@ import Layout from "../components/Layout"
 import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
-export const blogperpostQuery = graphql`
-  query BlogPosts($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
-      frontmatter {
-        author
-        date(formatString: "DD MMMM, YYYY")
-        title
-        description
-        tags
-        path
-        link {
-          label
-          url
-        }
-      }
-      html
-    }
-  }
-`
-
-export default function postTemplate({ data, pageContext }) {
+export default function blogTemplate({ data, pageContext }) {
   const post = data.markdownRemark
   const { title, author, date, link, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
@@ -47,10 +27,13 @@ export default function postTemplate({ data, pageContext }) {
           <div className="content-bar">
             <h1>{title}</h1>
             <p>
-              Posted by {author} on {date} |{" "}
+              Posted by <b>{author}</b> on {date} |{" "}
               <CommentCount config={disqusConfig} />
             </p>
-            <div dangerouslySetInnerHTML={{ __html: post.html }} />
+            <div
+              style={{ margin: "0.5rem" }}
+              dangerouslySetInnerHTML={{ __html: post.html }}
+            />
             {link.length > 0 && (
               <div className="card mx-auto mt-4" style={{ maxWidth: "600px" }}>
                 <div className="card-header text-center">
@@ -96,3 +79,22 @@ export default function postTemplate({ data, pageContext }) {
     </Layout>
   )
 }
+
+export const blogQuery = graphql`
+  query BlogPerPosts($path: String!) {
+    markdownRemark(frontmatter: { path: { eq: $path } }) {
+      frontmatter {
+        author
+        date(formatString: "DD MMM, YYYY")
+        title
+        path
+        tags
+        link {
+          label
+          url
+        }
+      }
+      html
+    }
+  }
+`
