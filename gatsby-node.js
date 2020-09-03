@@ -6,7 +6,7 @@ const ouo = new OuoPromise("zPdQ4s7s")
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
   const indexTemplate = path.resolve("src/templates/indexTemplate.js")
-  const blogTemplate = path.resolve("src/templates/blogTemplate.js")
+  const postTemplate = path.resolve("src/templates/postTemplate.js")
   const tagsTemplate = path.resolve("src/templates/tagsTemplate.js")
   const groupTemplate = path.resolve("src/templates/groupTemplate.js")
 
@@ -16,7 +16,7 @@ exports.createPages = ({ actions, graphql }) => {
   ]
 
   return graphql(`
-    {
+    query HimitsuStructure {
       allMarkdownRemark {
         edges {
           node {
@@ -36,6 +36,19 @@ exports.createPages = ({ actions, graphql }) => {
     if (res.errors) {
       return Promise.reject(res.errors)
     }
+    // blog post
+    res.data.allMarkdownRemark.edges.forEach(async ({ node }) => {
+      let shortenedLink = await ouo.shortMany(
+        node.frontmatter.link.map(i => i.url)
+      )
+      createPage({
+        path: node.frontmatter.path,
+        component: postTemplate,
+        context: {
+          shortenedLink: shortenedLink,
+        },
+      })
+    })
     // index containing blog list with pagination
     const totalItems = res.data.allMarkdownRemark.edges.length
     const itemsPerPage = 8
@@ -50,19 +63,6 @@ exports.createPages = ({ actions, graphql }) => {
           skip: i * itemsPerPage,
           totalPages: totalPages,
           currentPage: i + 1,
-        },
-      })
-    })
-    // blog post
-    res.data.allMarkdownRemark.edges.forEach(async ({ node }) => {
-      let shortenedLink = await ouo.shortMany(
-        node.frontmatter.link.map(i => i.url)
-      )
-      createPage({
-        path: node.frontmatter.path,
-        component: blogTemplate,
-        context: {
-          shortenedLink: shortenedLink,
         },
       })
     })
