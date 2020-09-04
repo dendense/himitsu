@@ -36,19 +36,6 @@ exports.createPages = ({ actions, graphql }) => {
     if (res.errors) {
       return Promise.reject(res.errors)
     }
-    // blog post
-    res.data.allMarkdownRemark.edges.forEach(async ({ node }) => {
-      let shortenedLink = await ouo.shortMany(
-        node.frontmatter.link.map(i => i.url)
-      )
-      createPage({
-        path: node.frontmatter.path,
-        component: postTemplate,
-        context: {
-          shortenedLink: shortenedLink,
-        },
-      })
-    })
     // index containing blog list with pagination
     const totalItems = res.data.allMarkdownRemark.edges.length
     const itemsPerPage = 8
