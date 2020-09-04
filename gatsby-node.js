@@ -1,9 +1,9 @@
 const path = require("path")
-const OuoPromise = require("ouo-promise")
 
+const OuoPromise = require("ouo-promise")
 const ouo = new OuoPromise("zPdQ4s7s")
 
-exports.createPages = ({ actions, graphql }) => {
+exports.createPages = async function ({ actions, graphql }) {
   const { createPage } = actions
   const indexTemplate = path.resolve("src/templates/indexTemplate.js")
   const postTemplate = path.resolve("src/templates/postTemplate.js")
@@ -15,7 +15,7 @@ exports.createPages = ({ actions, graphql }) => {
     { name: "Music", tags: ["Music", "Musician"] },
   ]
 
-  return graphql(`
+  await graphql(`
     query HimitsuStructure {
       allMarkdownRemark {
         edges {
