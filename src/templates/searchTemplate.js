@@ -30,7 +30,7 @@ export default function SearchTemplate({ data }) {
         setState({ query, filteredData })
     }
 
-    const { filteredData } = state
+    const { filteredData, query } = state
     const posts = filteredData
 
     return (
@@ -43,7 +43,7 @@ export default function SearchTemplate({ data }) {
                         onChange={handleSearch} />
                 </div>
                 <ul className="list-group post-list">
-                    {posts.map(post => {
+                    {query && posts.slice(0, 4).map(post => {
                         const { title, path } = post.frontmatter
                         const image2 = post.frontmatter.image2.childImageSharp.fluid.src
                         return (
@@ -55,6 +55,13 @@ export default function SearchTemplate({ data }) {
                             />
                         )
                     })}
+                    {!query && (
+                        <div className="font-weight-bold text-center text-muted"
+                            style={{ fontSize: '1.5rem', padding: '100px 0px' }}
+                        >
+                            No Result
+                        </div>
+                    )}
                 </ul>
             </div>
         </Layout>
