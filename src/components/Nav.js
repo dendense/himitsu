@@ -44,6 +44,11 @@ const Navigation = () => (
           Music
         </Link>
       </Nav>
+      <div>
+        <Link className="nav-link" style={{ cursor: 'pointer' }} to="/search" activeClassName="nav-link active">
+          <i className="fa fa-search"></i>
+        </Link>
+      </div>
     </Navbar.Collapse>
   </Navbar>
 )
