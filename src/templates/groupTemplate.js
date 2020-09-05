@@ -11,7 +11,7 @@ export default function groupTemplate({ data, pageContext }) {
     <Layout>
       <SEO title={name} keyword={name} />
       <h1>{name}</h1>
-      <div className="container">
+      <div className="container-fluid">
         <PostGrid data={data.allMarkdownRemark.nodes} col={3} />
       </div>
     </Layout>

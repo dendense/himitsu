@@ -8,7 +8,6 @@ import TwoPartStyle from "../fragments/twoPartStyle"
 import PostGrid from "../fragments/PostGrid"
 
 export default function indexTemplate({ data }) {
-
   return (
     <Layout>
       <SEO title="Homepage" />
@@ -37,7 +36,7 @@ export const IndexQuery = graphql`
   query IndexQuery {
     fragment1: allMarkdownRemark(
       sort: { order: DESC, fields: frontmatter___date }
-    limit: 8
+      limit: 8
     ) {
       nodes {
         frontmatter {

@@ -35,21 +35,21 @@ exports.createPages = async ({ actions, graphql }) => {
   `)
 
   for (let edge of data_graphql.data.allMarkdownRemark.edges) {
-    let { node } = edge;
+    let { node } = edge
     let shortenedLink = await ouo.shortMany(
       node.frontmatter.link.map(i => i.url)
-    );
+    )
     createPage({
       path: node.frontmatter.path,
       component: postTemplate,
       context: {
-        shortenedLink: shortenedLink
-      }
-    });
+        shortenedLink: shortenedLink,
+      },
+    })
   }
 
-  const totalItems = data_graphql.data.allMarkdownRemark.edges.length;
-  const itemsPerPage = 8
+  const totalItems = data_graphql.data.allMarkdownRemark.edges.length
+  const itemsPerPage = 12
   const totalPages = Math.ceil(totalItems / itemsPerPage)
   Array.from({ length: totalPages }).forEach((val, i) => {
     createPage({

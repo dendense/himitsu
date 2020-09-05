@@ -17,7 +17,7 @@ export default function pageTemplate({ data, pageContext }) {
         <div className="mt-3">
           <PostGrid
             sideGap="1rem"
-            titlePart="Posts"
+            titlePart="All Posts"
             data={data.allMarkdownRemark.nodes}
             col={4}
           />
