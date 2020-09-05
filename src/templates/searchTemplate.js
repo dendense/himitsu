@@ -30,7 +30,7 @@ export default function SearchTemplate({ data }) {
         setState({ query, filteredData })
     }
 
-    const { filteredData, query } = state
+    const { filteredData } = state
     const posts = filteredData
 
     return (
