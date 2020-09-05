@@ -1,6 +1,5 @@
 import React from "react"
-import { graphql, navigate } from "gatsby"
-import { Pagination } from "react-bootstrap"
+import { graphql, Link } from "gatsby"
 
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
@@ -8,10 +7,7 @@ import Hero from "../components/Hero"
 import TwoPartStyle from "../fragments/twoPartStyle"
 import PostGrid from "../fragments/PostGrid"
 
-export default function indexTemplate({ data, pageContext }) {
-  const { totalPages, currentPage } = pageContext
-  // const itemsPerPage = pageContext.limit;
-
+export default function indexTemplate({ data }) {
   return (
     <Layout>
       <SEO title="Homepage" />
@@ -25,38 +21,22 @@ export default function indexTemplate({ data, pageContext }) {
             data={data.fragment1.nodes}
             col={4}
           />
-          <div className="d-flex justify-content-center p-4">
-            <Pagination>
-              <Pagination.First />
-              {Array.from({ length: totalPages }).map((_, i) => {
-                let url = i === 0 ? "/" : `/index/${i + 1}`
-                return (
-                  <Pagination.Item
-                    active={i + 1 === currentPage}
-                    onClick={() => {
-                      navigate(url)
-                    }}
-                    key={i + 1}
-                  >
-                    {i + 1}
-                  </Pagination.Item>
-                )
-              })}
-              <Pagination.Last />
-            </Pagination>
-          </div>
         </div>
+      </div>
+      <div class="text-center my-4">
+        <Link to="/page/1">
+          <button class="btn btn-primary">Load more</button>
+        </Link>
       </div>
     </Layout>
   )
 }
 
 export const IndexQuery = graphql`
-  query AllBlogPosts($skip: Int!, $limit: Int!) {
+  query IndexQuery {
     fragment1: allMarkdownRemark(
       sort: { order: DESC, fields: frontmatter___date }
-      limit: $limit
-      skip: $skip
+      limit: 8
     ) {
       nodes {
         frontmatter {

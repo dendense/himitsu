@@ -1,19 +1,15 @@
 import React from "react"
 import Post from "../components/Post"
 
+import "../styles/index.scss"
+
 export default function PostGrid(props) {
   return (
     <div style={{ margin: props.sideGap }}>
       <h4>{props.titlePart}</h4>
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: `repeat(${props.col || 3}, 1fr)`,
-          gap: "30px",
-        }}
-      >
+      <div className={`row row-cols-1 row-cols-md-${props.col}`}>
         {props.data.map(i => (
-          <div key={i.frontmatter.path}>
+          <div key={i.frontmatter.path} className="col mb-4">
             <Post
               key={i.frontmatter.path}
               title={i.frontmatter.title}
