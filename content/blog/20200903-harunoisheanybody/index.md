@@ -3,7 +3,7 @@ path: "/blog/20200903-HarunoISSHEANYBODY"
 date: "2020-09-03"
 title: "[ALBUM] Haruno - IS SHE ANYBODY"
 author: "SakuMyao"
-description: "Haruno - IS SHE ANYBODY Album released. Recomended Music!"
+description: "Haruno - IS SHE ANYBODY Album released. Recommended Music!"
 tags: ["Music", "Musician"]
 image: image.jpg
 image2: "../../assets/badges/musician.png"
