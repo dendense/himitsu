@@ -20,7 +20,7 @@ export default function groupTemplate({ data, pageContext }) {
       <SEO title={name} keyword={name} />
       <h1>{name}</h1>
       <div className="container-fluid">
-        <PostGrid data={posts} col={3} />
+        <PostGrid data={posts} col={4} />
       </div>
     </Layout>
   )

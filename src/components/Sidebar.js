@@ -1,6 +1,8 @@
 import React from "react"
+import { StaticQuery, graphql } from "gatsby"
 
 import "../styles/index.scss"
+import PostList from "../components/PostList"
 import DiscordImage from "../images/discord.png"
 import FacebookImage from "../images/facebook.png"
 
@@ -40,6 +42,44 @@ const Sidebar = () => {
               </a>
             </div>
           </div>
+        </div>
+      </div>
+      <div className="card mb-3">
+        <div className="card-header">
+          <h5>Featured Post</h5>
+        </div>
+        <div className="card-body">
+          <StaticQuery
+            query={graphql`
+              {
+                allMarkdownRemark(limit: 4, sort: { fields: id }) {
+                  edges {
+                    node {
+                      frontmatter {
+                        path
+                        title
+                      }
+                    }
+                  }
+                }
+              }
+            `}
+            render={data => {
+              const _ = require("lodash")
+              const randomizePost = data.allMarkdownRemark.edges.map(post => {
+                const { title, path } = post.node.frontmatter
+                return (
+                  <PostList
+                    key={`${title}`}
+                    title={title}
+                    path={path}
+                  ></PostList>
+                )
+              })
+              let result = _.sampleSize(randomizePost, 4)
+              return <ul className="list-group post-list">{result}</ul>
+            }}
+          />
         </div>
       </div>
       <div className="card bg-dark mb-3 text-white">
