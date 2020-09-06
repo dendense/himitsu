@@ -8,7 +8,7 @@ export default function Footer(props) {
     <div class="container-fluid himitsu-footer">
       <div className="row p-3">
         <div class="col-sm p-1">
-          <IconText TextIcon="H">HIMITSU MEDIA</IconText>
+          <IconText TextIcon="H">HIMITSU TEAM</IconText>
         </div>
         <div class="col-auto p-1">
           <IconText TextIcon="💖">Made With Love</IconText>

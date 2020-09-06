@@ -7,6 +7,7 @@ description: "She Is Summer - hair salon album released. Recommended Music!"
 tags: ["Music", "Musician"]
 image: featured.png
 image2: "../../assets/badges/musician.png"
+featured: true
 link:
   [
     { label: "Google Drive", url: "https://google.com/" },

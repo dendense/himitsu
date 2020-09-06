@@ -1,3 +1,14 @@
-.notfound {
-    padding-top: 150px;
+.container-notfound {
+    display: flex;
+    height: 100vh;
+}
+
+.notfound-img {
+    max-width: 300px;
+}
+
+@media screen and (max-width: 268px) {
+    .notfound-img {
+        width: 200px;
+    }
 }
