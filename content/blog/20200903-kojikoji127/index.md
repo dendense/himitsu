@@ -7,6 +7,7 @@ description: "Kojikoji - 127 new single released. Recommended Music!"
 tags: ["Music", "Musician"]
 image: image.jpg
 image2: "../../assets/badges/musician.png"
+featured: true
 link:
   [
     { label: "Google Drive", url: "https://google.com/" },

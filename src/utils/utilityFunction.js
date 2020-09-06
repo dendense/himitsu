@@ -9,8 +9,16 @@ const slugify = function (text) {
     .replace(/-+$/, "") // Trim - from end of text
 }
 
-const truncate = function(text, length) {
-  return `${text.slice(0, length)}${text.length > length ? '...' : ''}`;
+const truncate = function (text, length) {
+  return `${text.slice(0, length)}${text.length > length ? "..." : ""}`
 }
 
-module.exports = { slugify, truncate }
+const randomize = function shuffle(a) {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
+module.exports = { slugify, truncate, randomize }

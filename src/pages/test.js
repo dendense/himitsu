@@ -6,6 +6,11 @@ import IconText from "../components/IconText"
 import "../styles/index.scss"
 
 const TestPage = ({ data }) => {
+  const _ = require("lodash")
+  let x = [1, 2, 7, 10, 13, 15]
+  let result = _.sampleSize(x, 4)
+  console.log(result)
+
   return (
     <Layout>
       <SEO title="Testing Page" />

@@ -9,6 +9,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const postTemplate = path.resolve("src/templates/postTemplate.js")
   const tagsTemplate = path.resolve("src/templates/tagsTemplate.js")
   const groupTemplate = path.resolve("src/templates/groupTemplate.js")
+  const searchTemplate = path.resolve("src/templates/searchTemplate.js")
 
   const groupPagesConfig = [
     { name: "Sakamichi", tags: ["Nogizaka46", "Keyakizaka46", "Hinatazaka46"] },
@@ -47,6 +48,11 @@ exports.createPages = async ({ actions, graphql }) => {
       },
     })
   }
+
+  createPage({
+    path: `/search`,
+    component: searchTemplate,
+  })
 
   const totalItems = data_graphql.data.allMarkdownRemark.edges.length
   const itemsPerPage = 12

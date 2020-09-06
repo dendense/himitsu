@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import "../styles/index.scss"
 
-const PostSmall = ({ title, path, image2, alt }) => (
+const PostList = ({ title, path, image2, alt }) => (
   <li className="list-group-item">
     <div className="row">
       <div className="col d-flex align-items-center">
@@ -24,4 +24,4 @@ const PostSmall = ({ title, path, image2, alt }) => (
   </li>
 )
 
-export default PostSmall
+export default PostList
