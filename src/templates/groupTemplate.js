@@ -19,11 +19,7 @@ export default function groupTemplate({ data, pageContext }) {
   return (
     <Layout>
       <SEO title={name} keyword={name} />
-      <div className="row d-flex">
-        <div className="col-auto mt-2">
-          <h2 className="group-title">Page of {name}</h2>
-        </div>
-      </div>
+      <h2 className="my-2">Page of {name}</h2>
       <div className="container-fluid">
         <PostGrid data={posts} col={4} />
       </div>

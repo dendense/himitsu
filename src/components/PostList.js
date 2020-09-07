@@ -13,7 +13,9 @@ const PostList = ({ title, path, image2, alt }) => (
           style={{ height: "35px" }}
           className="mr-2"
         />
-        <span>{title}</span>
+        <Link to={path} className="postlist-link">
+          {title}
+        </Link>
       </div>
       <div className="col-sm-auto d-flex align-items-center">
         <Link to={path} className="btn btn-outline-success btn-sm ml-1">
