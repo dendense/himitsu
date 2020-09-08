@@ -20,7 +20,10 @@ export default function tagsTemplate({ data, pageContext }) {
 
 export const tagsQuery = graphql`
   query TagsPosts($tags: String!) {
-    allMarkdownRemark(filter: { frontmatter: { tags: { eq: $tags } } }) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: frontmatter___date }
+      filter: { frontmatter: { tags: { eq: $tags } } }
+    ) {
       nodes {
         frontmatter {
           date(formatString: "DD MMMM, YYYY")

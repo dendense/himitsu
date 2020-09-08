@@ -29,7 +29,10 @@ export default function groupTemplate({ data, pageContext }) {
 
 export const GroupQuery = graphql`
   query groupQuery($tags: [String]!) {
-    allMarkdownRemark(filter: { frontmatter: { tags: { in: $tags } } }) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: frontmatter___date }
+      filter: { frontmatter: { tags: { in: $tags } } }
+    ) {
       nodes {
         frontmatter {
           title
