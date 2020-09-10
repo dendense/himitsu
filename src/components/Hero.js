@@ -1,12 +1,13 @@
 import React from "react"
+import { Link } from "gatsby"
 import { Carousel } from "react-bootstrap"
-import himitsuImage from "../assets/himitsu-news.png"
+import himitsuImage1 from "../assets/himitsu-news.png"
+import himitsuImage2 from "../assets/himitsu-news2.png"
 
 export default function Hero() {
   const DataNews = [
-    { title: "news1", img: himitsuImage, alt: "Himitsu News" },
-    { title: "news2", img: himitsuImage, alt: "Himitsu News" },
-    { title: "news3", img: himitsuImage, alt: "Himitsu News" },
+    { title: "news1", img: himitsuImage1, alt: "Himitsu News", link: "#" },
+    { title: "news2", img: himitsuImage2, alt: "Himitsu News", link: "#" },
   ]
   return (
     <div className="container-fluid">
@@ -14,7 +15,9 @@ export default function Hero() {
         {DataNews.map((x, i) => {
           return (
             <Carousel.Item key={i}>
-              <img className="d-block w-100" src={x.img} alt={x.alt} />
+              <Link to={x.link}>
+                <img className="d-block w-100" src={x.img} alt={x.alt} />
+              </Link>
             </Carousel.Item>
           )
         })}
