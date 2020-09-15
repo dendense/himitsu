@@ -8,11 +8,7 @@ tags: ["Music", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
 featured: false
-link:
-  [
-    { label: "Racaty", url: "https://google.com/" },
-    { label: "Google Drive", url: "https://yahoo.com/" },
-  ]
+link: [{ label: "Google Drive", url: "https://yahoo.com/" }]
 ---
 
 ![Hinatazaka46 - Sonna Koto Nai Yo](./image.jpg)
