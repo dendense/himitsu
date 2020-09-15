@@ -21,7 +21,7 @@ link:
 
 # Format
 
-- MP3/320/WEB
+- FLAC / Lossless / CD
 
 # Playlist
 

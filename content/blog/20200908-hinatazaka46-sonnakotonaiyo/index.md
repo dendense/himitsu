@@ -8,7 +8,25 @@ tags: ["Music", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
 featured: false
-link: [{ label: "Google Drive", url: "https://yahoo.com/" }]
+link:
+  [
+    {
+      label: "GD (Special Ed) ",
+      url: "https://drive.google.com/file/d/1Wdce3l7-PuWdnYN5mKuLgKUeY-RfG3w_/view?usp=sharing",
+    },
+    {
+      label: "GD (Type A)",
+      url: "https://drive.google.com/file/d/1ld-mIg6qOB8Ir4ajKEYEmrMZWt_L5nzI/view?usp=sharing",
+    },
+    {
+      label: "GD (Type B)",
+      url: "https://drive.google.com/file/d/1NgZnnkkW9nUbZ7x1gxhKvsyk0ILx8fcs/view?usp=sharing",
+    },
+    {
+      label: "GD (Type C)",
+      url: "https://drive.google.com/file/d/1l2TZ_d4snQuhqbUihyF9-AAc9m7tZyAQ/view?usp=sharing",
+    },
+  ]
 ---
 
 ![Hinatazaka46 - Sonna Koto Nai Yo](./image.jpg)
