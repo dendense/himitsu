@@ -10,8 +10,10 @@ image2: "../../assets/badges/chika.png"
 featured: false
 link:
   [
-    { label: "Racaty", url: "https://google.com/" },
-    { label: "Google Drive", url: "https://yahoo.com/" },
+    {
+      label: "Google Drive",
+      url: "https://drive.google.com/file/d/1fhwFtnZAJjtp9nT2yRuLtswRFcUThoBH/view?usp=sharing",
+    },
   ]
 ---
 
@@ -19,7 +21,7 @@ link:
 
 # Format
 
-- MP3/320/WEB
+- FLAC / Lossless / CD
 
 # Playlist
 
