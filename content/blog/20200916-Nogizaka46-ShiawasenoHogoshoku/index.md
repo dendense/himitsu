@@ -1,7 +1,7 @@
 ---
 path: "/blog/20200916-Nogizaka46-ShiawasenoHogoshoku"
 date: "2020-09-16"
-title: "20200916-Nogizaka46 - Shiawase no Hogoshoku"
+title: "[Single] Nogizaka46 - Shiawase no Hogoshoku"
 author: "SaikaChuu"
 description: "Nogizaka46 - Shiawase no Hogoshoku single released. Recommended Music!"
 tags: ["Music", "Nogizaka46"]
