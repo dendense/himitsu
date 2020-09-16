@@ -15,7 +15,7 @@ export default function blogTemplate({ data, pageContext }) {
 
   // pas production mode, kalau disqusconfig nya sesuain sama production nya yaa~
   const disqusConfig = {
-    // url: `himitsu.dev${path}`,
+    url: `https://himitsupro.com${path}`,
     title: title,
     identifier: path.split("/").slice(-1)[0],
   }
