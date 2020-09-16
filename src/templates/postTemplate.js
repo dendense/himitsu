@@ -9,7 +9,7 @@ import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
 export default function blogTemplate({ data, pageContext }) {
-  const siteUrl = data.siteMetadata
+  const siteUrl = data.site.siteMetadata
   const post = data.markdownRemark
   const { title, author, date, link, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
@@ -96,6 +96,11 @@ export const blogQuery = graphql`
         }
       }
       html
+    }
+    site {
+      siteMetadata {
+        siteUrl
+      }
     }
   }
 `
