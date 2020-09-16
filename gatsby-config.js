@@ -6,7 +6,7 @@ module.exports = {
       summary: `Creating & Develop Something.`,
     },
     description: `Idols Core Place, Expand Your Needs!`,
-    siteUrl: `https://trusting-ramanujan-9ad5e0.netlify.app`,
+    siteUrl: `https://himitsupro.com/`,
     social: {
       instagram: `deny_desu`,
     },
