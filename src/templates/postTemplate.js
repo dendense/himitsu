@@ -9,13 +9,14 @@ import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
 export default function blogTemplate({ data, pageContext }) {
+  const siteUrl = data.siteMetadata
   const post = data.markdownRemark
   const { title, author, date, link, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
 
   // pas production mode, kalau disqusconfig nya sesuain sama production nya yaa~
   const disqusConfig = {
-    url: `https://himitsupro.com${path}`,
+    url: `${siteUrl + path}`,
     title: title,
     identifier: path.split("/").slice(-1)[0],
   }
