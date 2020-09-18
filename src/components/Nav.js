@@ -25,16 +25,16 @@ const Navigation = () => (
         <Link
           className="nav-link text-uppercase"
           activeClassName="nav-link active"
-          to="/48groups"
+          to="/variety"
         >
-          48 Groups
+          Variety
         </Link>
         <Link
           className="nav-link text-uppercase"
           activeClassName="nav-link active"
-          to="/underground"
+          to="/concert"
         >
-          Underground
+          Concert
         </Link>
         <Link
           className="nav-link text-uppercase"
@@ -45,7 +45,12 @@ const Navigation = () => (
         </Link>
       </Nav>
       <div>
-        <Link className="nav-link" style={{ cursor: 'pointer' }} to="/search" activeClassName="nav-link active">
+        <Link
+          className="nav-link"
+          style={{ cursor: "pointer" }}
+          to="/search"
+          activeClassName="nav-link active"
+        >
           <i className="fa fa-search"></i>
         </Link>
       </div>
