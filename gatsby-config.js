@@ -6,7 +6,7 @@ module.exports = {
       summary: `Creating & Develop Something.`,
     },
     description: `Idols Core Place, Expand Your Needs!`,
-    siteUrl: `https://himitsupro.com/`,
+    siteUrl: `https://himitsupro.com`,
     social: {
       instagram: `deny_desu`,
     },
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-74413199-2`,
       },
     },
     {
