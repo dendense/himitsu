@@ -1,4 +1,4 @@
-//Post Template Style
+//Fragments TwoPart Style
 .container-leftpart {
     width: 100%;
 }
@@ -34,5 +34,13 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 30px;
+    }
+}
+
+//Post Template Style
+@media screen and (min-width: 414px) {
+    .post-body {
+        margin-left: 0;
+        margin-right: 0;
     }
 }
