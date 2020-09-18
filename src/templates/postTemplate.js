@@ -69,7 +69,7 @@ export default function blogTemplate({ data, pageContext }) {
                 </div>
               ))}
             </div>
-            <div style={{ marginTop: "3rem" }}>
+            <div style={{ marginTop: "1rem" }}>
               <Disqus config={disqusConfig} />
             </div>
           </div>
