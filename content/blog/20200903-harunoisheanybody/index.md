@@ -9,8 +9,10 @@ image: image.jpg
 image2: "../../assets/badges/musician.png"
 link:
   [
-    { label: "Google Drive", url: "https://google.com/" },
-    { label: "Racaty", url: "https://google.com/" },
+    {
+      label: "Google Drive",
+      url: "https://drive.google.com/file/d/18glHKXG93WT7-DFm7lqJmc-_DlZ3DnKj/view?usp=sharing",
+    },
   ]
 ---
 
