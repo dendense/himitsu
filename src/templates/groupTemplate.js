@@ -9,19 +9,12 @@ import Layout from "../components/Layout"
 export default function groupTemplate({ data, pageContext }) {
   const { name } = pageContext
 
-  var posts = []
-  for (let node of data.allMarkdownRemark.nodes) {
-    if (!posts.map(i => i.frontmatter.path).includes(node.frontmatter.path)) {
-      posts.push(node)
-    }
-  }
-
   return (
     <Layout>
       <SEO title={name} keyword={name} />
       <h2 className="my-2">Page of {name}</h2>
       <div className="container-fluid">
-        <PostGrid data={posts} col={4} />
+        <PostGrid data={data.allMarkdownRemark.nodes} col={4} />
       </div>
     </Layout>
   )
