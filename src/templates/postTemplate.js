@@ -24,7 +24,7 @@ export default function blogTemplate({ data, pageContext }) {
   return (
     <Layout>
       <SEO title={title} keyword={("Idols", tags, title)} />
-      <div className="row mt-3">
+      <div className="row mt-3 post-body">
         <div className="col-md-8">
           <div className="content-bar">
             <h1>{title}</h1>
