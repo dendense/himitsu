@@ -6,7 +6,7 @@ module.exports = {
       summary: `Creating & Develop Something.`,
     },
     description: `Idols Core Place, Expand Your Needs!`,
-    siteUrl: `https://himitsupro.com/`,
+    siteUrl: `https://himitsupro.com`,
     social: {
       instagram: `deny_desu`,
     },
