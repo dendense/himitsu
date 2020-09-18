@@ -79,7 +79,7 @@ export const IndexQuery = graphql`
       }
     }
     fragment3: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: ["Hinatazaka46"] } } }
+      filter: { frontmatter: { tags: { in: ["Nogizaka46"] } } }
       limit: 5
       sort: { order: DESC, fields: frontmatter___date }
     ) {
