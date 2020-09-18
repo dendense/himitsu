@@ -6,32 +6,26 @@ Project Himitsu adalah project static blog yang berisi sumber file seputar idols
 
 Kami menggunakan Framework **[GatsbyJS](https://www.gatsbyjs.com/)** yang dimana framework ini menggunakan bahasa pemrograma JavaScript dan dibangun dibawah Framework **[ReactJS](https://reactjs.org//)**.
 
-# Timeline Project
+# Timeline Project [Done Tahap 1]
 
-- Membangung server Discord
-- Membangun struktur dasar website
-- Mendesain antarmuka website
-- Membangun komponen utama
-- Merangkai struktur website
-- Uji coba tahap 1
-- Uji coba tahap 2
-- Uji coba tahap 3
-- Pemasangan website pada server
-- Rilis Beta Version
+- Membangung server Discord ✅
+- Membangun struktur dasar website ✅
+- Mendesain antarmuka website ✅
+- Membangun komponen utama ✅
+- Merangkai struktur page website ✅
+- Uji coba tahap 1 ✅
+- Uji coba tahap 2 ⭕
+- Uji coba tahap 3 ⭕
+- Pemasangan website pada server ✅
+- Rilis Beta Version ✅
 
-# Set up Package
+# BETA DEVELOPMENT HAS RELEASED 
 
-```
-npm install
-```
+Temporary Domain : **[Himitsu](https://sharp-euclid-d1315a.netlify.app/)**
 
-# Run Development
+# Funding
 
-Kami menggunakan Gatsby-CLI agar cukup memanggil syntax Gatsby (tidak menggunakan node)
-
-```
-gastby develop
-```
+Support Us on Trakteer : **[Funding](https://trakteer.id/dendense-project)**
 
 # Kontak
 

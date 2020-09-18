@@ -5,9 +5,14 @@ import Nav from "./Nav"
 import Footer from "./Footer"
 
 const Layout = ({ children }) => (
-  <div style={{ minHeight: '100vh', position: 'relative' }}>
+  <div style={{ minHeight: "100vh", position: "relative" }}>
     <Nav />
-    <div className="container-fluid himitsu-body" style={{ paddingBottom: '100px' }}>{children}</div>
+    <div
+      className="container-fluid himitsu-body"
+      style={{ paddingBottom: "100px" }}
+    >
+      {children}
+    </div>
     <Footer />
   </div>
 )

@@ -5,7 +5,7 @@ import SEO from "../components/Seo"
 const Underground = () => (
   <Layout>
     <SEO title="Underground" />
-    <h1>Underground</h1>
+    <h2>Underground</h2>
   </Layout>
 )
 

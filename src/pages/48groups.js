@@ -5,7 +5,7 @@ import SEO from "../components/Seo"
 const AKS = () => (
   <Layout>
     <SEO title="48Groups" />
-    <h1>AKS</h1>
+    <h2>AKS</h2>
   </Layout>
 )
 

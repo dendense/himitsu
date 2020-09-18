@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import "../styles/index.scss"
 import SEO from "../components/Seo"
 import PostGrid from "../fragments/PostGrid"
 import Layout from "../components/Layout"
@@ -8,19 +9,12 @@ import Layout from "../components/Layout"
 export default function groupTemplate({ data, pageContext }) {
   const { name } = pageContext
 
-  var posts = [];
-  for (let node of data.allMarkdownRemark.nodes) {
-    if (!posts.map(i => i.frontmatter.path).includes(node.frontmatter.path)) {
-      posts.push(node);
-    }
-  }
-
   return (
     <Layout>
       <SEO title={name} keyword={name} />
-      <h1>{name}</h1>
+      <h2 className="my-2">Page of {name}</h2>
       <div className="container-fluid">
-        <PostGrid data={posts} col={4} />
+        <PostGrid data={data.allMarkdownRemark.nodes} col={4} />
       </div>
     </Layout>
   )
@@ -28,7 +22,10 @@ export default function groupTemplate({ data, pageContext }) {
 
 export const GroupQuery = graphql`
   query groupQuery($tags: [String]!) {
-    allMarkdownRemark(filter: { frontmatter: { tags: { in: $tags } } }) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: frontmatter___date }
+      filter: { frontmatter: { tags: { in: $tags } } }
+    ) {
       nodes {
         frontmatter {
           title
