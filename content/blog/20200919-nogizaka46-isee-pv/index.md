@@ -1,7 +1,7 @@
 ---
 path: "/blog/20200919-nogizaka46-isee-pv"
 date: "2020-09-19"
-title: "[MV] Nogizaka46 - I See.."
+title: "[MV] Nogizaka46 - I See..."
 author: "SakuMyao"
 description: "Nogizaka46 - I See Music Video released. Recommended Music!"
 tags: ["MV", "Nogizaka46"]
