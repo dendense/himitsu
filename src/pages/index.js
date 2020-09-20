@@ -13,7 +13,13 @@ export default function indexTemplate({ data }) {
       <SEO title="Homepage" />
       <div className="mt-3">
         <Hero />
-        <TwoPartStyle leftlabel="Music" rightlabel="Hinatazaka46" data={data} />
+        <TwoPartStyle
+          leftlabel="Music"
+          moreleftlabel="Musician"
+          rightlabel="Nogizaka46"
+          morerightlabel="Hinatazaka46"
+          data={data}
+        />
         <div className="mt-3">
           <PostGrid
             sideGap="1rem"
@@ -80,6 +86,50 @@ export const IndexQuery = graphql`
     }
     fragment3: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: ["Nogizaka46"] } } }
+      limit: 5
+      sort: { order: DESC, fields: frontmatter___date }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            tags
+            path
+            title
+            image2 {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  src
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    fragment4: allMarkdownRemark(
+      filter: { frontmatter: { tags: { in: ["Musician"] } } }
+      limit: 5
+      sort: { order: DESC, fields: frontmatter___date }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            tags
+            path
+            title
+            image2 {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  src
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    fragment5: allMarkdownRemark(
+      filter: { frontmatter: { tags: { in: ["Hinatazaka46"] } } }
       limit: 5
       sort: { order: DESC, fields: frontmatter___date }
     ) {
