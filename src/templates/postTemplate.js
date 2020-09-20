@@ -9,20 +9,22 @@ import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
 
 export default function blogTemplate({ data, pageContext }) {
+  // const siteUrl = data.site.siteMetadata
   const post = data.markdownRemark
   const { title, author, date, link, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
 
   // pas production mode, kalau disqusconfig nya sesuain sama production nya yaa~
   const disqusConfig = {
-    // url: `himitsu.dev${path}`,
+    url: `https://himitsupro.com${path}`,
     title: title,
     identifier: path.split("/").slice(-1)[0],
   }
+  console.log(disqusConfig)
   return (
     <Layout>
       <SEO title={title} keyword={("Idols", tags, title)} />
-      <div className="row mt-3 pl-2 pr-2">
+      <div className="row mt-3 post-body">
         <div className="col-md-8">
           <div className="content-bar">
             <h1>{title}</h1>
@@ -67,7 +69,7 @@ export default function blogTemplate({ data, pageContext }) {
                 </div>
               ))}
             </div>
-            <div style={{ marginTop: "3rem" }}>
+            <div style={{ marginTop: "1rem" }}>
               <Disqus config={disqusConfig} />
             </div>
           </div>
@@ -95,6 +97,11 @@ export const blogQuery = graphql`
         }
       }
       html
+    }
+    site {
+      siteMetadata {
+        siteUrl
+      }
     }
   }
 `
