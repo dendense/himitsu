@@ -4,7 +4,7 @@ date: "2020-09-21"
 title: "[Perform] Nogizaka46 - Fantastic Sanshokupan @CDTV : Live! Live!"
 author: "Chr0balord"
 description: "Music Video Nogizaka46 - Route 246."
-tags: ["MV", "Nogizaka46"]
+tags: ["Perform", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
 link:  [{ label: 'Google Drive', 
@@ -21,5 +21,5 @@ link:  [{ label: 'Google Drive',
 # Information
 
 Artist : Nogizaka46 (Saito Asuka, Umezawa Minami & Yamashita Mizuki) <br>
-Song   : Fantastic Sanshokupan
-Date   : 21 September 2020
+Song   : Fantastic Sanshokupan <br>
+Date   : 21 September 2020 <br>
