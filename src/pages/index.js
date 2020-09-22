@@ -17,7 +17,7 @@ export default function indexTemplate({ data }) {
           leftlabel="Music"
           moreleftlabel="Musician"
           rightlabel="Nogizaka46"
-          morerightlabel="Hinatazaka46"
+          morerightlabel="Chika"
           data={data}
         />
         <div className="mt-3">
@@ -129,7 +129,7 @@ export const IndexQuery = graphql`
       }
     }
     fragment5: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: ["Hinatazaka46"] } } }
+      filter: { frontmatter: { tags: { in: ["Chika"] } } }
       limit: 5
       sort: { order: DESC, fields: frontmatter___date }
     ) {

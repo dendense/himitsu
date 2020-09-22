@@ -4,7 +4,7 @@ date: "2020-09-20"
 title: "WACK FUCKIN' PARTY FINAL"
 author: "Pillamore"
 description: "WACK FUCKIN' PARTY FINAL without audience."
-tags: ["Concert", "WACK"]
+tags: ["Concert", "WACK", "Chika"]
 image: cover.jpg
 image2: "../../assets/badges/chika.png"
 featured: false
@@ -29,4 +29,5 @@ link:
 ![Image8](./image8.jpg)
 
 ### Format
+
 - TS
