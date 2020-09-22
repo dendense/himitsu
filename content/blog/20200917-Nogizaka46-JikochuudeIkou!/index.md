@@ -1,5 +1,5 @@
 ---
-path: "/blog/20200916-Nogizaka46-JikochuudeIkou!"
+path: "/blog/20200917-Nogizaka46-JikochuudeIkou!"
 date: "2020-09-17"
 title: "[Single] Nogizaka46 - Jikochuu de Ikou!"
 author: "SaikaChuu"
