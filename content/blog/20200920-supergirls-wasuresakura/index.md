@@ -4,9 +4,9 @@ date: "2020-09-20"
 title: "[Single] SUPER☆GiRLS - Wasure Sakura"
 author: "Pillamore"
 description: "Single from SUPER☆GiRLS title Wasure Sakura"
-tags: ["Music", "SUPAGA"]
+tags: ["Music", "SUPAGA", "Chika"]
 image: cover.jpg
-image2: "../../assets/badges/musician.png"
+image2: "../../assets/badges/chika.png"
 featured: false
 link:
   [
@@ -20,10 +20,12 @@ link:
 ![SUPER☆GiRLS - Wasure Sakura](./cover.jpg)
 
 ### Format
+
 - FLAC / 24Bit
 
 ### Playlist
-01. 忘れ桜 / Wasure Sakura
-02. ☆マカロニマカロン☆ / ☆Macaroni Macaron☆
-03. 忘れ桜 / Wasure Sakura (Instrument)
-04. ☆マカロニマカロン☆ / ☆Macaroni Macaron☆ (Instrument)
+
+1.  忘れ桜 / Wasure Sakura
+2.  ☆ マカロニマカロン ☆ / ☆Macaroni Macaron☆
+3.  忘れ桜 / Wasure Sakura (Instrument)
+4.  ☆ マカロニマカロン ☆ / ☆Macaroni Macaron☆ (Instrument)
