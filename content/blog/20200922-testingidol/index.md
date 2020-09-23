@@ -1,6 +1,6 @@
 ---
 path: "/blog/20200922-Nogizaka46-UmaretekaraHajimeteMitaYume"
-date: "2020-09-22"
+date: "2020-09-21"
 title: "[Album] Nogizaka46 - Umaretekara Hajimete Mita Yume"
 author: "SaikaChuu"
 description: "Nogizaka46 - Umaretekara Hajimete Mita Yume album released. Recommended Music!"
