@@ -33,19 +33,19 @@ Release Date    : 23 September 2020 <br>
 # Setlist
 
 00. Overture (Keyakizaka46 version)
-01. Hiragana Keyaki
+01. Hiragana Keyaki <br>
 MC1 <br>
 02. Dare Yori mo Takaku Tobe
 03. Bokutachi wa Tsukiatteiru
 04. Eien no Hakusen
 05. Soredemo Aruiteru
 06. Oide Shampoo (Nogizaka46 Song)
-07. Ima ni Mite Iro
+07. Ima ni Mite Iro <br>
 VTR <br>
 08. Hiragana de Koishitai
 09. Hanbun no Kioku
 10. Kitaishite Inai Jibun
-11. Happy Aura
+11. Happy Aura <br>
 MC2 <br>
 VTR <br>
 12. Overture (Hinatazaka46 version)
@@ -57,7 +57,7 @@ VTR <br>
 18. Kimi ni Hanashite Okitai Koto
 19. Dakishimete Yaru
 20. Joyful Love
-21. Hinatazaka
+21. Hinatazaka <br>
 ENCORE <br>
 22. Kyun
 23. NO WAR in the future
