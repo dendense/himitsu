@@ -1,5 +1,5 @@
 ---
-path: "/blog/20200923-Hinatazaka46-1stAlbumHinatazaka"
+path: "/blog/20200923-Hinatazaka46-Hinatazaka1stAlbum"
 date: "2020-09-23"
 title: "[Album] Hinatazaka46 - Hinatazaka (ALL TYPE)"
 author: "Chr0balord"
