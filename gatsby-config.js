@@ -89,11 +89,6 @@ module.exports = {
       },
     },
     {
-      scripts: {
-        "preload-fonts": "gatsby-preload-fonts",
-      },
-    },
-    {
       resolve: "gatsby-remark-related-posts",
       options: {
         posts_dir: `${__dirname}/content/blog`,
@@ -102,6 +97,7 @@ module.exports = {
     },
     `gatsby-plugin-lodash`,
     `gatsby-plugin-preact`,
+    `gatsby-plugin-preload-fonts`,
     `gatsby-plugin-no-javascript`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
