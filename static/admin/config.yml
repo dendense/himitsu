@@ -10,9 +10,6 @@ backend:
     delete: "Delete {{collection}} “{{slug}}”"
     uploadMedia: "[skip ci] Upload “{{path}}”"
     deleteMedia: "[skip ci] Delete “{{path}}”"
-    
-media_folder: content/assets/img
-public_folder: /img
 
 # Collection Configuration
 collections:
@@ -33,4 +30,6 @@ collections:
       - { label: Tags, name: tags, widget: list, required: true }
       - { label: Featured Image, name: image, widget: image, required: true }
       - { label: Featured Image, name: image2, widget: image, required: true }
+      - { label: Download Label, name: label, widget: string, required: true }
+      - { label: Download Link, name: url, widget: string, required: true }
       - { label: Body, name: body, widget: markdown }
