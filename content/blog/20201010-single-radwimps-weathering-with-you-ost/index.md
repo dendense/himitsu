@@ -10,13 +10,13 @@ tags:
 image: cover.jpg
 image2: musician.png
 label: Google Drive
-url: https://drive.google.com/file/d/1WzcinTvVvJnfx2QMiGkS8UOXneQmH6nR/view?usp=sharing
+url: hhttps://controlc.com/87ea207e
 ---
 link:
   [
     {
       label: "GD Special",
-      url: "https://drive.google.com/file/d/1WzcinTvVvJnfx2QMiGkS8UOXneQmH6nR/view?usp=sharing",
+      url: "https://controlc.com/87ea207e",
     },
   ]
 # Format
