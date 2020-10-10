@@ -10,7 +10,7 @@ tags:
 image: cover.jpg
 image2: musician.png
 label: Google Drive
-url: hhttps://controlc.com/87ea207e
+url: https://controlc.com/87ea207e
 ---
 link:
   [
