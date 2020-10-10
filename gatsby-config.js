@@ -70,10 +70,27 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
+    // Add after these plugins if used
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: true, // Print removed selectors and processed file names
+        // develop: true, // Enable while using `gatsby develop`
+        // tailwind: true, // Enable tailwindcss support
+        // whitelist: ['whitelist'], // Don't remove this selector
+        // ignore: ['/ignored.css', 'prismjs/', 'docsearch.js/'], // Ignore files/folders
+        // purgeOnly : ['components/', '/main.css', 'bootstrap/'], // Purge only these files/folders
+      },
+    },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
         shortname: `himitsu-blog`,
+      },
+    },
+    {
+      scripts: {
+        "preload-fonts": "gatsby-preload-fonts",
       },
     },
     {
@@ -84,6 +101,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-lodash`,
+    `gatsby-plugin-preact`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
