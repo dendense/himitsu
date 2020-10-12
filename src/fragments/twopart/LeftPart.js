@@ -22,14 +22,13 @@ export default function LeftPartTags(props) {
       </div>
       <ul className="list-group post-list">
         {props.data.edges.map(post => {
-          const { title, path } = post.node.frontmatter
-          const image2 = post.node.frontmatter.image2.childImageSharp.fluid.src
+          const { title, path, tags } = post.node.frontmatter
           return (
             <PostList
               key={`${title}`}
               title={title}
               path={path}
-              image2={image2}
+              tags={tags}
             ></PostList>
           )
         })}
