@@ -6,26 +6,8 @@ author: "Himitsu Staff"
 description: "Hinatazaka46 - Doremisolasido single released. Recommended Music!"
 tags: ["Music", "Hinatazaka46"]
 image: H462A.jpg
-image2: "../../assets/badges/hinatazaka46.png"
-link:
-  [
-    {
-      label: "GD Special",
-      url: "https://drive.google.com/file/d/1v72fumhsFd5yfkYYi-XKmEUA9I9AlTKV/view?usp=sharing",
-    },
-    {
-      label: "GD Type-A",
-      url: "https://drive.google.com/file/d/1oFh7NxxiHBNgwsV6GnBdgoKCP0bkHlfj/view?usp=sharing",
-    },
-    {
-      label: "GD Type-B",
-      url: "https://drive.google.com/file/d/1yMNt3gQXtWJOrxTuJbKUsF4eHL0sFtj9/view?usp=sharing",
-    },
-    {
-      label: "GD Type-C",
-      url: "https://drive.google.com/file/d/1DCKLXYUV-pEwQ4kzBh-k7u0BRN526G9G/view?usp=sharing",
-    },
-  ]
+label: Pasted # Tulis pasted jika banyak link, tulis GD/Mediafire/Racaty/dsb kalau cuma single link
+url: https://controlc.com/bf40184f #Link Dari pasted.co
 ---
 
 ![Doremisolasido](./H462A.jpg)

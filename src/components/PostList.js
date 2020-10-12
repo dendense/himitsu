@@ -11,7 +11,7 @@ export default function PostLists({ title, path, tags }) {
       <li className="list-group-item">
         <div className="row">
           <div className="col d-flex align-items-center">
-            <ImgTag tags={tags} alt={alt} />
+            {/* <ImgTag tags={tags} alt={alt} /> */}
             {title}
           </div>
           <div className="col-sm-auto d-flex align-items-center">
