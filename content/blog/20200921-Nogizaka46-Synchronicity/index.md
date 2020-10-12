@@ -41,8 +41,8 @@ link:
 
 # Format
 
-- FLAC/320/CD
-- FLAC/320/WEB
+- FLAC/Lossless/CD
+- FLAC/Lossless/WEB
 
 # Playlist
 
