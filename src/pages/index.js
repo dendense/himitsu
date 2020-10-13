@@ -4,8 +4,8 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import Hero from "../components/Hero"
-import TwoPartStyle from "../fragments/twoPartStyle"
 import PostGrid from "../fragments/PostGrid"
+import LabelGrid from "../fragments/LabelGrid"
 
 export default function indexTemplate({ data }) {
   return (
@@ -13,13 +13,10 @@ export default function indexTemplate({ data }) {
       <SEO title="Homepage" />
       <div className="mt-3">
         <Hero />
-        <TwoPartStyle
-          leftlabel="Music"
-          moreleftlabel="Musician"
-          rightlabel="Nogizaka46"
-          morerightlabel="Chika"
-          data={data}
-        />
+        <div className="container-fluid mt-3">
+          <LabelGrid link="/sakamichi" title="Sakamichi Series" />
+          <LabelGrid link="/sakamichi" title="Sakamichi Series" />
+        </div>
         <div className="mt-3">
           <PostGrid
             sideGap="1rem"
@@ -56,94 +53,6 @@ export const IndexQuery = graphql`
             childImageSharp {
               fluid(maxWidth: 500) {
                 src
-              }
-            }
-          }
-        }
-      }
-    }
-    fragment2: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: ["Music"] } } }
-      limit: 5
-      sort: { order: DESC, fields: frontmatter___date }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            tags
-            path
-            title
-            image2 {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  src
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    fragment3: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: ["Nogizaka46"] } } }
-      limit: 5
-      sort: { order: DESC, fields: frontmatter___date }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            tags
-            path
-            title
-            image2 {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  src
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    fragment4: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: ["Musician"] } } }
-      limit: 5
-      sort: { order: DESC, fields: frontmatter___date }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            tags
-            path
-            title
-            image2 {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  src
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    fragment5: allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: ["Chika"] } } }
-      limit: 5
-      sort: { order: DESC, fields: frontmatter___date }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            tags
-            path
-            title
-            image2 {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  src
-                }
               }
             }
           }
