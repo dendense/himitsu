@@ -5,7 +5,7 @@ import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import Hero from "../components/Hero"
 import PostGrid from "../fragments/PostGrid"
-import LabelGrid from "../fragments/LabelGrid"
+import LabelCard from "../fragments/LabelCard"
 
 export default function indexTemplate({ data }) {
   return (
@@ -14,8 +14,8 @@ export default function indexTemplate({ data }) {
       <div className="mt-3">
         <Hero />
         <div className="container-fluid mt-3">
-          <LabelGrid link="/sakamichi" title="Sakamichi Series" />
-          <LabelGrid link="/sakamichi" title="Sakamichi Series" />
+          <LabelCard link="/sakamichi" title="Sakamichi Series" />
+          <LabelCard link="/sakamichi" title="Sakamichi Series" />
         </div>
         <div className="mt-3">
           <PostGrid
