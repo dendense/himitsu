@@ -57,7 +57,7 @@ export const IndexQuery = graphql`
   query IndexQuery {
     fragment1: allMarkdownRemark(
       sort: { order: DESC, fields: frontmatter___date }
-      limit: 8
+      limit: 12
     ) {
       nodes {
         frontmatter {
