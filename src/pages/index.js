@@ -11,11 +11,29 @@ export default function indexTemplate({ data }) {
   return (
     <Layout>
       <SEO title="Homepage" />
-      <div className="mt-3">
+      <div style={{ marginTop: "2rem" }}>
         <Hero />
         <div className="container-fluid mt-3">
-          <LabelCard link="/sakamichi" title="Sakamichi Series" />
-          <LabelCard link="/sakamichi" title="Sakamichi Series" />
+          <LabelCard
+            link="/sakamichi"
+            title="Sakamichi Series"
+            color="btn-nogi"
+          />
+          <LabelCard
+            link="/tag/musician"
+            title="Musician"
+            color="btn-primary"
+          />
+          <LabelCard
+            link="/tag/Hinatazaka46"
+            title="Hinatazaka46"
+            color="btn-hinata"
+          />
+          <LabelCard
+            link="/tag/music"
+            title="Music"
+            color="btn-donation text-white"
+          />
         </div>
         <div className="mt-3">
           <PostGrid
