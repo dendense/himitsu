@@ -1,5 +1,5 @@
 ---
-path: "/blog/20200922-Nogizaka46-ImaHanashitai-DaregaIru-ArigachinaRenai-Synchronicity-MusicStation"
+path: "/blog/20201016-Nogizaka46-ImaHanashitai-DaregaIru-ArigachinaRenai-Synchronicity-MusicStation"
 date: "2020-10-16"
 title: "[Perform] Nogizaka46 - Ima,Hanashitai Dareka ga Iru + Arigachina Renai + Synchronicity (FULL) @Music Station 2 Hours Special"
 author: "Chr0balord"
