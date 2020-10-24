@@ -41,20 +41,16 @@ export default function blogTemplate({ data, pageContext }) {
                 <div className="card-header text-center">
                   Downloadable Content
                 </div>
-                {link.map((i, index) => {
-                  return (
-                    <li key={i.label} className="list-group-item text-center">
-                      <span className="font-weight-bold mr-2">[{i.label}]</span>
+                    <li key={shortenedLink} className="list-group-item text-center">
+                      <span className="font-weight-bold mr-2">[{shortenedLink}]</span>
                       <a
-                        href={shortenedLink[index]}
+                        href={shortenedLink}
                         target="_blank"
                         rel="noreferrer noopener"
                       >
-                        {shortenedLink[index]}
+                        {shortenedLink}
                       </a>
                     </li>
-                  )
-                })}
               </div>
             )}
             <div style={{ marginTop: "2rem" }}>

@@ -37,9 +37,15 @@ exports.createPages = async ({ actions, graphql }) => {
 
   for (let edge of data_graphql.data.allMarkdownRemark.edges) {
     let { node } = edge
-    let shortenedLink = await ouo.shortMany(
-      node.frontmatter.link.map(i => i.url)
-    )
+
+    // Ini kalau link / url nya banyak
+    // let shortenedLink = await ouo.shortMany(
+    //   node.frontmatter.link.map(i => i.url)
+    // )
+
+    // Ini kalau link / url nya satu
+    shortenedLink = await ouo.short(node.frontmatter.url)
+    
     createPage({
       path: node.frontmatter.path,
       component: postTemplate,
