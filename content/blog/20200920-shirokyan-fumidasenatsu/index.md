@@ -4,7 +4,7 @@ date: "2020-09-20"
 title: "[Single] Masshiro na Canvas - Ima Fumidase Natsu"
 author: "Pillamore"
 description: "Single from Masshiro na Canvas titled Ima Fumidase Natsu. Berry Berry Recommended!"
-tags: ["Music", "Shirokyan"]
+tags: ["Music", "Shirokyan", "Chika"]
 image: cover.jpg
 image2: "../../assets/badges/chika.png"
 featured: false
@@ -20,12 +20,14 @@ link:
 ![Shirokyan - Ima Fumidase Natsu](./cover.jpg)
 
 ### Format
+
 - MP3 / 320kbps
 
 ### Playlist
-01. Ima Fumidase Natsu
-02. Persevere
-03. untune
-04. Ima Fumidase Natsu (Instrumental)
-05. Persevere (Instrumental)
-06. untune (Instrumental)
+
+1.  Ima Fumidase Natsu
+2.  Persevere
+3.  untune
+4.  Ima Fumidase Natsu (Instrumental)
+5.  Persevere (Instrumental)
+6.  untune (Instrumental)
