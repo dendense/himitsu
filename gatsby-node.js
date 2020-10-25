@@ -23,6 +23,7 @@ exports.createPages = async ({ actions, graphql }) => {
           node {
             frontmatter {
               path
+              url
               link {
                 label
                 url
@@ -44,8 +45,8 @@ exports.createPages = async ({ actions, graphql }) => {
     // )
 
     // Ini kalau link / url nya satu
-    shortenedLink = await ouo.short(node.frontmatter.url)
-    
+    shortenedLink = node.frontmatter.url ? await ouo.short(node.frontmatter.url) : undefined;
+
     createPage({
       path: node.frontmatter.path,
       component: postTemplate,
@@ -87,7 +88,6 @@ exports.createPages = async ({ actions, graphql }) => {
   })
 
   groupPagesConfig.forEach(group => {
-    console.log(group)
     createPage({
       path: `/${group.name.toLowerCase()}`,
       component: groupTemplate,

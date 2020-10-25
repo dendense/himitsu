@@ -36,13 +36,13 @@ export default function blogTemplate({ data, pageContext }) {
               style={{ margin: "0.5rem" }}
               dangerouslySetInnerHTML={{ __html: post.html }}
             />
-            {link.length > 0 && (
+            {shortenedLink && (
               <div className="card mx-auto mt-4" style={{ maxWidth: "600px" }}>
                 <div className="card-header text-center">
                   Downloadable Content
                 </div>
-                    <li key={shortenedLink} className="list-group-item text-center">
-                      <span className="font-weight-bold mr-2">[{shortenedLink}]</span>
+                    <li key="link1" className="list-group-item text-center">
+                      <span className="font-weight-bold mr-2">[Link]</span>
                       <a
                         href={shortenedLink}
                         target="_blank"
