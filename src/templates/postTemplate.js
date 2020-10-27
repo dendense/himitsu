@@ -36,25 +36,21 @@ export default function blogTemplate({ data, pageContext }) {
               style={{ margin: "0.5rem" }}
               dangerouslySetInnerHTML={{ __html: post.html }}
             />
-            {link.length > 0 && (
+            {shortenedLink && (
               <div className="card mx-auto mt-4" style={{ maxWidth: "600px" }}>
                 <div className="card-header text-center">
                   Downloadable Content
                 </div>
-                {link.map((i, index) => {
-                  return (
-                    <li key={i.label} className="list-group-item text-center">
-                      <span className="font-weight-bold mr-2">[{i.label}]</span>
+                    <li key="link1" className="list-group-item text-center">
+                      <span className="font-weight-bold mr-2">[Link]</span>
                       <a
-                        href={shortenedLink[index]}
+                        href={shortenedLink}
                         target="_blank"
                         rel="noreferrer noopener"
                       >
-                        {shortenedLink[index]}
+                        {shortenedLink}
                       </a>
                     </li>
-                  )
-                })}
               </div>
             )}
             <div style={{ marginTop: "2rem" }}>
