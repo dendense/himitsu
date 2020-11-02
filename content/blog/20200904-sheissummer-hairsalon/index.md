@@ -8,13 +8,8 @@ tags: ["Music", "Musician"]
 image: featured.png
 image2: "../../assets/badges/musician.png"
 featured: true
-link:
-  [
-    {
-      label: "Google Drive",
-      url: "https://drive.google.com/file/d/1qLC2XJlAE8Q4K2KZUarF6pVE_QLRGTgB/view?usp=sharing",
-    },
-  ]
+label: "Google Drive"
+url: "https://drive.google.com/file/d/1qLC2XJlAE8Q4K2KZUarF6pVE_QLRGTgB/view?usp=sharing"
 ---
 
 ![Alt Image](./featured.png)

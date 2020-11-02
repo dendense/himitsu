@@ -8,13 +8,8 @@ tags: ["Music", "Musician"]
 image: image.jpg
 image2: "../../assets/badges/musician.png"
 featured: false
-link:
-  [
-    {
-      label: "Google Drive",
-      url: "https://drive.google.com/file/d/14fZSkfqTdcUkvL7LJW9Pv701soEszfBN/view?usp=sharing",
-    },
-  ]
+label: "Google Drive"
+url: "https://drive.google.com/file/d/14fZSkfqTdcUkvL7LJW9Pv701soEszfBN/view?usp=sharing"
 ---
 
 ![back number - Happy End](./image.jpg)
