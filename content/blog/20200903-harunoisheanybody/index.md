@@ -7,7 +7,7 @@ description: "Haruno - IS SHE ANYBODY Album released. Recommended Music!"
 tags: ["Music", "Musician"]
 image: image.jpg
 label: Google Drive # Tulis pasted jika banyak link, tulis GD/Mediafire/Racaty/dsb kalau cuma single link
-url: https://drive.google.com/file/d/18glHKXG93WT7-DFm7lqJmc-_DlZ3DnKj/view?usp=sharing #Link Dari pasted.co
+url: https://drive.google.com/file/d/18glHKXG93WT7-DFm7lqJmc-_DlZ3DnKj/view?usp=sharing #Link Dari pasted.co/single link
 ---
 
 ![Haruno - IS SHE ANYBODY](./image.jpg)
