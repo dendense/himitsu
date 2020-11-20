@@ -8,13 +8,8 @@ tags: ["Music", "Musician"]
 image: image.jpg
 image2: "../../assets/badges/musician.png"
 featured: true
-link:
-  [
-    {
-      label: "Google Drive",
-      url: "https://drive.google.com/file/d/1biYDNy4dfJ71Vb4Vw3FqIztKUdc1DDkG/view?usp=sharing",
-    },
-  ]
+label: Google Drive
+url: "https://drive.google.com/file/d/1biYDNy4dfJ71Vb4Vw3FqIztKUdc1DDkG/view?usp=sharing"
 ---
 
 ![Kojikoji - 127](./image.jpg)

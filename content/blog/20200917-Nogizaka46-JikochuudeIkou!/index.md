@@ -7,30 +7,7 @@ description: "Nogizaka46 - Jikochuu de Ikou! single released. Recommended Music!
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-featured: false
-link:
-  [
-    {
-      label: "GD (Regular Ed) ",
-      url: "https://drive.google.com/file/d/1ZKq5Dx8SS81oG0Vu3SQrY3gZzCG6DVLn/view?usp=sharing",
-    },
-    {
-      label: "GD (Type A)",
-      url: "https://drive.google.com/file/d/1deLhGCXx0NFvTdP2pSqorAs0acq519aO/view?usp=sharing",
-    },
-    {
-      label: "GD (Type B)",
-      url: "https://drive.google.com/file/d/1p2L_PkSMZr6XMPAjmj3xR9CAnjT6oIVb/view?usp=sharing",
-    },
-    {
-      label: "GD (Type C)",
-      url: "https://drive.google.com/file/d/1_71Fe-xZ_1XWdSPUHewf9sVc6beQHJsh/view?usp=sharing",
-    },
-    {
-      label: "GD (Type D)",
-      url: "https://drive.google.com/file/d/1JFZpDS290W4haa6BblinPnvNZ5ErX8lg/view?usp=sharing",
-    },
-  ]
+url: https://controlc.com/e7d5651a
 ---
 
 ![Nogizaka46 - Jikochuu de Ikou!](./image.jpg)
