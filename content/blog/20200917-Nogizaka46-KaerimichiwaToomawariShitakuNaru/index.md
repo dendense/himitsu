@@ -7,30 +7,7 @@ description: "Nogizaka46 - Kaerimichi wa Toomawari Shitaku Naru single released.
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-featured: false
-link:
-  [
-    {
-      label: "GD (Regular Ed) ",
-      url: "https://drive.google.com/file/d/11lRmwxTgC6vt5mRxMqyhUKasemaaWvrL/view?usp=sharing",
-    },
-    {
-      label: "GD (Type A)",
-      url: "https://drive.google.com/file/d/1T_uSeov9CCVtD9Gsmj7QuTXF63UviHA4/view?usp=sharing",
-    },
-    {
-      label: "GD (Type B)",
-      url: "https://drive.google.com/file/d/1XS55Q14LBDpau1c5bSFqk2GJ28PylVP8/view?usp=sharing",
-    },
-    {
-      label: "GD (Type C)",
-      url: "https://drive.google.com/file/d/1E_dSAw4uSmiEz4cVhFomwN2a_PZf-Fya/view?usp=sharing",
-    },
-    {
-      label: "GD (Type D)",
-      url: "https://drive.google.com/file/d/18UfGbCAR2Y8UsWlopKGueU4Z7mBFOC-W/view?usp=sharing",
-    },
-  ]
+url: https://controlc.com/d319502c
 ---
 
 ![Nogizaka46 - Kaerimichi wa Toomawari Shitaku Naru](./image.jpg)
