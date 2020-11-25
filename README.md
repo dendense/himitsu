@@ -14,7 +14,7 @@ Kami menggunakan Framework **[GatsbyJS](https://www.gatsbyjs.com/)** yang dimana
 - Membangun komponen utama ✅
 - Merangkai struktur page website ✅
 - Uji coba tahap 1 ✅
-- Uji coba tahap 2 ⭕
+- Uji coba tahap 2 ✅
 - Uji coba tahap 3 ⭕
 - Pemasangan website pada server ✅
 - Rilis Beta Version ✅
