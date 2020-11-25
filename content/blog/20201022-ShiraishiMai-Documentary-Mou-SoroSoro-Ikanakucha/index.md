@@ -7,13 +7,8 @@ description: "Shiraishi Mai Documentary  Mou Soro Soro Ikanakucha "
 tags: ["Documentary", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-link:
-  [
-    {
-      label: "Google Drive (1080p)",
-      url: "https://drive.google.com/file/d/1HfJC5ceSEbxgEqILLIEySFJQeZX1WlQW/view?usp=sharing",
-    },
-  ]
+label: Google Drive
+url: https://drive.google.com/file/d/1HfJC5ceSEbxgEqILLIEySFJQeZX1WlQW/view?usp=sharing 
 ---
 
 ![Shiraishi Mai Documentary Mou Soro Soro Ikanakucha](./image.jpg)

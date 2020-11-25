@@ -7,13 +7,8 @@ description: "Perform Hinatazaka46 @Tokyo Idol Festival Online 2020"
 tags: ["Perform", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
-link:
-  [
-    {
-      label: "Google Drive (1080p)",
-      url: "https://drive.google.com/file/d/1WrRgqH6nyQLNSyAmucZQjVt7TuUJvYjD/view?usp=sharing",
-    },
-  ]
+label: Google Drive
+url: https://drive.google.com/file/d/1WrRgqH6nyQLNSyAmucZQjVt7TuUJvYjD/view?usp=sharing
 ---
 
 ![Hinatazaka46 on Tokyo Idol Festival Online 2020](./image.jpg)

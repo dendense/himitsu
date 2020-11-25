@@ -7,15 +7,8 @@ description: "Keyakizaka46 The Last Live Concert"
 tags: ["Concert", "Keyakizaka46"]
 image: image.png
 image2: "../../assets/badges/hinatazaka46.png"
-link:  [{
-      label: "Google Drive (Day 1)",
-      url: "https://drive.google.com/file/d/11h4Avfg8fp4Wo_lnnwIp4j6IyO7LEPQL/view?usp=sharing",
-    },
-    {
-      label: "Google Drive (Day 2)",
-      url: "https://drive.google.com/file/d/1BJoQHgFfL9WzWM23u_0-mYRH5vY00_3O/view?usp=sharing",
-    },
-    ]
+label: Pasted
+url: https://controlc.com/061996c0
 ---
 
 ![[Concert] Keyakizaka46 The Last Live Concert](./image.jpg)

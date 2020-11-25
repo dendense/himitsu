@@ -7,13 +7,8 @@ description: "Perform Keyakizaka46 Dare ga Sono Kane wo Narasu no Ka? on TV Toky
 tags: ["Perform", "Keyakizaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
-link:
-  [
-    {
-      label: "Google Drive",
-      url: "https://drive.google.com/file/d/1FF2RxrcDbjrjlrajlUFbLcPC3_E46DzB/view?usp=sharing",
-    },
-  ]
+label: Google Drive
+url: https://drive.google.com/file/d/1FF2RxrcDbjrjlrajlUFbLcPC3_E46DzB/view?usp=sharing
 ---
 
 ![Keyakizaka46 Dare ga Sono Kane wo Narasu no Ka?](./image.jpg)

@@ -7,25 +7,8 @@ description: "Keyakizaka46 Best Album"
 tags: ["Music", "Keyakizaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
-link:
-  [
-    {
-      label: "Google Drive (Complete Edition)",
-      url: "https://drive.google.com/file/d/15evEiSBNgOLd8J0dNT2q_cPL-HhAsQi7/view?usp=sharing",
-    },
-    {
-      label: "Google Drive (Type-A)",
-      url: "https://drive.google.com/file/d/1574Cnn0M3jD3n64lohYulSUoHR3z_XIF/view?usp=sharing",
-    },
-    {
-      label: "Google Drive (Type-B)",
-      url: "https://drive.google.com/file/d/141mJG6v5VjduBoD3pZbhlrivIhK-f8ZC/view?usp=sharing",
-    },
-    {
-      label: "Google Drive (Regular Edition)",
-      url: "https://drive.google.com/file/d/1DX0bzng9PXqOdEe5HeZibPjI_i2ffSgC/view?usp=sharing",
-    },
-  ]
+label: Pasted
+url: https://controlc.com/19a4124f
 ---
 
 ![[Music] Cover Album Keyakizaka46 Best Album Regular Edition](./image.jpg)
