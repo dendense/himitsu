@@ -8,13 +8,7 @@ tags: ["Music", "Shirokyan", "Chika"]
 image: cover.jpg
 image2: "../../assets/badges/chika.png"
 featured: false
-link:
-  [
-    {
-      label: "GD",
-      url: "https://drive.google.com/file/d/1FNN-AXF824T5ItsUAro8KE_98XfvpKVy/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1FNN-AXF824T5ItsUAro8KE_98XfvpKVy/view?usp=sharing
 ---
 
 ![Shirokyan - Ima Fumidase Natsu](./cover.jpg)

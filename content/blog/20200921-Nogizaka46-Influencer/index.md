@@ -8,29 +8,7 @@ tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
 featured: false
-link:
-  [
-    {
-      label: "GD (Regular Ed) ",
-      url: "https://drive.google.com/file/d/1B1K2FACYoyPzqkXGUS_xjI05wYXhueua/view?usp=sharing",
-    },
-    {
-      label: "GD (Type A)",
-      url: "https://drive.google.com/file/d/1mug3qoR73XnQgxyba76xgInN3XVUf6v0/view?usp=sharing",
-    },
-    {
-      label: "GD (Type B)",
-      url: "https://drive.google.com/file/d/1cdB4B2FMXf9P-0hcdp7gnxP0rOmvZBd7/view?usp=sharing",
-    },
-    {
-      label: "GD (Type C)",
-      url: "https://drive.google.com/file/d/1LFrlvHTUqDiW51NG1xE5pEicQsDcZ5eK/view?usp=sharing",
-    },
-    {
-      label: "GD (Type D)",
-      url: "https://drive.google.com/file/d/1iwmT0HS8XxYG8CGHa0kbTeCca9TDLPmo/view?usp=sharing",
-    },
-  ]
+url: https://controlc.com/1920bf5b
 ---
 
 ![Nogizaka46 - Influencer](./image.jpg)

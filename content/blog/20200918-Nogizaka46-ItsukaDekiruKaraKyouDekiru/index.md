@@ -8,29 +8,7 @@ tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
 featured: false
-link:
-  [
-    {
-      label: "GD (Regular Ed) ",
-      url: "https://drive.google.com/file/d/1rCd4o_I-s6KADQX3nWD3Wa2dWiK8R2US/view?usp=sharing",
-    },
-    {
-      label: "GD (Type A)",
-      url: "https://drive.google.com/file/d/17Gnsu5RLufy_5nsdWt8H0mjxktbfi-Go/view?usp=sharing",
-    },
-    {
-      label: "GD (Type B)",
-      url: "https://drive.google.com/file/d/1cLxCwS2ZKtxG2JiZH2JsR7ruCQS7xE2M/view?usp=sharing",
-    },
-    {
-      label: "GD (Type C)",
-      url: "https://drive.google.com/file/d/1GASFkNVOYvfGNEeNPun7jfmJBaVM0XHP/view?usp=sharing",
-    },
-    {
-      label: "GD (Type D)",
-      url: "https://drive.google.com/file/d/1doZa549SBjWUO1HkwTKfxxDQ5D5-KZ8f/view?usp=sharing",
-    },
-  ]
+url: https://controlc.com/6c19ff19
 ---
 
 ![Nogizaka46 - Itsuka Dekiru Kara Kyou Dekiru](./image.jpg)
