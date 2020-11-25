@@ -8,13 +8,7 @@ tags: ["Concert", "WACK", "Chika"]
 image: cover.jpg
 image2: "../../assets/badges/chika.png"
 featured: false
-link:
-  [
-    {
-      label: "GD",
-      url: "https://drive.google.com/file/d/1bFmjQGSLnYZTFt0oqw1soQnFQeVtH-Rf/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1bFmjQGSLnYZTFt0oqw1soQnFQeVtH-Rf/view?usp=sharing
 ---
 
 ![WACK FUCKIN' PARTY FINAL](./cover.jpg)

@@ -7,13 +7,7 @@ description: "Music Video Nogizaka46 - Route 246."
 tags: ["Perform", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-link:
-  [
-    {
-      label: "Google Drive",
-      url: "https://drive.google.com/file/d/1CDiP4ovQTNWK08_HduER_ZcK3Hc14Nzh/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1CDiP4ovQTNWK08_HduER_ZcK3Hc14Nzh/view?usp=sharing
 ---
 
 ![Fantastic Sanshokupan](./image.jpg)

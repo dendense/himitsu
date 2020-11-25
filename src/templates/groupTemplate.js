@@ -12,9 +12,11 @@ export default function groupTemplate({ data, pageContext }) {
   return (
     <Layout>
       <SEO title={name} keyword={name} />
-      <h2 className="my-2">Page of {name}</h2>
-      <div className="container-fluid">
-        <PostGrid data={data.allMarkdownRemark.nodes} col={4} />
+      <div style={{ margin: "1rem" }}>
+        <h2 className="my-2">Page of {name}</h2>
+        <div>
+          <PostGrid data={data.allMarkdownRemark.nodes} col={4} />
+        </div>
       </div>
     </Layout>
   )

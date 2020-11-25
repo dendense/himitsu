@@ -7,22 +7,7 @@ description: "Nogizaka46 - Sekaijuu no Rinjin yo single released. Recommended Mu
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-featured: false
-link:
-  [
-    {
-      label: "GD (FLAC) ",
-      url: "https://drive.google.com/file/d/1od6U-3djC1UJVTXzbJF6Lon8njJKU8mV/view?usp=sharing",
-    },
-    {
-      label: "GD (MP3)",
-      url: "https://drive.google.com/file/d/1V8gmPB6NggX3EPiCY5F8Cy5r2RQlu4S3/view?usp=sharing",
-    },
-    {
-      label: "GD (AAC)",
-      url: "https://drive.google.com/file/d/1gXX4NpxZYL0_W10nzk0myjK_0VRPM6fA/view?usp=sharing",
-    },
-  ]
+url: https://controlc.com/563dc81e
 ---
 
 ![Nogizaka46 - Sekaijuu no Rinjin yo](./image.jpg)
