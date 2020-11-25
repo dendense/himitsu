@@ -8,21 +8,17 @@ tags: ["Music", "IZONE"]
 image: cover.jpg
 image2: "../../assets/badges/musician.png"
 featured: false
-link:
-  [
-    {
-      label: "GD ",
-      url: "https://drive.google.com/file/d/1DmYaD_0f3NnaWbOpqdoHHtuARu0NsgaI/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1DmYaD_0f3NnaWbOpqdoHHtuARu0NsgaI/view?usp=sharing
 ---
 
 ![IZ*ONE - HEART*IZ](./cover.jpg)
 
 ## Format
+
 - FLAC/24Bit
 
 ## Playlist
+
 1. 해바라기 (Hey. Bae. Like it.)
 2. 비올레타 (Violeta)
 3. Highlight

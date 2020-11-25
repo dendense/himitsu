@@ -8,13 +8,7 @@ tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
 featured: false
-link:
-  [
-    {
-      label: "Google Drive ",
-      url: "https://drive.google.com/file/d/1ojTdnmlqzbD1fJrxEnJNqdeA1zbYx2Ne/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1ojTdnmlqzbD1fJrxEnJNqdeA1zbYx2Ne/view?usp=sharing
 ---
 
 ![Nogizaka46 - Boku Dake no Kimi ~Under Super Best~ ](./image.jpg)
