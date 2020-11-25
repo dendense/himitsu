@@ -7,23 +7,7 @@ description: "Hinatazaka46 First Album"
 tags: ["Music", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
-link:  [{
-      label: "Google Drive (Complete Edition)",
-      url: "https://drive.google.com/file/d/1rMFjNpu3WXu_W1GbDyBmMa92LtfeE20P/view?usp=sharing",
-    },
-    {
-      label: "Google Drive (Type-A)",
-      url: "https://drive.google.com/file/d/1bunsHKyiYqbmw9q4M9qkAeYz-XrTMXfi/view?usp=sharing",
-    },
-    {
-      label: "Google Drive (Type-B)",
-      url: "https://drive.google.com/file/d/1jT24qNAOPYJnHa-JCh5yOIk0MGaproKg/view?usp=sharing",
-    },
-    {
-      label: "Google Drive (Normal Edition)",
-      url: "https://drive.google.com/file/d/13s_YZd9D3WhpQdQOZT_J5mCn7qtoqdE2/view?usp=sharing",
-    },
-        ]
+url: https://controlc.com/a65f852b
 ---
 
 ![[Music] Cover Album Hinatazaka Type A](./image.jpg)
@@ -34,40 +18,40 @@ link:  [{
 
 # Information
 
-Artist          : Hinatazaka46 <br>
-Title           : Hinatazaka (ひなたざか) <br>
-Release Date    : 23 September 2020 <br>
+Artist : Hinatazaka46 <br>
+Title : Hinatazaka (ひなたざか) <br>
+Release Date : 23 September 2020 <br>
 
 # Playlist
 
 Complete Edition <br>
 
-1. Overture 
+1. Overture
 2. Kyun (キュン)
 3. Doremisolasido (ドレミソラシド)
 4. Konna ni Suki ni Natchatte Ii no? (こんなに好きになっちゃっていいの？
 5. Sonna Koto Nai Yo (ソンナコトナイヨ)
-6. Joyful Love 
+6. Joyful Love
 7. Kitsune (キツネ)
 8. Seishun no Uma (青春の馬)
 9. Azato Kawaii (アザトカワイイ)
 10. Kono Natsu wo Jam ni Shiyou (この夏をジャムにしよう)
 11. Honto no Jikan (ホントの時間)
-12. My God 
-13. Dash&Run 
+12. My God
+13. Dash&Run
 14. Dare Yori mo Takaku Tobe! 2020 (誰よりも高く跳べ! 2020)
-15. 日向坂 (Hinatazaka) 
+15. 日向坂 (Hinatazaka)
 16. Nazee (ナゼー)
 17. NO WAR in The Future 2020
 18. Tada Gamushara ni (ただがむしゃらに)
-19. Cage 
+19. Cage
 20. Doushite Ame da to Itta Darou? (どうして雨だと言ったんだろう? )
 21. Kawa wa Nagareru (川は流れる)
 22. Tokimeki Sou (ときめき草)
-23. Footsteps 
+23. Footsteps
 24. Masaka Guuzen... (まさか　偶然・・・)
-25. My Fans 
-26. See Through 
+25. My Fans
+26. See Through
 27. Yakusoku no Tamago 2020 (約束の卵 2020)
 
 Type A <br>
