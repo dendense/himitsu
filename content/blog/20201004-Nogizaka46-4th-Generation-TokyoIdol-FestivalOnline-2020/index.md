@@ -7,13 +7,7 @@ description: "Perform Nogizaka46 4th Generation @Tokyo Idol Festival Online 2020
 tags: ["Perform", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-link:
-  [
-    {
-      label: "Google Drive (1080p)",
-      url: "https://drive.google.com/file/d/1lwSR-Fs_ciWR0IkGG2ZWMuv72_l-f0D6/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1lwSR-Fs_ciWR0IkGG2ZWMuv72_l-f0D6/view?usp=sharing
 ---
 
 ![Nogizaka46 on Tokyo Idol Festival Online 2020](./image.jpg)
@@ -25,17 +19,17 @@ link:
 # Information
 
 Artist : Nogizaka46 4th Generation <br/>
-Event  : Tokyo Idol Festival Online 2020 <br/>
-Date   : 04 October 2020 <br/>
+Event : Tokyo Idol Festival Online 2020 <br/>
+Date : 04 October 2020 <br/>
 
 # Setlist
 
-00. OVERTURE (4th Generation Version)
-01. Yonbanme no Hikari (Endo Sakura center)
-02. Toshitsu no Kimi e (Kakehashi Sayaka center) <br>
-MC + Jikoshoukai <br>
-03. Seifuku no Mannequin (Shibata Yuna center)
-04. Girl Rules (Kaki Haruka center)
-05. Kiss no Shuriken (Endo Sakura center)
-06. I See... (Kaki Haruka center) <br>
-END
+0.  OVERTURE (4th Generation Version)
+1.  Yonbanme no Hikari (Endo Sakura center)
+2.  Toshitsu no Kimi e (Kakehashi Sayaka center) <br>
+    MC + Jikoshoukai <br>
+3.  Seifuku no Mannequin (Shibata Yuna center)
+4.  Girl Rules (Kaki Haruka center)
+5.  Kiss no Shuriken (Endo Sakura center)
+6.  I See... (Kaki Haruka center) <br>
+    END

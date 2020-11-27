@@ -7,13 +7,7 @@ description: "Hinatazaka46 - Kyun + Kitsune + Talk @SONGS OF TOKYO FESTIVAL 2020
 tags: ["Perform", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
-link:
-  [
-    {
-      label: "Google Drive (1080p)",
-      url: "https://drive.google.com/file/d/1TITLVGy8IFiF5eVXrLvEPCU7m03bYu6E/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1TITLVGy8IFiF5eVXrLvEPCU7m03bYu6E/view?usp=sharing
 ---
 
 ![Hinatazaka46 - Kyun + Kitsune + Talk @SONGS OF TOKYO FESTIVAL 2020](./image.jpg)
@@ -26,6 +20,7 @@ link:
 
 Artist : Hinatazaka46 <br/>
 Songs :
+
 1. Kyun (キュン)
 2. Kitsune (キツネ) <br>
 

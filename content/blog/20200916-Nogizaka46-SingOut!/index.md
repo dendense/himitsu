@@ -7,30 +7,7 @@ description: "Nogizaka46 - Sing Out! single released. Recommended Music!"
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-featured: false
-link:
-  [
-    {
-      label: "GD (Regular Ed) ",
-      url: "https://drive.google.com/file/d/1-7rRhaj29xOgtfp6czkpFlx4buKjFNDd/view?usp=sharing",
-    },
-    {
-      label: "GD (Type A)",
-      url: "https://drive.google.com/file/d/1HXE4JiDJSO6et47R1uJwA53DrW6dFJRJ/view?usp=sharing",
-    },
-    {
-      label: "GD (Type B)",
-      url: "https://drive.google.com/file/d/1Hd5WVJRcc8pQryvsMPjPaYtxa6VqpBcP/view?usp=sharing",
-    },
-    {
-      label: "GD (Type C)",
-      url: "https://drive.google.com/file/d/1BdFuzQifX6XJ6rM4OCzXWNjmzU6_N8Bw/view?usp=sharing",
-    },
-    {
-      label: "GD (Type D)",
-      url: "https://drive.google.com/file/d/18goxW5IdwdY9jRbIk50L00o1aKFWYlMf/view?usp=sharing",
-    },
-  ]
+url: https://controlc.com/6b208d41
 ---
 
 ![Nogizaka46 - Sing Out!](./image.jpg)

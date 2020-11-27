@@ -8,20 +8,16 @@ tags: ["Music", "Dreamcatcher"]
 image: cover.jpg
 image2: "../../assets/badges/musician.png"
 featured: false
-link:
-  [
-    {
-      label: "GD ",
-      url: "https://drive.google.com/file/d/1eFwY0vDcOHBG9P7ZAFjOOu2XjiV7jZZA/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1eFwY0vDcOHBG9P7ZAFjOOu2XjiV7jZZA/view?usp=sharing
 ---
 
 ![Dreamcatcher - R.o.S.E. BLUE](./cover.jpg)
 
 ## Format
+
 - FLAC / 16Bit
 
 ## Playlist
-01. Dreamcatcher - R.o.S.E BLUE (Prod. ESTi)
-02. Dreamcatcher - R.o.S.E BLUE (Prod. ESTi) (inst.)
+
+1.  Dreamcatcher - R.o.S.E BLUE (Prod. ESTi)
+2.  Dreamcatcher - R.o.S.E BLUE (Prod. ESTi) (inst.)

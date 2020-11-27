@@ -7,14 +7,7 @@ description: "Nogizaka46 - I See Music Video released. Recommended Music!"
 tags: ["MV", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-link:
-  [
-    {
-      label: "Google Drive",
-      url: "https://drive.google.com/file/d/11PGJWuv55HQUEotLOU-pmxsJZP4WJ27h/view?usp=sharing",
-    },
-    { label: "Racaty", url: "https://racaty.net/1qlo0uaptjyw" },
-  ]
+url: https://drive.google.com/file/d/11PGJWuv55HQUEotLOU-pmxsJZP4WJ27h/view?usp=sharing
 ---
 
 ![[MV] Nogizaka46 - I See..](./image.jpg)

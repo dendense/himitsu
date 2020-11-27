@@ -8,13 +8,7 @@ tags: ["Music", "SUPAGA", "Chika"]
 image: cover.jpg
 image2: "../../assets/badges/chika.png"
 featured: false
-link:
-  [
-    {
-      label: "GD",
-      url: "https://drive.google.com/file/d/1gMfgtna9F01d1EZsiIA-q8j6lwk-s71c/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1gMfgtna9F01d1EZsiIA-q8j6lwk-s71c/view?usp=sharing
 ---
 
 ![SUPER☆GiRLS - Wasure Sakura](./cover.jpg)

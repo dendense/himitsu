@@ -8,29 +8,7 @@ tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
 featured: false
-link:
-  [
-    {
-      label: "GD (Regular Ed) ",
-      url: "https://drive.google.com/file/d/1qRUTt7Lk7nzPFqJBDtG3XHiu0ObG_OpH/view?usp=sharing",
-    },
-    {
-      label: "GD (Type A)",
-      url: "https://drive.google.com/file/d/15hlmTFK9l4oI1KStvY5h91lITWoaipzs/view?usp=sharing",
-    },
-    {
-      label: "GD (Type B)",
-      url: "https://drive.google.com/file/d/1-MBIa5HRYizLP_WNwA3rg7xsNN-gqtdj/view?usp=sharing",
-    },
-    {
-      label: "GD (Type C)",
-      url: "https://drive.google.com/file/d/16k0aVra-BkYDg7_6Q_hB8byScEfgtWnG/view?usp=sharing",
-    },
-    {
-      label: "GD (Type D)",
-      url: "https://drive.google.com/file/d/1EfRZD8-kUKmELsVPd2h-C-AHTcmWBMl7/view?usp=sharing",
-    },
-  ]
+url: https://controlc.com/532467ea
 ---
 
 ![Nogizaka46 - Nigemizu](./image.jpg)
