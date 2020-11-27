@@ -11,7 +11,7 @@ import SEO from "../components/Seo"
 export default function blogTemplate({ data, pageContext }) {
   // const siteUrl = data.site.siteMetadata
   const post = data.markdownRemark
-  const { title, author, date, link, path, tags } = post.frontmatter
+  const { title, author, date, path, tags } = post.frontmatter
   const { shortenedLink } = pageContext
 
   // pas production mode, kalau disqusconfig nya sesuain sama production nya yaa~
@@ -41,16 +41,16 @@ export default function blogTemplate({ data, pageContext }) {
                 <div className="card-header text-center">
                   Downloadable Content
                 </div>
-                    <li key="link1" className="list-group-item text-center">
-                      <span className="font-weight-bold mr-2">[Link]</span>
-                      <a
-                        href={shortenedLink}
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
-                        {shortenedLink}
-                      </a>
-                    </li>
+                <li key="link1" className="list-group-item text-center">
+                  <span className="font-weight-bold mr-2">[Link]</span>
+                  <a
+                    href={shortenedLink}
+                    target="_blank"
+                    rel="noreferrer noopener"
+                  >
+                    {shortenedLink}
+                  </a>
+                </li>
               </div>
             )}
             <div style={{ marginTop: "2rem" }}>
