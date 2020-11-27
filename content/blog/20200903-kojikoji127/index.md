@@ -12,8 +12,6 @@ label: Google Drive
 url: "https://drive.google.com/file/d/1biYDNy4dfJ71Vb4Vw3FqIztKUdc1DDkG/view?usp=sharing"
 ---
 
-![Kojikoji - 127](./image.jpg)
-
 # Format
 
 - MP3/320/CD

@@ -11,7 +11,7 @@ import SEO from "../components/Seo"
 export default function blogTemplate({ data, pageContext }) {
   // const siteUrl = data.site.siteMetadata
   const post = data.markdownRemark
-  const { title, author, date, path, tags } = post.frontmatter
+  const { title, author, date, path, tags, image, label } = post.frontmatter
   const { shortenedLink } = pageContext
 
   // pas production mode, kalau disqusconfig nya sesuain sama production nya yaa~
@@ -32,6 +32,13 @@ export default function blogTemplate({ data, pageContext }) {
               Posted by <b>{author}</b> on {date} |{" "}
               <CommentCount config={disqusConfig} />
             </p>
+            <div className="d-flex justify-content-center">
+              <img
+                src={image.childImageSharp.fluid.src}
+                alt={title}
+                style={{ objectFit: "cover" }}
+              />
+            </div>
             <div
               style={{ margin: "0.5rem" }}
               dangerouslySetInnerHTML={{ __html: post.html }}
@@ -42,7 +49,7 @@ export default function blogTemplate({ data, pageContext }) {
                   Downloadable Content
                 </div>
                 <li key="link1" className="list-group-item text-center">
-                  <span className="font-weight-bold mr-2">[Link]</span>
+                  <span className="font-weight-bold mr-2">[{label}]</span>
                   <a
                     href={shortenedLink}
                     target="_blank"
@@ -87,9 +94,14 @@ export const blogQuery = graphql`
         title
         path
         tags
-        link {
-          label
-          url
+        label
+        url
+        image {
+          childImageSharp {
+            fluid {
+              src
+            }
+          }
         }
       }
       html

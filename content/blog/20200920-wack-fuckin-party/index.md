@@ -8,10 +8,9 @@ tags: ["Concert", "WACK", "Chika"]
 image: cover.jpg
 image2: "../../assets/badges/chika.png"
 featured: false
+label: Google Drive
 url: https://drive.google.com/file/d/1bFmjQGSLnYZTFt0oqw1soQnFQeVtH-Rf/view?usp=sharing
 ---
-
-![WACK FUCKIN' PARTY FINAL](./cover.jpg)
 
 ![Image1](./image1.jpg)
 ![Image2](./image2.jpg)

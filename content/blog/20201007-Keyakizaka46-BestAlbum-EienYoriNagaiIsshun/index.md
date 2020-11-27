@@ -7,10 +7,9 @@ description: "Keyakizaka46 Best Album"
 tags: ["Music", "Keyakizaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
+label: Pasted
 url: https://controlc.com/ec3d7046
 ---
-
-![[Music] Cover Album Keyakizaka46 Best Album Regular Edition](./image.jpg)
 
 # Format
 

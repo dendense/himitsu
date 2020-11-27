@@ -7,10 +7,9 @@ description: "Nogizaka46 - Jikochuu de Ikou! single released. Recommended Music!
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Pasted
 url: https://controlc.com/e7d5651a
 ---
-
-![Nogizaka46 - Jikochuu de Ikou!](./image.jpg)
 
 # Format
 

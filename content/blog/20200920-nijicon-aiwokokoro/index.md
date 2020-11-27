@@ -8,10 +8,9 @@ tags: ["Music", "Nijicon", "Chika"]
 image: cover.jpg
 image2: "../../assets/badges/chika.png"
 featured: false
+label: Google Drive
 url: https://drive.google.com/file/d/1mu3fZXTytlJCQZUoHxww_rENjBpToO-8/view?usp=sharing
 ---
-
-![Nijicon - Ai wo Kokoro ni Summer to Kazoeyo](./cover.jpg)
 
 # Format
 

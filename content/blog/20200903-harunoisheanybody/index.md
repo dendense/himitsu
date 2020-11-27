@@ -10,8 +10,6 @@ label: Google Drive # Tulis pasted jika banyak link, tulis GD/Mediafire/Racaty/d
 url: https://drive.google.com/file/d/18glHKXG93WT7-DFm7lqJmc-_DlZ3DnKj/view?usp=sharing #Link Dari pasted.co/single link
 ---
 
-![Haruno - IS SHE ANYBODY](./image.jpg)
-
 # Format
 
 - FLAC/Lossless/WEB

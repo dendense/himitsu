@@ -7,10 +7,9 @@ description: "Nogizaka46 - Ima ga Omoide ni Naru Made album released. Recommende
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Pasted
 url: https://drive.google.com/file/d/1355OtuWI4B2d86nkRbuYI1yKwfSLCBOY/view?usp=sharing
 ---
-
-![Nogizaka46 - Ima ga Omoide ni Naru Made](./image.jpg)
 
 # Format
 

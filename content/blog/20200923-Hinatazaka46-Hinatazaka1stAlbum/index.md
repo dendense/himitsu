@@ -7,10 +7,9 @@ description: "Hinatazaka46 First Album"
 tags: ["Music", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
+label: Pasted
 url: https://controlc.com/a65f852b
 ---
-
-![[Music] Cover Album Hinatazaka Type A](./image.jpg)
 
 # Format
 

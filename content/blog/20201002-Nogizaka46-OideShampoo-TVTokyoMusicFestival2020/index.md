@@ -7,10 +7,9 @@ description: "Perform Nogizaka46 Oide Shampoo on TV Tokyo Music Festival 2020"
 tags: ["Perform", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/1ETuPPKyw_K5YnCkGZUGmmrozwPFv9-Jo/view?usp=sharing
 ---
-
-![Nogizaka46 Oide Shampoo](./image.jpg)
 
 # Format
 

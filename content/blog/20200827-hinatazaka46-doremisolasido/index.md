@@ -10,8 +10,6 @@ label: Pasted # Tulis pasted jika banyak link, tulis GD/Mediafire/Racaty/dsb kal
 url: https://controlc.com/bf40184f #Link Dari pasted.co
 ---
 
-![Doremisolasido](./H462A.jpg)
-
 # Format
 
 - MP3/320/CD

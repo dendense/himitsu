@@ -7,10 +7,9 @@ description: "Nogizaka46 - Route 246 single released. Recommended Music!"
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Pasted
 url: https://controlc.com/ae94cc3b
 ---
-
-![Nogizaka46 - Route 246](./image.jpg)
 
 # Format
 

@@ -7,10 +7,9 @@ description: "Hinatazaka46 1st Album Bonus Video (ALL TYPE)"
 tags: ["Concert", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
+label: Pasted
 url: https://controlc.com/9b667f06
 ---
-
-![[Concert] Hinatazaka46 Debut Countdown Live](./image.jpg)
 
 # Format
 

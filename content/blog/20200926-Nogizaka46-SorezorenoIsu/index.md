@@ -8,10 +8,9 @@ tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
 featured: false
+label: Pasted
 url: https://controlc.com/e1e2b68c
 ---
-
-![Nogizaka46 - Sorezore no Isu](./image.jpg)
 
 # Format
 

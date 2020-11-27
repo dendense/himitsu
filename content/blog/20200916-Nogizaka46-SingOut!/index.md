@@ -7,10 +7,9 @@ description: "Nogizaka46 - Sing Out! single released. Recommended Music!"
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Pasted
 url: https://controlc.com/6b208d41
 ---
-
-![Nogizaka46 - Sing Out!](./image.jpg)
 
 # Format
 

@@ -7,10 +7,9 @@ description: "Keyakizaka46 Live Online, AEON Card with You!"
 tags: ["Concert", "Keyakizaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/1LfwvSgelNLBFjm1txKIhZgGCrKy7iEYI/view?usp=sharing
 ---
-
-![[Concert] Keyakizaka46 Live Online, AEON Card with You!](./image.jpg)
 
 # Format
 

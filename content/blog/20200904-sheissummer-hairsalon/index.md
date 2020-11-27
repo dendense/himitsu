@@ -12,8 +12,6 @@ label: "Google Drive"
 url: "https://drive.google.com/file/d/1qLC2XJlAE8Q4K2KZUarF6pVE_QLRGTgB/view?usp=sharing"
 ---
 
-![Alt Image](./featured.png)
-
 # Format
 
 - FLAC/Lossless/WEB

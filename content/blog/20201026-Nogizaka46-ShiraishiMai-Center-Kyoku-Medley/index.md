@@ -7,10 +7,9 @@ description: "Nogizaka46 - Shiraishi Mai Center Kyoku Medley + Talk @CDTV Live! 
 tags: ["Perform", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/10nTqSGN06cYuIknvf-q-xauMm0van0p2/view?usp=sharing
 ---
-
-![Nogizaka46 - Shiraishi Mai Center Kyoku Medley + Talk @CDTV Live! Live! Special](./image.jpg)
 
 # Format
 

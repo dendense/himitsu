@@ -7,10 +7,9 @@ description: "Nogizaka46 - Yoakemade Tsuyogaranakutemoii single released. Recomm
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Pasted
 url: https://controlc.com/1a38cb8e
 ---
-
-![Nogizaka46 - Yoakemade Tsuyogaranakutemoii](./image.jpg)
 
 # Format
 
