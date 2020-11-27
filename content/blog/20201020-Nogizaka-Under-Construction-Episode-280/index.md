@@ -7,13 +7,7 @@ description: "Nogizaka Under Construction Episode 280"
 tags: ["Variety", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-link:
-  [
-    {
-      label: "Google Drive",
-      url: "https://drive.google.com/file/d/1KLcrTG6Dtp_XcXILhuvxF9injv2gpo3N/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/1KLcrTG6Dtp_XcXILhuvxF9injv2gpo3N/view?usp=sharing
 ---
 
 ![Nogizaka Under Construction Episode 280](./image.jpg)
@@ -25,5 +19,5 @@ link:
 # Information
 
 Artist : Nogizaka46 <br/>
-Variety :  Nogizaka Under Construction <br>
+Variety : Nogizaka Under Construction <br>
 Date : 19 October 2020 <br>

@@ -7,13 +7,7 @@ description: "Nogizaka46 - Shiraishi Mai Center Kyoku Medley + Talk @CDTV Live! 
 tags: ["Perform", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
-link:
-  [
-    {
-      label: "Google Drive (1080p)",
-      url: "https://drive.google.com/file/d/10nTqSGN06cYuIknvf-q-xauMm0van0p2/view?usp=sharing",
-    },
-  ]
+url: https://drive.google.com/file/d/10nTqSGN06cYuIknvf-q-xauMm0van0p2/view?usp=sharing
 ---
 
 ![Nogizaka46 - Shiraishi Mai Center Kyoku Medley + Talk @CDTV Live! Live! Special](./image.jpg)
@@ -26,6 +20,7 @@ link:
 
 Artist : Nogizaka46 <br>
 Songs :
+
 1. Girl's Rule (ガールズルール)
 2. Ima, Hanashitai Dareka ga Iru (今、話したい誰かがいる)
 3. Influencer (インフルエンサー)

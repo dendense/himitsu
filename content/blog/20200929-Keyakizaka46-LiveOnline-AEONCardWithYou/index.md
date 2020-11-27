@@ -7,11 +7,7 @@ description: "Keyakizaka46 Live Online, AEON Card with You!"
 tags: ["Concert", "Keyakizaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
-link:  [{
-      label: "Google Drive (1080p)",
-      url: "https://drive.google.com/file/d/1LfwvSgelNLBFjm1txKIhZgGCrKy7iEYI/view?usp=sharing",
-    },
-        ]
+url: https://drive.google.com/file/d/1LfwvSgelNLBFjm1txKIhZgGCrKy7iEYI/view?usp=sharing
 ---
 
 ![[Concert] Keyakizaka46 Live Online, AEON Card with You!](./image.jpg)
@@ -22,26 +18,26 @@ link:  [{
 
 # Information
 
-Artist          : Keyakizaka46 <br>
-Title           : Keyakizaka46 Live Online, AEON Card with You! <br>
-Date            : 27 September 2020 <br>
+Artist : Keyakizaka46 <br>
+Title : Keyakizaka46 Live Online, AEON Card with You! <br>
+Date : 27 September 2020 <br>
 
 # Setlist
 
-00. Overture
-01. Kaze ni Fukaretemo
-02. Abunakkashii Keikaku <br>
-MC <br>
-03. 302 Goshitsu
-04. Bokutachi no Sensou
-05. Aozora ga Chigau <br>
-MC
-06. Eccentric
-07. Sekai ni wa Ai Shikanai <br>
-08. Futari Sezon <br>
-MC
-09. Kuroi Hitsuji
+0.  Overture
+1.  Kaze ni Fukaretemo
+2.  Abunakkashii Keikaku <br>
+    MC <br>
+3.  302 Goshitsu
+4.  Bokutachi no Sensou
+5.  Aozora ga Chigau <br>
+    MC
+6.  Eccentric
+7.  Sekai ni wa Ai Shikanai <br>
+8.  Futari Sezon <br>
+    MC
+9.  Kuroi Hitsuji
 10. 10gatsu no Pool ni Tobikonda <br>
-MC
+    MC
 11. Dare ga Sono Kane wo Narasu no Ka? <br>
-END (Last Bow : Ozono Rei)
+    END (Last Bow : Ozono Rei)
