@@ -1,5 +1,5 @@
 ---
-path: /blog/202011-Nogizaka46-Boku-wa-Boku-wo-Suki-ni-Naru-BestArtist
+path: /blog/20201125-Nogizaka46-Boku-wa-Boku-wo-Suki-ni-Naru-BestArtist
 date: 2020-11-27T07:53:04.783Z
 title: "[Perform] Nogizaka46 - Boku wa Boku wo Suki ni Naru + Talk @Best Artist 2020"
 author: Chr0balord
