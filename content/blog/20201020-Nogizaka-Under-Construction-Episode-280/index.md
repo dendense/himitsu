@@ -7,10 +7,9 @@ description: "Nogizaka Under Construction Episode 280"
 tags: ["Variety", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/1KLcrTG6Dtp_XcXILhuvxF9injv2gpo3N/view?usp=sharing
 ---
-
-![Nogizaka Under Construction Episode 280](./image.jpg)
 
 # Format
 

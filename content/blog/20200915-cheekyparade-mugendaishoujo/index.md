@@ -11,8 +11,6 @@ label: "Google Drive"
 url: "https://drive.google.com/file/d/1jCGp_mG4a8flnbN1uZoAemlqOGmtuEVo/view?usp=sharing"
 ---
 
-![Cheeky Parade - Mugendai Shoujo A](./cover.jpg)
-
 # Format
 
 - FLAC/320/CD

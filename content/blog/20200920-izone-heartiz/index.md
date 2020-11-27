@@ -8,10 +8,9 @@ tags: ["Music", "IZONE"]
 image: cover.jpg
 image2: "../../assets/badges/musician.png"
 featured: false
+label: Google Drive
 url: https://drive.google.com/file/d/1DmYaD_0f3NnaWbOpqdoHHtuARu0NsgaI/view?usp=sharing
 ---
-
-![IZ*ONE - HEART*IZ](./cover.jpg)
 
 ## Format
 

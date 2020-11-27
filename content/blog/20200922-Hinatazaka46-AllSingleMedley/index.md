@@ -7,10 +7,9 @@ description: "Perform Hinatazaka46 - All Single Medley."
 tags: ["Perform", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/1gOFIFnUfx_omby1dpZm6RnJaQF_30i6o/view?usp=sharing
 ---
-
-![[Perform] Hinatazaka46 - All Single Medley](./image.jpg)
 
 # Format
 

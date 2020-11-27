@@ -12,8 +12,6 @@ label: "Google Drive"
 url: "https://drive.google.com/file/d/1fhwFtnZAJjtp9nT2yRuLtswRFcUThoBH/view?usp=sharing"
 ---
 
-![Task have Fun - Kimi nan Dakara](./image.jpg)
-
 # Format
 
 - FLAC / Lossless / CD

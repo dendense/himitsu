@@ -7,10 +7,9 @@ description: "Keyakizaka46 The Last Live Concert"
 tags: ["Concert", "Keyakizaka46"]
 image: image.png
 image2: "../../assets/badges/hinatazaka46.png"
+label: Pasted
 url: https://controlc.com/6a7500d8
 ---
-
-![[Concert] Keyakizaka46 The Last Live Concert](./image.jpg)
 
 # Format
 

@@ -7,10 +7,9 @@ description: "Perform Nogizaka46 4th Generation @Tokyo Idol Festival Online 2020
 tags: ["Perform", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/1lwSR-Fs_ciWR0IkGG2ZWMuv72_l-f0D6/view?usp=sharing
 ---
-
-![Nogizaka46 on Tokyo Idol Festival Online 2020](./image.jpg)
 
 # Format
 

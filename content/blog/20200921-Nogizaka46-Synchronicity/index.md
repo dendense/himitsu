@@ -8,33 +8,8 @@ tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
 featured: false
-link:
-  [
-    {
-      label: "GD (Special Ed) ",
-      url: "https://drive.google.com/file/d/1SCGTVsPuxkka4wjC7iGPw1Xv7-pKBmYF/view?usp=sharing",
-    },
-    {
-      label: "GD (Regular Ed) ",
-      url: "https://drive.google.com/file/d/1wlH_WNSCGk3X2wjapehL-eYfTN36qJKW/view?usp=sharing",
-    },
-    {
-      label: "GD (Type A)",
-      url: "https://drive.google.com/file/d/1niHtAtSEEWaZoMFpDJFVXY9VbOafaqzj/view?usp=sharing",
-    },
-    {
-      label: "GD (Type B)",
-      url: "https://drive.google.com/file/d/19A7YoEgTODK_JrvdlOiEkZs6GLjtxzzN/view?usp=sharing",
-    },
-    {
-      label: "GD (Type C)",
-      url: "https://drive.google.com/file/d/1ozJq2DZtys-brAOTumwguDUuxYSqT76u/view?usp=sharing",
-    },
-    {
-      label: "GD (Type D)",
-      url: "https://drive.google.com/file/d/1csUPHEU6Kfzdc2W_dR4eigxUsBYdqK_v/view?usp=sharing",
-    },
-  ]
+label: Pasted
+url: https://controlc.com/b2f74547
 ---
 
 ![Nogizaka46 - Synchronicity](./image.jpg)

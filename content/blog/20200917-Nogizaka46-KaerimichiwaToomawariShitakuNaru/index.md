@@ -7,10 +7,9 @@ description: "Nogizaka46 - Kaerimichi wa Toomawari Shitaku Naru single released.
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Pasted
 url: https://controlc.com/d319502c
 ---
-
-![Nogizaka46 - Kaerimichi wa Toomawari Shitaku Naru](./image.jpg)
 
 # Format
 

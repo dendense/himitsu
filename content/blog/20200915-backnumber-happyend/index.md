@@ -12,8 +12,6 @@ label: "Google Drive"
 url: "https://drive.google.com/file/d/14fZSkfqTdcUkvL7LJW9Pv701soEszfBN/view?usp=sharing"
 ---
 
-![back number - Happy End](./image.jpg)
-
 # Format
 
 - MP3/320/WEB

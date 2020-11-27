@@ -7,10 +7,9 @@ description: "Perform Hinatazaka46 Azato Kawaii."
 tags: ["Perform", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/1PQQ0y-9ws86JTr4DurPvPQ_lr2I8IB0b/view?usp=sharing
 ---
-
-![[Perform] Hinatazaka46 - Azato Kawaii](./image.jpg)
 
 # Format
 

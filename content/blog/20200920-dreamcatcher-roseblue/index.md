@@ -8,10 +8,9 @@ tags: ["Music", "Dreamcatcher"]
 image: cover.jpg
 image2: "../../assets/badges/musician.png"
 featured: false
+label: Google Drive
 url: https://drive.google.com/file/d/1eFwY0vDcOHBG9P7ZAFjOOu2XjiV7jZZA/view?usp=sharing
 ---
-
-![Dreamcatcher - R.o.S.E. BLUE](./cover.jpg)
 
 ## Format
 

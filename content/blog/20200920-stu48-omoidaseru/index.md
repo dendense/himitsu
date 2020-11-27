@@ -8,10 +8,9 @@ tags: ["Music", "STU48"]
 image: cover.jpg
 image2: "../../assets/badges/48groups.png"
 featured: false
+label: Pasted
 url: https://controlc.com/b16f478b
 ---
-
-![STU48 - Omoidaseru Koi wo Shiyou](./cover.jpg)
 
 ### Format
 

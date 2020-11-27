@@ -12,8 +12,6 @@ label: Pasted.co
 url: "https://controlc.com/9f14867a"
 ---
 
-![Hinatazaka46 - Sonna Koto Nai Yo](./image.jpg)
-
 # Format
 
 - MP3/320/CD

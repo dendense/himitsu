@@ -7,10 +7,9 @@ description: "Shiraishi Mai Graduation Concert ~Always Beside You~ (ZAIKO Versio
 tags: ["Concert", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Google Drive
 url: https://drive.google.com/file/d/1zn88kYpgybFT2rwOApq6r7llNfPGJi2b/view?usp=sharing
 ---
-
-![Shiraishi Mai Graduation Concert ~Always Beside You~ (ZAIKO Version)](./image.jpg)
 
 # Format
 

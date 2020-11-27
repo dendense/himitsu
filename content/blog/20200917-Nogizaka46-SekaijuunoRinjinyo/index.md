@@ -7,10 +7,9 @@ description: "Nogizaka46 - Sekaijuu no Rinjin yo single released. Recommended Mu
 tags: ["Music", "Nogizaka46"]
 image: image.jpg
 image2: "../../assets/badges/nogizaka46.png"
+label: Pasted
 url: https://controlc.com/563dc81e
 ---
-
-![Nogizaka46 - Sekaijuu no Rinjin yo](./image.jpg)
 
 # Format
 
