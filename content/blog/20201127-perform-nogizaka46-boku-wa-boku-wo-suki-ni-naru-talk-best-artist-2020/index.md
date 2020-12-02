@@ -5,7 +5,7 @@ title: "[Perform] Nogizaka46 - Boku wa Boku wo Suki ni Naru + Talk @Best Artist 
 author: Chr0balord
 description: Nogizaka46 - Boku wa Boku wo Suki ni Naru + Talk @Best Artist 2020
 tags:
-  - Concert
+  - Perform
   - Nogizaka46
 image: perform-201125-nogizaka46-boku-wa-boku-wo-suki-ni-naru-talk-best-artist-2020.mp4_thumbs.jpg
 image2: nogizaka46.png
