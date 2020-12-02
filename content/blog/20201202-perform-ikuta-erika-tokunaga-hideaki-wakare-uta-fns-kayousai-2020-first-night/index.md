@@ -20,5 +20,5 @@ url: https://drive.google.com/file/d/1Z0I7wUHHfBDEwtxoUzrixFiYLu6CCTX-/view?usp=
 # Information
 
 Artist : Ikuta Erika (Nogizaka46) & Tokunaga Hideaki<br>
-Song : Wakare Uta
+Song : Wakare Uta  <br>
 Date : 02 December 2020
