@@ -1,8 +1,8 @@
 ---
 path: /blog/20201202-Nogizaka46- Bokuwa-Bokuwo-Sukini-Naru-FNS-Kayousai-2020
 date: 2020-12-02T12:10:47.138Z
-title: "[Perform] Nogizaka46 - Boku wa Boku wo Suki ni Naru @FNS Kayousai 2020
-  (First Night)"
+title: "[Perform] Nogizaka46 - Boku wa Boku wo Suki ni Naru + Talk @FNS Kayousai
+  2020 (First Night)"
 author: Chr0balord
 description: Nogizaka46 - Boku wa Boku wo Suki ni Naru @FNS Kayousai 2020 (First Night)
 tags:
