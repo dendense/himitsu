@@ -20,6 +20,6 @@ url: https://drive.google.com/file/d/1trPMi9S6u_Lz3u8_XcUUQL-kCRBvRN6w/view?usp=
 
 They visited a vocational school in the Kawaguchiko, Yamanashi Prefecture. They will learn the basics of fishing with other students.
 
-Artist : Yoda Yuki & Yoshida Ayano Christie (Nogizaka46 <br>
+Artist : Yoda Yuki & Yoshida Ayano Christie (Nogizaka46) <br>
 Variety : Nogizaka no Gakutabi <br>
 Date : 29 November 2020
