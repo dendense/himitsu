@@ -21,6 +21,6 @@ url: https://drive.google.com/file/d/1rAeqAaVj9N5PfVXkzXEBV-mUgecfz_FE/view?usp=
 
 Takayama Kazumi absent, her position replace by Sakaguchi Tamami.
 
-Artist : Nogizaka46 <br>\
+Artist : Nogizaka46\
 Song : Boku wa Boku wo Suki ni Naru <br>
 Date : 29 November 2020
