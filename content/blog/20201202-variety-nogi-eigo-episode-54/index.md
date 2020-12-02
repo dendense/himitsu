@@ -5,7 +5,7 @@ title: "[Variety] Nogi Eigo Episode 54"
 author: Chr0balord
 description: Nogi Eigo Episode 54
 tags:
-  - Concert
+  - Variety
   - Nogizaka46
 image: variety-201129-nogi-eigo-episode-54.mp4_thumbs.jpg
 image2: nogizaka46.png
