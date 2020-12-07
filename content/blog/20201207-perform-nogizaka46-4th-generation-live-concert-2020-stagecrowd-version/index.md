@@ -1,7 +1,7 @@
 ---
 path: /blog/20201207-Nogizaka46-4th-Generation-Live-Concert-2020
 date: 2020-12-07T06:21:51.982Z
-title: "[Perform] Nogizaka46 4th Generation Live Concert 2020 (Stagecrowd Version)"
+title: "[Concert] Nogizaka46 4th Generation Live Concert 2020 (Stagecrowd Version)"
 author: Chr0balord
 description: Nogizaka46 4th Generation Live Concert 2020 (Stagecrowd Version)
 tags:
