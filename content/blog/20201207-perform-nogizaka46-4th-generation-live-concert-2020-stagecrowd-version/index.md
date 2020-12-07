@@ -14,7 +14,7 @@ url: https://controlc.com/32e64b17
 ---
 # Format
 
-* MP4
+* MP4 (1080p & 720p)
 
 # Information
 
