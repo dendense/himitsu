@@ -27,48 +27,32 @@ Date : 14 December 2020 <br>
 
 Kageana : Murase Sae
 
-01. Imifu
-
-02. Amagami Hime
-
-03. Utsukushikimono
-
-04. Pioneer
+1. Imifu
+2. Amagami Hime
+3. Utsukushikimono
+4. Pioneer
 
 \--MC1--
 
 \--MC2--
 
-05. Warupii
-
-06. Heart no Dokusenken
-
-07. Heart Gata Virus
-
-08. Nageki no Figure
-
-09. Zipper
-
+5. Warupii
+6. Heart no Dokusenken
+7. Heart Gata Virus
+8. Nageki no Figure
+9. Zipper
 10. Dear J
-
 11. Wakariyasukute Gomen
 
 \--MC3--
 
 12. Kokoro no Hashi no Sofa
-
 13. Senaka kara Dakishimete
-
 14. Bokura no Regatta
-
 15. Mou Hadashi ni Hanarenai
-
 16. Namida Uri no Shoujo
-
 17. Zannen Shoujo
-
 18. Kiss wa Dameyo
-
 19. Abata mo Ekubo mo Fuku wa Uchi
 
 \--MC4--
@@ -76,13 +60,9 @@ Kageana : Murase Sae
 \--MC5--
 
 20. Minasan mo Goisshoni
-
 21. Kanojo ni Naremasuka
-
 22. Sobakasu no Kiss
-
 23. Tokonoma Seiza Musume
-
 24. Takane no Ringo
 
 \--MC6--
@@ -100,3 +80,5 @@ EN04. Seigi no Mikata Janai Hirou
 \--WENCORE--
 
 WEN01. Oogoe Diamond
+
+\--END--
