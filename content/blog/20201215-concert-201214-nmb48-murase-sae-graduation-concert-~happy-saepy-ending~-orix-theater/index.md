@@ -1,8 +1,8 @@
 ---
 path: /blog/20201215-Murase-Sae-Graduation-Concert-Happy-Saepy-Ending
 date: 2020-12-15T07:44:56.866Z
-title: "[Concert] 201214 NMB48 Murase Sae Graduation Concert ~Happy Saepy
-  Ending~ @Orix Theater"
+title: "[Concert] NMB48 Murase Sae Graduation Concert ~Happy Saepy Ending~ @Orix
+  Theater"
 author: Chr0balord
 description: NMB48 Murase Sae Graduation Concert ~Happy Saepy Ending~ @Orix Theater
 tags:
