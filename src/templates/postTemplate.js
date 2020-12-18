@@ -36,7 +36,9 @@ export default function blogTemplate({ data, pageContext }) {
               <img
                 src={image.childImageSharp.fluid.src}
                 alt={title}
-                style={{ objectFit: "cover" }}
+                width="100%"
+                height="500px"
+                style={{ objectFit: "contain" }}
               />
             </div>
             <div
