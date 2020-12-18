@@ -34,6 +34,11 @@ export default function indexTemplate({ data }) {
             title="Music"
             color="btn-donation text-white"
           />
+          <LabelCard
+            link="/tag/photos"
+            title="Photos"
+            color="btn-primary"
+          />
         </div>
         <div className="mt-3">
           <PostGrid
