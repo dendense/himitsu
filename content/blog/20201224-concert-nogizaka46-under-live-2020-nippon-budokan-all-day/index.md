@@ -73,6 +73,8 @@ EN03. Nogizaka no Uta
 
 Day-2
 
+Kageana : Suzuki Ayane & Ito Junna
+
 1. Overture (Under Live 2020 Version)
 2. 13nichi no Kinyobi
 3. Haru no Melody
@@ -117,6 +119,8 @@ EN03.  Nogizaka no Uta\
 2. Shakiism
 
 Day-3
+
+Kageana : Sakaguchi Tamami & Mukai Hazuki
 
 1. Overture (Under Live 2020 Version)
 2. Under
