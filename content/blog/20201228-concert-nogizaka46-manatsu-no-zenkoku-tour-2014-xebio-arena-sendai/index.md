@@ -18,6 +18,8 @@ url: https://drive.google.com/file/d/12KrHDlaz0Qv5juaxFuyMUqINqb6b-oay/view?usp=
 
 # Information
 
+This concert is from Nogidoga
+
 Artist : Nogizaka46 <br>Title : Nogizaka46 Manatsu no Zenkoku Tour 2014 @Sendai <br> Venue : Xebio Arena Sendai <br>Date : 24 August 2014
 
 # Setlist
