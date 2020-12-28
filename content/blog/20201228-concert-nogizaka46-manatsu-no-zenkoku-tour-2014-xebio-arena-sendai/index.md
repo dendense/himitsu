@@ -1,6 +1,6 @@
 ---
 path: /blog/20201229-Nogizaka46-Manatsu-no-Zenkoku-Tour-2014
-date: 2020-12-28T16:50:34.834Z
+date: 2020-12-28T18:06:50.916Z
 title: "[Concert] Nogizaka46 Manatsu no Zenkoku Tour 2014 @Xebio Arena Sendai"
 author: Chr0balord
 description: Nogizaka46 Manatsu no Zenkoku Tour 2014 @Xebio Arena Sendai
@@ -22,49 +22,30 @@ Artist : Nogizaka46 <br>Title : Nogizaka46 Manatsu no Zenkoku Tour 2014 @Sendai 
 
 # Setlist
 
-00. Overture（BOOM BOOM SATELLITES ver.）
+1. Overture（BOOM BOOM SATELLITES ver.）
+2. Natsu no Free & Easy
+3. Romance no Start
+4. Aitakatta Kamoshirenai
+5. Girl's Rule
+6. Nani mo Dekizu ni Soba ni Iru
+7. Koko ni Iru Riyuu
+8. Yubi Bouenkyou
+9. Romantic Ikayaki
+10. Psychokinesis no Kanosei 
+11. Sekkachina Katatsumuri
+12. Mukuchina Lion
+13. Boku ga Ikanakya Dare ga Ikunda?
+14. Sono Saki no Deguchi
+15. Umareta Mama de
 
-01. Natsu no Free & Easy
-
-02. Romance no Start
-
-03. Aitakatta Kamoshirenai
-
-04. Girl's Rule
-
-05. Nani mo Dekizu ni Soba ni Iru
-
-06. Koko ni Iru Riyuu
-
-07. Yubi Bouenkyou
-
-08. Romantic Ikayaki
-
-09. Psychokinesis no Kanosei 
-
-10. Sekkachina Katatsumuri
-
-11. Mukuchina Lion
-
-12. Boku ga Ikanakya Dare ga Ikunda?
-
-13. Sono Saki no Deguchi
-
-14. Umareta Mama de
-
-15. Sekai de Ichiban Kodoku na Lover
-
-16. Seifuku no Mannequin
-
-17. Hito wa Naze Hashiru no ka?
-
-18. Sonna Baka na...
-
-19. Kimi no Nawa Kibou
-
-20. Kidzuitara Kataomoi 
-
-21. Guru Guru Curtain
+    \--Dance Track--
+16. Sekai de Ichiban Kodoku na Lover
+17. Seifuku no Mannequin
+18. Hito wa Naze Hashiru no ka?
+19. Sonna Baka na...
+20. Kimi no Nawa Kibou
+21. Kidzuitara Kataomoi 
+22. Guru Guru Curtain
 
 \--ENCORE--
 
