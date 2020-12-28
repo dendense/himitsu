@@ -1,5 +1,5 @@
 ---
-path: /blog/20201229-Nogizaka46-Manatsu-no-Zenkoku-Tour-2014
+path: /blog/20201228-Nogizaka46-Manatsu-no-Zenkoku-Tour-2014
 date: 2020-12-28T18:06:50.916Z
 title: "[Concert] Nogizaka46 Manatsu no Zenkoku Tour 2014 @Xebio Arena Sendai"
 author: Chr0balord
