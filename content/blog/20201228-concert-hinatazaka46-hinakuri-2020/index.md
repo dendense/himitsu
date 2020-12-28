@@ -18,9 +18,7 @@ url: https://drive.google.com/file/d/1_MufyslYKMGtIU9n8cvx9mP6riH0kkrx/view?usp=
 
 # Information
 
-Artist : Hinatazaka46 <br>
-
-Title : Hinakuri 2020 ~Obake Hotel to 22nin no Santa Claus <br>
+Artist : Hinatazaka46 <br>Title : Hinakuri 2020 ~Obake Hotel to 22nin no Santa Claus <br>
 Date : 24 December 2020
 
 # Setlist
