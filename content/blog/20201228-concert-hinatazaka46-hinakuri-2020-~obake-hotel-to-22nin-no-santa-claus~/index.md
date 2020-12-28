@@ -1,7 +1,7 @@
 ---
 path: /blog/20201228-Hinatazaka46-Hinakuri-2020
 date: 2020-12-28T15:17:39.960Z
-title: "[Concert] Hinatazaka46 - Hinakuri 2020 ~Obake Hotel to 22nin no Santa Claus~"
+title: "[Concert] Hinatazaka46 - Hinakuri 2020 : Obake Hotel to 22nin no Santa Claus"
 author: Chr0balord
 description: Hinatazaka46 - Hinakuri 2020 ~Obake Hotel to 22nin no Santa Claus~
 tags:
