@@ -17,7 +17,5 @@ url: https://drive.google.com/file/d/1fZGZ_MqlSSg3llKpE66viMj8mkZ2YwbW/view?usp=
 
 # Information
 
-Sakamichi Series part only.
-
 Artist : YOASOBI <br>Song : Yoru ni Kakeru <br>
 Date : 31 December 2020
