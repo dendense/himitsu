@@ -1,5 +1,5 @@
 ---
-path: /blog/20201230-Nogizaka46-Sekaijuu-no-Rinjin-Yo-Japan-Record-Awards
+path: /blog/20201231-Nogizaka46-Sekaijuu-no-Rinjin-Yo-Japan-Record-Awards
 date: 2020-12-31T05:03:08.474Z
 title: "[Perform] Nogizaka46 - Sekaijuu no Rinjin Yo + Talk @62nd Japan Record Awards"
 author: Chr0balord
