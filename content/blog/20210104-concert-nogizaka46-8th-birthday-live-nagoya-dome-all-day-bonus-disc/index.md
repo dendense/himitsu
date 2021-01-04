@@ -22,7 +22,7 @@ Include monitor video 8th Birthday Live (Nogidoga Content)
 
 <!--StartFragment-->
 
-[特集｜のぎ動画｜乃木坂46公式 定額制動画サービス (nogidoga.com)](https://nogidoga.com/topics/14)
+[特集｜のぎ動画｜乃木坂46公式 定額制動画サービス ](https://nogidoga.com/topics/14)
 
 <!--EndFragment-->
 
@@ -30,9 +30,9 @@ Artist : Nogizaka46 <br> Concert : Nogizaka46 8th Birthday Live <br> Venue : Nag
 
 You can also buy original DVD & Bluray to support Nogizaka46
 
-[Amazon.co.jp: 8th YEAR BIRTHDAY LIVE (完全生産限定盤) (DVD) (特典なし): 乃木坂46: DVD](https://www.amazon.co.jp/dp/B08N3X669P/)
+[ 8th YEAR BIRTHDAY LIVE (完全生産限定盤) (DVD) (特典なし)](https://www.amazon.co.jp/dp/B08N3X669P/)
 
-[Amazon.co.jp: 8th YEAR BIRTHDAY LIVE (完全生産限定盤) (Blu-ray) (特典なし): 乃木坂46: DVD](https://www.amazon.co.jp/dp/B08N3GGQP7/)
+[8th YEAR BIRTHDAY LIVE (完全生産限定盤) (Blu-ray) (特典なし)](https://www.amazon.co.jp/dp/B08N3GGQP7/)
 
 Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!
 
