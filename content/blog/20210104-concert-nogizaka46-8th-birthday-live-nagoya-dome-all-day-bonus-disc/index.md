@@ -20,6 +20,12 @@ url: https://controlc.com/27fca156
 
 Include monitor video 8th Birthday Live (Nogidoga Content)
 
+<!--StartFragment-->
+
+[特集｜のぎ動画｜乃木坂46公式 定額制動画サービス (nogidoga.com)](https://nogidoga.com/topics/14)
+
+<!--EndFragment-->
+
 Artist : Nogizaka46 <br> Concert : Nogizaka46 8th Birthday Live <br> Venue : Nagoya Dome <br> Date : 21-24 February 2020 <br> Release Date for DVD & Bluray : 23 December 2020
 
 You can also buy original DVD & Bluray to support Nogizaka46
