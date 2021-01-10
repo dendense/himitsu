@@ -20,4 +20,4 @@ url: https://drive.google.com/file/d/1Zeoc6am0GSlR6xX7XVqSTLzAS9xZFvMG/view?usp=
 
 Artist : Yamazaki Rena & Kakehashi Sayaka (Nogizaka46)\
 Variety : Nogizaka46 Yamazaki Rena to Ohatsuchan <br>
-Date : 31 December 2020
+Date : 09 January 2021
