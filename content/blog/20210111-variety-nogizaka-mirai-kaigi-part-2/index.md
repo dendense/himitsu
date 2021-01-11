@@ -1,5 +1,5 @@
 ---
-path: /blog/20210111-Nogizaka-Future-Conference-Part2
+path: /blog/20210111-Nogizaka-Mirai-Kaigi-Part2
 date: 2021-01-11T11:05:54.450Z
 title: "[Variety] Nogizaka Mirai Kaigi (Part 2)"
 author: Chr0balord
