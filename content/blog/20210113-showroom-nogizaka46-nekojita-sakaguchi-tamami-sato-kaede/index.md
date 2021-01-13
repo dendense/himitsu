@@ -1,5 +1,5 @@
 ---
-path: /blog/20210114-Nogizaka46-Nekojita-Sakaguchi-Tamami-Sato-Kaede
+path: /blog/20210113-Nogizaka46-Nekojita-Sakaguchi-Tamami-Sato-Kaede
 date: 2021-01-13T17:11:32.311Z
 title: "[SHOWROOM] Nogizaka46 Nekojita - Sakaguchi Tamami & Sato Kaede"
 author: Chr0balord
