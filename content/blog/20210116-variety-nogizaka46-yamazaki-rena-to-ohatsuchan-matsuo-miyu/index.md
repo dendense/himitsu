@@ -1,5 +1,5 @@
 ---
-path: /blog/20210116-Nogizaka46-Yamazaki-Rena-to-Ohatsu-chan
+path: /blog/20210116-Nogizaka46-Yamazaki-Rena-to-Ohatsu-chan-Matsuo-Miyu
 date: 2021-01-16T15:06:12.800Z
 title: "[Variety] Nogizaka46 Yamazaki Rena to Ohatsuchan (Matsuo Miyu)"
 author: Chr0balord
