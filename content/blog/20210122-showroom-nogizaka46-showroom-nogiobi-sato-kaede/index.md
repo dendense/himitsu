@@ -10,7 +10,7 @@ tags:
 image: esupb2avkamummz.jpg
 image2: nogizaka46.png
 label: Google Drive
-url: https://drive.google.com/file/d/1Gw_-b34QJc9nM1hv9UA3JN4BCN_cDgsn/view?usp=sharing
+url: https://drive.google.com/file/d/1-k2uyLfdbYg1fdvInUFg8fwuedZBXhYg/view?usp=sharing
 ---
 # Format
 
