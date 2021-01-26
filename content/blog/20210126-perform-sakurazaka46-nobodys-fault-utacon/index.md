@@ -1,7 +1,7 @@
 ---
 path: /blog/20210126-Sakurazaka46-Nobodys-Fault-Utacon
 date: 2021-01-26T12:33:31.149Z
-title: "[Perform] Sakurazaka46 - Nobody's Fault @Utacon"
+title: "[Perform] Sakurazaka46 - Nobody's Fault + Talk @Utacon"
 author: Chr0balord
 description: Sakurazaka46 - Nobody's Fault @Utacon
 tags:
