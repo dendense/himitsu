@@ -1,5 +1,5 @@
 ---
-path: /blog/20210124-Nogizaka-Under-Construction-Episode-293
+path: /blog/20210127-Music-on-Special-Nogizaka46
 date: 2021-01-27T15:19:10.401Z
 title: "[Variety] MUSIC-ON! Special Nogizaka46"
 author: Chr0balord
