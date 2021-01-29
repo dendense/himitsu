@@ -1,7 +1,7 @@
 ---
 path: /blog/20210129-Nogizaka46-Boku-wa-Boku-wo-Suki-ni-Naru-Buzz-Rhythm-02
 date: 2021-01-29T16:54:48.175Z
-title: "[Perform] Nogizaka46 - Boku wa Boku wo Suki ni Naru @Buzz Rhythm 02"
+title: "[Perform] Nogizaka46 - Boku wa Boku wo Suki ni Naru + Talk @Buzz Rhythm 02"
 author: Chr0balord
 description: Nogizaka46 - Boku wa Boku wo Suki ni Naru @Buzz Rhythm 02
 tags:
