@@ -1,5 +1,5 @@
 ---
-path: /blog/20210102-Hayakawa-Seira-Sakamichi-Next-Gen-Special
+path: /blog/20210130-Matsuo-Miyu-Sakamichi-Next-Gen-Special
 date: 2021-01-30T15:40:37.638Z
 title: "[Photos] Matsuo Miyu Young Magazine : Sakamichi Next Gen Special"
 author: Chr0balord
