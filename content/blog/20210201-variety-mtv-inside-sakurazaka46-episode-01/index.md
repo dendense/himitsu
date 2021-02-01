@@ -6,6 +6,7 @@ author: Chr0balord
 description: "MTV INSIDE : Sakurazaka46 Episode 01"
 tags:
   - Variety
+  - Sakurazaka46
 image: variety-210131-mtv-inside-sakurazaka46-episode-01.mp4_thumbs.jpg
 label: Google Drive
 url: https://drive.google.com/file/d/1ZumHSmKoa4Pv7lzrrf14KWCL5ZkSDSxq/view?usp=sharing
