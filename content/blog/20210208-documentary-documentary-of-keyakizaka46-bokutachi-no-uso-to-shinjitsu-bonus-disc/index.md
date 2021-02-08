@@ -28,7 +28,7 @@ Release Date : 03 February 2021 <br>
 * Public Commemoration Festival Event
 * Keyakizaka46 - Getsuyoubi no Asa, Skirt wo Kirareta @Zenkoku Tour 2017 Masshirona Mono wa Yogoshitaku Naru
 * Keyakizaka46 - Fukyouwaon @2ND ANNIVERSARY LIVE
-* Keyakizaka46 - Silent Majority @Manatsu no Zenkoku Arena Tour 2018
+* Keyakizaka46 - Futari Saison @Manatsu no Zenkoku Arena Tour 2018
 * Long Interview from member
 
   1. Habu Mizuho
