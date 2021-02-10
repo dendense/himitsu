@@ -5,7 +5,7 @@ title: "[SHOWROOM] Nogizaka46 Yamazaki Rena Book 'Rekishi no Jikan' Release Spec
 author: Chr0balord
 description: Nogizaka46 Yamazaki Rena Book 'Rekishi no Jikan' Release Special
 tags:
-  - Showroo
+  - Showroow
   - Nogizaka46
 image: et2kdpnvoambcif.jpg
 label: Google Drive
