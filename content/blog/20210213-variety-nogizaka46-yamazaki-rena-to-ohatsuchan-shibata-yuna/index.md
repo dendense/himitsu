@@ -20,3 +20,5 @@ url: https://drive.google.com/file/d/1pUARSoQWVDnUvRaW3ImYYBtIHj7iaFcg/view?usp=
 Artist : Yamazaki Rena & Shibata Yuna (Nogizaka46)\
 Variety : Nogizaka46 Yamazaki Rena to Ohatsuchan <br>
 Date : 13 February 2021
+
+**Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
