@@ -29,5 +29,5 @@ For more information :[「1ST YEAR BIRTHDAY LIVE 乃木坂1期実況中！」](h
 
 # Setlist
 
-For the setlist, you can on this website :\
+For the setlist, you can check on this website :\
 [Nogizaka46 1st YEAR BIRTHDAY LIVE ](http://stage48.net/wiki/index.php/Nogizaka46_1st_YEAR_BIRTHDAY_LIVE)
