@@ -1,5 +1,5 @@
 ---
-path: /blog/20210216-Hinatazaka46-SHOWROOM-Saito-Fuyuka
+path: /blog/20210216-Sakurazaka46-SHOWROOM-Saito-Fuyuka
 date: 2021-02-16T09:16:43.674Z
 title: "[SHOWROOM] Sakurazaka46 - Saito Fuyuka"
 author: Chr0balord
