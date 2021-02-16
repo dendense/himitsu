@@ -1,5 +1,5 @@
 ---
-path: /blog/20210212-Nogizaka46-SHOWROOM-Nogiobi-Kubo-Shiori-Kaki-Haruka
+path: /blog/20210216-Nogizaka46-SHOWROOM-Nogiobi-Kubo-Shiori-Kaki-Haruka
 date: 2021-02-16T06:45:28.283Z
 title: "[SHOWROOM] Nogizaka46 (Nogiobi) - Kubo Shiori & Kaki Haruka"
 author: Chr0balord
