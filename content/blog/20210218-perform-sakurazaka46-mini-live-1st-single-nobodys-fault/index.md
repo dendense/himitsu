@@ -25,22 +25,16 @@ Date : 18 February 2021 <br>
 # Setlist
 
 1. OVERTURE
-2. Nobody's Fault
-
-\--MC--
-
-2. Blue Moon Kiss
-3. Saishuu no Chikatetsu ni Notte
-
-\--MC--
-
-4. Plastic Regret
-5. Naze Koi wo Shite Konakattan darou?
-
-\--MC--
-
-6. Hanshinhangi
-7. Buddies
+2. Nobody's Fault\
+   --MC--
+3. Blue Moon Kiss
+4. Saishuu no Chikatetsu ni Notte\
+   --MC--
+5. Plastic Regret
+6. Naze Koi wo Shite Konakattan darou?\
+   --MC--
+7. Hanshinhangi
+8. Buddies
 
 \--MC--
 
