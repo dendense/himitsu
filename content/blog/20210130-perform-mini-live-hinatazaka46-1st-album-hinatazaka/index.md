@@ -1,7 +1,7 @@
 ---
 path: /blog/20210130-Mini-Live-Hinatazaka46-1st-Album
 date: 2021-01-30T20:20:31.532Z
-title: "[Perform] Mini Live Hinatazaka46 1st Album 'Hinatazaka'"
+title: "[Perform] Hinatazaka46 Mini Live 1st Album 'Hinatazaka'"
 author: Chr0balord
 description: Mini Live Hinatazaka46 1st Album 'Hinatazaka46'
 tags:
