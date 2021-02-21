@@ -19,6 +19,8 @@ url: https://drive.google.com/file/d/1SijhSTbDNxGDLrDfWMf-saMt6jL9pGL1/view?usp=
 
 This is last episode of Yamazaki Rena to Ohatsuchan.
 
+"半年間ありがとうございました"
+
 Artist : Yamazaki Rena (Nogizaka46)\
 Variety : Nogizaka46 Yamazaki Rena to Ohatsuchan <br>
 Date : 20 November 2021
