@@ -13,7 +13,7 @@ url: https://controlc.com/167100ad
 ---
 # Format
 
-* MP4 (1080p & 720p)
+* MP4 (1080p & 720p & 480p)
 
 # Information
 
