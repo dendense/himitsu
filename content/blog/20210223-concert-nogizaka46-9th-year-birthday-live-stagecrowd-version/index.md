@@ -23,6 +23,8 @@ Date : 23 February 2021
 
 For more information : [Nogizaka46 "9th YEAR BIRTHDAY LIVE" ](http://www.nogizaka46.com/news/2021/01/469th-year-birthday-live.php)
 
+**Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
+
 # Setlist
 
 Kageana : Akimoto Manatsu, Hori Miona, Umezawa Minami & Tamura Mayu
