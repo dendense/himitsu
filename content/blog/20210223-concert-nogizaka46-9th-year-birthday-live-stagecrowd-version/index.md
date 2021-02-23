@@ -1,5 +1,5 @@
 ---
-path: /blog/20210223-Nogizaka46-9th-Year-Birthday-Live
+path: /blog/20210223-Nogizaka46-9th-Year-Birthday-Live-Stagecrowd-Version
 date: 2021-02-23T18:34:09.490Z
 title: "[Concert] Nogizaka46 9th Year Birthday Live (Stagecrowd Version)"
 author: Chr0balord
