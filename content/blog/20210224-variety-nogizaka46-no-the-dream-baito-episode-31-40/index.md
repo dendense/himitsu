@@ -1,5 +1,5 @@
 ---
-path: /blog/20210210-Nogizaka46-no-The-Dream-Baito-Episode-31-40
+path: /blog/20210225-Nogizaka46-no-The-Dream-Baito-Episode-31-40
 date: 2021-02-24T19:43:34.305Z
 title: "[Variety] Nogizaka46 no The Dream Baito! Episode 31 - 40"
 author: Chr0balord
