@@ -1,5 +1,5 @@
 ---
-path: /blog/20210227-Nogizaka46-Under-Live-2020-TBS-Version
+path: /blog/20210226-Nogizaka46-Under-Live-2020-TBS-Version
 date: 2021-02-26T20:50:18.041Z
 title: "[Concert] Nogizaka46 Under Live 2020 @Nippon Budokan (TBS Version)"
 author: Chr0balord
