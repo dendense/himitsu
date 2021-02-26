@@ -58,4 +58,8 @@ For mor information : [乃木坂46 アンダーライブ2020〜歴代全アン�
 
 \--MC--
 
-30. Kuchi Hodo ni Mo Nai KISS
+30. Kuchi Hodo ni Mo Nai KISS﻿
+
+    **Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
+31.
+32.
