@@ -23,3 +23,5 @@ Artist : Nogizaka46, Sakurazaka46 & Hinatazaka46 <br>
 Broadcast Date : 27 February 2021
 
 For more information : [坂道テレビ - NHK](https://www.nhk.jp/p/ts/Y1WQ7WZP64/)
+
+**Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
