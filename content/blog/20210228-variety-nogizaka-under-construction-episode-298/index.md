@@ -20,6 +20,6 @@ url: https://acefile.co/f/38161351/himitsupro-210228-nogizaka-under-construction
 
 Artist : Nogizaka46\
 Variety : Nogizaka Under Construction <br>
-Broadcast Date : 28 Febaruary 2021
+Broadcast Date : 28 February 2021
 
 **Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
