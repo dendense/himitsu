@@ -3,7 +3,7 @@ path: /blog/20210228-Nogizaka46-SHOWROOM-Nogiobi-Ito-Riria
 date: 2021-02-28T19:47:59.784Z
 title: "[SHOWROOM] Nogizaka46 (Nogiobi) - Ito Riria"
 author: Chr0balord
-description: Nogizaka46 (Nogiobi) - Ito Riria
+description: SHOWROOM Nogizaka46 (Nogiobi) - Ito Riria
 tags:
   - Showroom
   - Nogizaka46
