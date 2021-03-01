@@ -1,7 +1,7 @@
 ---
 path: /blog/20210301-
 date: 2021-03-01T14:00:01.147Z
-title: '[Variety] Daisuki! Sakurazaka46  Geinokai "Sakura" Mankai Keikaku & Live
+title: '[Variety] Daisuki! Sakurazaka46 ~Geinokai "Sakura" Mankai Keikaku & Live
   Eizou Kuradashi Special (Episode 1)'
 author: Chr0balord
 description: Daisuki! Sakurazaka46 ~Geinokai Sakura Mankai Keikaku & Live Eizou
