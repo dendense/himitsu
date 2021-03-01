@@ -9,7 +9,7 @@ tags:
   - Sakurazaka46
 image: 52398916-4360-44be-a79d-b5bb8c1c4454.jpg
 label: Google Drive
-url: https://acefile.co/f/38088045/himitsupro-210227-moriya-rena-sakurazaka46-young-magazine-rar
+url: https://acefile.co/f/38088045
 ---
 # Format
 
