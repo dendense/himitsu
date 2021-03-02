@@ -1,5 +1,5 @@
 ---
-path: /blog/20210201-mtv-inside-sakurazaka46-episode-02
+path: /blog/20210302-mtv-inside-sakurazaka46-episode-02
 date: 2021-03-02T03:50:08.520Z
 title: "[Variety] MTV INSIDE - Sakurazaka46 Episode 02"
 author: Chr0balord
