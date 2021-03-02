@@ -29,8 +29,8 @@ Type-A : Seimiya Rei, Tsutsui Ayame, Yakubo Mio & Yumiki Nao
 
 Type-B : Kaki Haruka, Kitagawa Yuri, Kuromi Haruka & Matsuo Miyu
 
-Type-C : Endo Sakura, Shibata Yuna, Hayakawa Seira, Hayashi Runa
+Type-C : Endo Sakura, Shibata Yuna, Hayakawa Seira & Hayashi Runa
 
-Type-D : Kakehashi Sayaka, Kanagawa Saya, Sato Rika, Tamura Mayu
+Type-D : Kakehashi Sayaka, Kanagawa Saya, Sato Rika & Tamura Mayu
 
 **Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
