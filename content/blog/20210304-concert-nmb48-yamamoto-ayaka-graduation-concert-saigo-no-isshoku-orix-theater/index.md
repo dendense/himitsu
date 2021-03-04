@@ -1,5 +1,5 @@
 ---
-path: /blog/20210303-nmb48-yamamoto-ayaka-graduation-concert-saigo-no-isshoku
+path: /blog/20210304-nmb48-yamamoto-ayaka-graduation-concert-saigo-no-isshoku
 date: 2021-03-04T07:01:26.779Z
 title: "[Concert] NMB48 Yamamoto Ayaka Graduation Concert ~Saigo no Isshoku
   @Orix Theater"
