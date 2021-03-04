@@ -26,62 +26,37 @@ Date : 03 March 2021 <br>
 
 Opening : Mattemashita, Shin Gakki
 
-00. OVERTURE
-
-01. GIVE ME FIVE!
-
-02. Saikyou Twintail
-
-03. Akogare no Pop Star
-
-04. Hotei Sokudo to Yuuetsukan
-
-05. Lemon no Toshigoro
-
-06. Hankyuu Densha
-
-07. Kinjirareta Futari
-
-08. Good Timing
-
-09. Gomenne, Suki ni Natchatte
-
-10. Rannazuhai
-
-11. BBQ Medley
-
-12. O-NEW no Uwabaki
-
-13. Tenmetsu Pheromone
-
-14. Ima Naraba
-
-15. Teacher Teacher
-
-16. Monica, Yoake da
-
-17. Kodoku Guitar
-
-18. Boku Igai no Dareka
-
-19. Boku Datte naichau yo
-
-20. Shiosai no Memory
-
-21. Yasashiku Suru Yori Kiss wo Shite
-
-22. Boku wa Inai
-
-23. Datte Datte Datte
+1. OVERTURE
+2. GIVE ME FIVE!
+3. Saikyou Twintail
+4. Akogare no Pop Star
+5. Hotei Sokudo to Yuuetsukan
+6. Lemon no Toshigoro
+7. Hankyuu Densha
+8. Kinjirareta Futari
+9. Good Timing
+10. Gomenne, Suki ni Natchatte
+11. Rannazuhai
+12. BBQ Medley
+13. O-NEW no Uwabaki
+14. Tenmetsu Pheromone
+15. Ima Naraba
+16. Teacher Teacher
+17. Monica, Yoake da
+18. Kodoku Guitar
+19. Boku Igai no Dareka
+20. Boku Datte naichau yo
+21. Shiosai no Memory
+22. Yasashiku Suru Yori Kiss wo Shite
+23. Boku wa Inai
+24. Datte Datte Datte
 
 \--ENCORE--
 
 24. Anata ga Ite Kureta Kara
-
 25. Haru wa Mou Sugu
-
 26. Yume wa Nigenai
-
 27. Seishun no Laptime
-
 28. Sasasa Saikou!
+
+    **Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
