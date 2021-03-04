@@ -9,7 +9,7 @@ tags:
   - Sakurazaka46
 image: 52398916-4360-44be-a79d-b5bb8c1c4454.jpg
 label: Google Drive
-url: https://acefile.co/f/38088045
+url: https://drive.google.com/drive/folders/1aB7BKaNABmxH0YeFB4JPQX_Bd6LI57Qa?usp=sharing
 ---
 # Format
 
