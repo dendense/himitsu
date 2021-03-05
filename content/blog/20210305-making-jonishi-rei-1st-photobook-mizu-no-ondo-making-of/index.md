@@ -1,6 +1,6 @@
 ---
 path: /blog/20210305-making-of-photobook-jonishi-rei-mizu-no-ondo
-date: 2021-03-05T15:34:14.610Z
+date: 2021-03-05T16:36:32.856Z
 title: "[Making] Jonishi Rei 1st Photobook 'Mizu no Ondo' (Making Of)"
 author: Chr0balord
 description: Jonishi Rei 1st Photobook 'Mizu no Ondo' (Making Of)
@@ -24,8 +24,6 @@ Release Date : 26 February 2021
 
 You can also buy original Bluray to support her[](https://www.amazon.co.jp/dp/B08T147NDF)
 
-[水の温度 \[Blu-ray]上西怜](https://www.amazon.co.jp/dp/B08T147NDF)
-
-[上西怜/水の温度\[Blu-ray] - NMB48 OFFICIAL GOODS STORE ](https://official-goods-store.jp/nmb48/product/receivesitem/NMB1067)
+<https://official-goods-store.jp/nmb48/product/receivesitem/NMB1067>
 
 **Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
