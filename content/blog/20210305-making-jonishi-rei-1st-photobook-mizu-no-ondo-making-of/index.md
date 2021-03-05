@@ -24,8 +24,8 @@ Release Date : 26 February 2021
 
 You can also buy original Bluray to support her
 
-[ 水の温度 \[Blu-ray]](https://www.amazon.co.jp/dp/B08T147NDF) 
+[水の温度 \[Blu-ray]](https://www.amazon.co.jp/dp/B08T147NDF)
 
-[上西怜/水の温度\[Blu-ray] - NMB48 OFFICIAL GOODS STORE](https://official-goods-store.jp/nmb48/product/receivesitem/NMB1067)
+[上西怜/水の温度\[Blu-ray] - NMB48 OFFICIAL GOODS STORE ](https://official-goods-store.jp/nmb48/product/receivesitem/NMB1067)
 
 **Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
