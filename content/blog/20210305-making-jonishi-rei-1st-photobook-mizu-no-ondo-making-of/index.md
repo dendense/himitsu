@@ -22,9 +22,9 @@ Artist : Jonishi Rei (NMB48)\
 Photobook : Mizu no Ondo / 水の温度\
 Release Date : 26 February 2021
 
-You can also buy original Bluray to support her
+You can also buy original Bluray to support her[](https://www.amazon.co.jp/dp/B08T147NDF)
 
-[水の温度 \[Blu-ray]](https://www.amazon.co.jp/dp/B08T147NDF)
+[水の温度 \[Blu-ray]上西怜](https://www.amazon.co.jp/dp/B08T147NDF)
 
 [上西怜/水の温度\[Blu-ray] - NMB48 OFFICIAL GOODS STORE ](https://official-goods-store.jp/nmb48/product/receivesitem/NMB1067)
 
