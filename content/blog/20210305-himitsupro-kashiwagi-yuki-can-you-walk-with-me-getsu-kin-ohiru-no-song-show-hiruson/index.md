@@ -1,8 +1,8 @@
 ---
 path: /blog/20210305-kashiwagi-yuki-can-you-walk-with-me-hiruson
 date: 2021-03-05T06:30:12.500Z
-title: "[HimitsuPro] Kashiwagi Yuki - Can You Walk With Me @Getsu Kin Ohiru no
-  Song Show Hiruson!"
+title: "[Perform] Kashiwagi Yuki - Can You Walk With Me @Getsu Kin Ohiru no Song
+  Show Hiruson!"
 author: Chr0balord
 description: Kashiwagi Yuki - Can You Walk With Me @Getsu~Kin Ohiru no Song Show Hiruson!
 tags:
