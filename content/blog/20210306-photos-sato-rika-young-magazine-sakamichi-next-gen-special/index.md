@@ -1,5 +1,5 @@
 ---
-path: /blog/20210227-sato-rika-sakamichi-next-gen-special
+path: /blog/20210306-sato-rika-sakamichi-next-gen-special
 date: 2021-03-06T15:20:25.677Z
 title: "[Photos] Sato Rika Young Magazine : Sakamichi Next Gen Special"
 author: Chr0balord
