@@ -14,7 +14,7 @@ url: https://acefile.co/f/38586677/himitsupro-210301-ariyoshi-seminar-sakurai-re
 ---
 # Format
 
-* TS (720p)
+* MP4 (720p)
 
 # Information
 
