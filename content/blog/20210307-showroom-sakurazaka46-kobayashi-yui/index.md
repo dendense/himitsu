@@ -13,7 +13,7 @@ url: https://acefile.co/f/38733162/himitsupro-210307-sakurazaka46-showroom-kobay
 ---
 # Format
 
-* TS (360p)
+* MP4 (360p)
 
 # Information
 
