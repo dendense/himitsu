@@ -1,5 +1,5 @@
 ---
-path: /blog/20210305-sakurazaka46-showroom-kobayashi-yui
+path: /blog/20210307-sakurazaka46-showroom-kobayashi-yui
 date: 2021-03-07T17:49:07.424Z
 title: "[SHOWROOM] Sakurazaka46 - Kobayashi Yui"
 author: Chr0balord
