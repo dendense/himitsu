@@ -1,5 +1,5 @@
 ---
-path: /blog/20210311-nogizaka46-nekojita-kaki-haruka-kanagawa-saya
+path: /blog/20210310-nogizaka46-nekojita-kaki-haruka-kanagawa-saya
 date: 2021-03-10T17:20:34.650Z
 title: "[SHOWROOM] Nogizaka46 (Nekojita) - Kaki Haruka & Kanagawa Saya"
 author: Chr0balord
