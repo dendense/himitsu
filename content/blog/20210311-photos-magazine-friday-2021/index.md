@@ -20,3 +20,5 @@ url: https://drive.google.com/drive/folders/1mCA9y2wf6K0go8aBn-uCXqXX4wtig_x8?us
 Artist : Yamashita Mizuki (Nogizaka46) <br>
 Magazine : FRIDAY 3/24•4/2\
 Release Date : 12 March 2021 <br>
+
+**Don't spread the Google Drive link without permission, if you want to share. Just share the article link. Thank You!**
