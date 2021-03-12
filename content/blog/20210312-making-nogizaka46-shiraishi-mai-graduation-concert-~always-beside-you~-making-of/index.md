@@ -10,18 +10,18 @@ tags:
   - Making
   - Nogizaka46
 image: himitsupro-210310-making-of-nogizaka46-shiraishi-mai-graduation-concert-~always-beside-you.mp4_thumbs.jpg
-label: Google Drive
-url: https://acefile.co/f/39163632/himitsupro-210310-making-of-shiraishi-mai-graduation-concert-always-beside-you-1080p-mp4
+label: Pasted
+url: https://controlc.com/89289af4
 ---
 # Format
 
-* MP4 (1080p)
+* MP4 (1080p & 720p)
 
 # Information
 
 This 'making' is from DVD & Bluray disc on 'Nogizaka46 Shiraishi Mai Graduation Concert \~Always Beside You\~. The concert has been held on 28 October 2020, you can download the concert in here :<!--StartFragment-->
 
-[\[Concert] Shiraishi Mai Graduation Concert \~Always Beside You\~ (ZAIKO Version) | Himitsu Project](https://himitsupro.com/blog/20201029-ShiraishiMai-GraduationConcert-Always-Beside-You)
+https://himitsupro.com/blog/20201029-ShiraishiMai-GraduationConcert-Always-Beside-You
 
 <!--EndFragment-->
 
