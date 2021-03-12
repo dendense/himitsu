@@ -1,24 +1,26 @@
 ---
-path: "/blog/20201029-ShiraishiMai-GraduationConcert-Always-Beside-You"
-date: "2020-10-29"
-title: "[Concert] Shiraishi Mai Graduation Concert ~Always Beside You~ (ZAIKO Version)"
-author: "Chr0balord"
-description: "Shiraishi Mai Graduation Concert ~Always Beside You~ (ZAIKO Version)"
-tags: ["Concert", "Nogizaka46"]
+path: /blog/20201029-ShiraishiMai-GraduationConcert-Always-Beside-You
+date: 2020-10-29
+title: "[Concert] Shiraishi Mai Graduation Concert ~Always Beside You~ (ZAIKO
+  Version)"
+author: Chr0balord
+description: Shiraishi Mai Graduation Concert ~Always Beside You~ (ZAIKO Version)
+tags:
+  - Concert
+  - Nogizaka46
 image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+image2: ../../assets/badges/nogizaka46.png
 label: Google Drive
-url: https://drive.google.com/file/d/1zn88kYpgybFT2rwOApq6r7llNfPGJi2b/view?usp=sharing
+url: https://acefile.co/f/39165837/himitsupro-201028-shiraishi-mai-graduation-concert-always-beside-you-zaiko-version-mp4
 ---
-
 # Format
 
-- MP4
+* MP4 (1080p)
 
 # Information
 
 Artist : Nogizaka46 <br>
-Title : Shiraishi Mai Graduation ~Always Beside You~ <br>
+Title : Shiraishi Mai Graduation \~Always Beside You\~ <br>
 Date : 28 October 2020 <br>
 
 # Setlist
@@ -26,32 +28,32 @@ Date : 28 October 2020 <br>
 Kageana = Ikuta Erika & Matsumura Sayuri <br>
 --VTR1--
 
-0. OVERTURE
-1. Offshore Girl (オフショアガール)
-2. Oide Shampoo (おいでシャンプー)
-3. Seifuku no Mannequin (制服のマネキン)
-4. Sekai de Ichiban Kodoku na Lover (世界で一番 孤独な Lover) <br>
+1. OVERTURE
+2. Offshore Girl (オフショアガール)
+3. Oide Shampoo (おいでシャンプー)
+4. Seifuku no Mannequin (制服のマネキン)
+5. Sekai de Ichiban Kodoku na Lover (世界で一番 孤独な Lover) <br>
    --MC1--
-5. Guru Guru Curtain (ぐるぐるカーテン)
-6. Ushinaitakunai Kara (失いたくないから)
-7. Barrette (バレッタ)
-8. Nigemizu (逃げ水)
-9. Yoakemade Tsuyogaranakute mo ii (夜明けまで強がらなくてもいい) <br>
-   --VTR2--
-10. Tachinaori Chuu (立ち直り中)
-11. Guuzen wo Iiwake ni Shite (偶然を言い訳にして)
-12. Dekopin (でこぴん) <br>
+6. Guru Guru Curtain (ぐるぐるカーテン)
+7. Ushinaitakunai Kara (失いたくないから)
+8. Barrette (バレッタ)
+9. Nigemizu (逃げ水)
+10. Yoakemade Tsuyogaranakute mo ii (夜明けまで強がらなくてもいい) <br>
+    --VTR2--
+11. Tachinaori Chuu (立ち直り中)
+12. Guuzen wo Iiwake ni Shite (偶然を言い訳にして)
+13. Dekopin (でこぴん) <br>
     --VTR3--
-13. Maa ii ka? (まあいいか？)
-14. Ryuusei Discotique (流星ディスコティック)
-15. Sekkachina Katatsumuri (せっかちなかたつむり)
-16. Kikkake ~Piano Version (きっかけ) <br>
+14. Maa ii ka? (まあいいか？)
+15. Ryuusei Discotique (流星ディスコティック)
+16. Sekkachina Katatsumuri (せっかちなかたつむり)
+17. Kikkake ~Piano Version (きっかけ) <br>
     ---MC2---
-17. Shibuya Blues (渋谷ブルース)
-18. Synchronicity (シンクロニシティ)
-19. Influencer (インフルエンサー)
-20. Sayonara no Imi (サヨナラの意味)
-21. Girl's Rule (ガールズルール) <br>
+18. Shibuya Blues (渋谷ブルース)
+19. Synchronicity (シンクロニシティ)
+20. Influencer (インフルエンサー)
+21. Sayonara no Imi (サヨナラの意味)
+22. Girl's Rule (ガールズルール) <br>
     --VTR3--- <br>
     ---ENCORE--- <br>
     --Shiraishi Mai Speech-- <br>
