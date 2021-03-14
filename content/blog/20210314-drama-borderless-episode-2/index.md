@@ -1,6 +1,6 @@
 ---
 path: /blog/20210314-drama-borderless-episode2
-date: 2021-03-14T17:33:52.112Z
+date: 2021-03-14T17:55:30.770Z
 title: "[Drama] Borderless Episode 2"
 author: Chr0balord
 description: Drama 'Borderless' Episode 2
