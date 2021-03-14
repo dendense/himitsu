@@ -1,5 +1,5 @@
 ---
-path: /blog/20210314-ikuta-erika-kinki-no-bunbuboon-
+path: /blog/20210314-ikuta-erika-kinki-kids-no-bunbuboon
 date: 2021-03-14T07:59:15.062Z
 title: "[Variety] KinKi Kids no BunbuBoon! - Ikuta Erika"
 author: Chr0balord
