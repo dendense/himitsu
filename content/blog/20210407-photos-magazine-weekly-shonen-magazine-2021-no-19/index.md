@@ -8,6 +8,7 @@ tags:
   - Photos
   - Nogizaka46
 image: https://i.ibb.co/Cs7Y9bv/cover.jpg
+image2: ""
 label: Google Drive
 url: https://drive.google.com/drive/folders/1Q7GtbzV_cuKrsYERGaD3iULAOvaCRvyF?usp=sharing
 ---
