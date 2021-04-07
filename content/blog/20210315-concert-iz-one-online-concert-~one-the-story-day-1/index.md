@@ -7,7 +7,7 @@ description: IZ*ONE Online Concert ~One, The Story (Day 1)
 tags:
   - Concert
   - IZONE
-image: izoneonline.jpg
+image: https://i.ibb.co/RSPrTkw/Izone-Online.jpg
 label: Google Drive
 url: https://acefile.co/f/39555896/himitsupro-210313-izone-online-concert-one-the-story-day-1-720p-mp4
 ---
