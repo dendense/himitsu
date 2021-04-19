@@ -9,7 +9,7 @@ tags:
   - Nogizaka46
 image: 4013.jpg
 label: Google Drive
-url: https://drive.google.com/drive/folders/1BRhQgvRKlzHen6rEgQEbLWaRWET8Dp0j?usp=sharing
+url: https://drive.google.com/drive/folders/1JMNaqkxvuFMFC1y_wTY5-qAf1QS2LPXA?usp=sharing
 ---
 # Format
 
