@@ -7,7 +7,7 @@ description: KinKi Kids no BunbuBoon! - Ikuta Erika
 tags:
   - Variety
   - Nogizaka46
-image: himitsupro-210313-kinki-kids-no-bunbuboon-ikuta-erika.mp4_thumbs.jpg
+image: https://i.ibb.co/m0gKw0j/Himitsu-Pro-210313-Kin-Ki-Kids-no-Bunbu-Boon-Ikuta-Erika-mp4-thumbs.jpg
 label: Google Drive
 url: https://acefile.co/f/39435200/himitsupro-210313-kinki-kids-no-bunbuboon-ikuta-erika-mp4
 ---
