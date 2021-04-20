@@ -7,7 +7,8 @@ description: Nogizaka46 (Nogiobi) - Yoshida Ayano Christie
 tags:
   - Showroom
   - Nogizaka46
-image: ewrnuktucaaasmg.jpg
+image: https://i.ibb.co/LZXmMXK/Ew-RNukt-Uc-AAAsm-G.jpg
+image2: null
 label: Google Drive
 url: https://acefile.co/f/39314885/himitsupro-210312-nogizaka46-showroom-nogiobi-yoshida-ayano-christie-ts
 ---
