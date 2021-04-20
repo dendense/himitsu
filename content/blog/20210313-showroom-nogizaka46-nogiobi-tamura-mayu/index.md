@@ -7,7 +7,7 @@ description: Nogizaka46 (Nogiobi) - Tamura Mayu
 tags:
   - Showroom
   - Nogizaka46
-image: ewmrhwvucaurgms.jpg
+image: https://i.ibb.co/n1sTGRk/Ew-MRh-Wv-Uc-AUrgms.jpg
 label: Google Drive
 url: https://acefile.co/f/39311274/himitsupro-210311-nogizaka46-showroom-nogiobi-tamura-mayu-ts
 ---
