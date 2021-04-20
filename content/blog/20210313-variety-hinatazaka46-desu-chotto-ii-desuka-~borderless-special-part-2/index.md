@@ -9,7 +9,7 @@ tags:
   - Nogizaka46
   - Sakurazaka46
   - Hinatazaka46
-image: himitsupro-210313-hinatazaka46-desu-chotto-ii-desuka-~borderless-special-part-2.mp4_thumbs.jpg
+image: https://i.ibb.co/0FZFTXr/Himitsu-Pro-210313-Hinatazaka46-Desu-Chotto-Ii-Desuka-Borderless-Special-Part-2-mp4-thumbs.jpg
 label: Google Drive
 url: https://acefile.co/f/39365181/himitsupro-210313-hinatazaka46-desu-chotto-ii-desuka-borderless-special-part-2-mp4
 ---
