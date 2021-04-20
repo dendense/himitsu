@@ -9,7 +9,7 @@ tags:
   - Concert
   - Making
   - Nogizaka46
-image: himitsupro-210310-making-of-nogizaka46-shiraishi-mai-graduation-concert-~always-beside-you.mp4_thumbs.jpg
+image: https://i.ibb.co/XzGPMdd/Himitsu-Pro-210310-Making-of-Nogizaka46-Shiraishi-Mai-Graduation-Concert-Always-beside-you-mp4-thumb.jpg
 label: Pasted
 url: https://controlc.com/89289af4
 ---
