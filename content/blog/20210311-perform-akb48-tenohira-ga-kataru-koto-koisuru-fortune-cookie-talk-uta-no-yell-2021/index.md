@@ -9,7 +9,7 @@ description: AKB48 - Tenohira ga Kataru Koto + Koisuru Fortune Cookie + Talk
 tags:
   - Perform
   - AKB48
-image: himitsupro-210311-akb48-tenohira-ga-kataru-koto-koisuru-fortune-cookie-talk-uta-no-yell-2021.mp4_thumbs.jpg
+image: https://i.ibb.co/7k0BwKY/Himitsu-Pro-210311-AKB48-Tenohira-ga-Kataru-Koto-Koisuru-Fortune-Cookie-Talk-Uta-no-Yell-2021-mp4-th.jpg
 label: Google Drive
 url: https://acefile.co/f/39127872/himitsupro-210311-akb48-tenohira-ga-kataru-koto-koisuru-fortune-cookie-talk-uta-no-yell-2021-mp4
 ---
