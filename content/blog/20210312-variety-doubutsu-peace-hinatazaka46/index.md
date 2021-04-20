@@ -8,7 +8,7 @@ description: Doubutsu Peace!! - Hinatazaka46 (Sasaki Kumi, Ushio Sarina,
 tags:
   - Variety
   - Hinatazaka46
-image: himitsupro-210311-doubutsu-peace-hinatazaka46.mp4_thumbs.jpg
+image: https://i.ibb.co/qgXXmL2/Himitsu-Pro-210311-Doubutsu-Peace-Hinatazaka46-mp4-thumbs.jpg
 label: Google Drive
 url: https://acefile.co/f/39213372/himitsupro-210311-doubutsu-peace-hinatazaka46-mp4
 ---
