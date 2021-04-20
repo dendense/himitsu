@@ -7,7 +7,7 @@ description: "Kosaka Marino Young Magazine : Sakamichi Next Gen Special"
 tags:
   - Photos
   - Sakurazaka46
-image: 4016.jpg
+image: https://i.ibb.co/wRn8RZY/4016.jpg
 label: Google Drive
 url: https://drive.google.com/drive/folders/1a0JEN2g48OVQ2Ayp4fVCCMUfxZ40nl5w?usp=sharing
 ---
