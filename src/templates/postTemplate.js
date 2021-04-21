@@ -32,7 +32,7 @@ export default function blogTemplate({ data, pageContext }) {
               Posted by <b>{author}</b> on {date} |{" "}
               <CommentCount config={disqusConfig} />
             </p>
-            <div className="d-flex justify-content-center">
+            {/*<div className="d-flex justify-content-center">
               <img
                 src={image.childImageSharp.fluid.src}
                 alt={title}
@@ -40,7 +40,14 @@ export default function blogTemplate({ data, pageContext }) {
                 height="500px"
                 style={{ objectFit: "contain" }}
               />
-            </div>
+            </div>*/}
+            <img
+                src={image}
+                alt={title}
+                width="100%"
+                height="500px"
+                style={{ objectFit: "contain" }}
+              />
             <div
               style={{ margin: "0.5rem" }}
               dangerouslySetInnerHTML={{ __html: post.html }}
