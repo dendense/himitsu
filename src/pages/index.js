@@ -25,7 +25,7 @@ export default function indexTemplate({ data }) {
             color="btn-primary"
           />
           <LabelCard
-            link="/tag/Hinatazaka46"
+            link="/tag/hinatazaka46"
             title="Hinatazaka46"
             color="btn-hinata"
           />
