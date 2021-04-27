@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200916-Nogizaka46-YoakemadeTsuyogaranakutemoii"
-date: "2020-09-16"
+path: /blog/20200916-Nogizaka46-YoakemadeTsuyogaranakutemoii
+date: 2020-09-16
 title: "[Single] Nogizaka46 - Yoakemade Tsuyogaranakutemoii"
-author: "SaikaChuu"
-description: "Nogizaka46 - Yoakemade Tsuyogaranakutemoii single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: SaikaChuu
+description: Nogizaka46 - Yoakemade Tsuyogaranakutemoii single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/PjDzt7x/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/1a38cb8e
 ---
