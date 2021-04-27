@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200916-Nogizaka46-ShiawasenoHogoshoku"
-date: "2020-09-16"
+path: /blog/20200916-Nogizaka46-ShiawasenoHogoshoku
+date: 2020-09-16
 title: "[Single] Nogizaka46 - Shiawase no Hogoshoku"
-author: "SaikaChuu"
-description: "Nogizaka46 - Shiawase no Hogoshoku single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: SaikaChuu
+description: Nogizaka46 - Shiawase no Hogoshoku single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/nPBcwJT/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/c5367e78
 ---
