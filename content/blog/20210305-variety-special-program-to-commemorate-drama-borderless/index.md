@@ -9,7 +9,7 @@ tags:
   - Nogizaka46
   - Sakurazaka46
   - Hinatazaka46
-image: himitsupro-210304-special-program-to-commemorate-drama-borderless-.mp4_thumbs.jpg
+image: https://i.ibb.co/5LRFxJD/image.png
 label: Google Drive
 url: https://acefile.co/f/38540352/himitsupro-210304-special-program-to-commemorate-drama-borderless-mp4
 ---
