@@ -7,7 +7,7 @@ description: Nogizaka46 no The Dream Baito! Episode 98
 tags:
   - Variety
   - Nogizaka46
-image: himitsupro-210302-nogizaka46-no-the-dream-baito-episode-98.mp4_thumbs.jpg
+image: https://i.ibb.co/vJrVk0c/image.png
 label: Google Drive
 url: https://acefile.co/f/38934510/himitsupro-210302-nogizaka46-no-the-dream-baito-episode-98-mp4
 ---
