@@ -7,7 +7,7 @@ description: Individual PV 26th Single Nogizaka46 (Bonus Single)
 tags:
   - Bonus
   - Nogizaka46
-image: allcover.jpg
+image: https://i.ibb.co/cwJ90xM/image.png
 label: Pasted
 url: https://controlc.com/d99631f7
 ---
