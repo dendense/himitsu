@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200916-Nogizaka46-SingOut!"
-date: "2020-09-16"
+path: /blog/20200916-Nogizaka46-SingOut!
+date: 2020-09-16
 title: "[Single] Nogizaka46 - Sing Out!"
-author: "SaikaChuu"
-description: "Nogizaka46 - Sing Out! single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: SaikaChuu
+description: Nogizaka46 - Sing Out! single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/hHvNq2g/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/6b208d41
 ---
