@@ -1,12 +1,15 @@
 ---
-path: "/blog/20200917-Nogizaka46-KaerimichiwaToomawariShitakuNaru"
-date: "2020-09-17"
+path: /blog/20200917-Nogizaka46-KaerimichiwaToomawariShitakuNaru
+date: 2020-09-17
 title: "[Single] Nogizaka46 - Kaerimichi wa Toomawari Shitaku Naru"
-author: "SaikaChuu"
-description: "Nogizaka46 - Kaerimichi wa Toomawari Shitaku Naru single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: SaikaChuu
+description: Nogizaka46 - Kaerimichi wa Toomawari Shitaku Naru single released.
+  Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/vq8twzN/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/d319502c
 ---
