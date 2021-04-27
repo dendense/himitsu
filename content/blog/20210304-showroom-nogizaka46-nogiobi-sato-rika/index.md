@@ -7,7 +7,7 @@ description: Nogizaka46 (Nogiobi) - Sato Rika
 tags:
   - Showroom
   - Nogizaka46
-image: evn_z-luyaekxqa.jpg
+image: https://i.ibb.co/5W3jRFN/image.png
 label: Google Drive
 url: https://acefile.co/f/38467411/himitsupro-210204-nogizaka46-showroom-nogiobi-sato-rika-ts
 ---
