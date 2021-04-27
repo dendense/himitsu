@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200920-izone-coloriz"
-date: "2020-09-20"
-title: "[Single] IZ*ONE - COLOR*IZ"
-author: "Pillamore"
-description: "Album from IZ*ONE titled COLOR*IZ."
-tags: ["Music", "IZONE"]
-image: cover.jpg
-image2: "../../assets/badges/musician.png"
+path: /blog/20200920-izone-coloriz
+author: Pillamore
 featured: false
+date: 2020-09-20
+title: "[Single] IZ*ONE - COLOR*IZ"
+description: Album from IZ*ONE titled COLOR*IZ.
+tags:
+  - Music
+  - IZONE
+image: https://i.ibb.co/BBvTFLY/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1Rncu772FyuOtGFIgff-WPoiR3jkNNnkS/view?usp=sharing
 ---
