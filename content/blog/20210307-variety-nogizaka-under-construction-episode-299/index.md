@@ -7,7 +7,7 @@ description: Nogizaka Under Construction Episode 299
 tags:
   - Variety
   - Nogizaka46
-image: himitsupro-210307-nogizaka-under-construction-episode-299.mp4_thumbs.jpg
+image: https://i.ibb.co/fQNDbhP/image.png
 label: Google Drive
 url: https://acefile.co/f/38737071/himitsupro-210307-nogizaka-under-construction-episode-299-mp4
 ---
