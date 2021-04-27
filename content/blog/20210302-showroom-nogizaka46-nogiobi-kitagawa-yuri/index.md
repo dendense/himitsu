@@ -7,7 +7,7 @@ description: SHOWROOM Nogizaka46 (Nogiobi) - Kitagawa Yuri
 tags:
   - Showroom
   - Nogizaka46
-image: evd69xruyaeac_5.jpg
+image: https://i.ibb.co/5RYx5z2/image.png
 label: Google Drive
 url: https://acefile.co/f/38309410/himitsupro-210302-nogizaka46-showroom-nogiobi-kitagawa-yuri-ts
 ---
