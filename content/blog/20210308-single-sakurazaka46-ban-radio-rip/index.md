@@ -7,7 +7,7 @@ description: Sakurazaka46 - BAN (Radio-rip)
 tags:
   - Music
   - Sakurazaka46
-image: tophero_2ndsingle_basgioh984y3_pc.jpg
+image: https://i.ibb.co/zVLkZsK/image.png
 label: Google Drive
 url: https://acefile.co/f/38830400/himitsupro-櫻坂46-ban-radio-rip-mp3
 ---
