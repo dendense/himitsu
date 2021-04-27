@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200918-Nogizaka46-Nigemizu"
-date: "2020-09-18"
-title: "[Single] Nogizaka46 - Nigemizu"
-author: "SaikaChuu"
-description: "Nogizaka46 - Nigemizu single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+path: /blog/20200918-Nogizaka46-Nigemizu
+author: SaikaChuu
 featured: false
+date: 2020-09-18
+title: "[Single] Nogizaka46 - Nigemizu"
+description: Nogizaka46 - Nigemizu single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/GPXTCfk/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/532467ea
 ---
