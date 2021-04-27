@@ -7,7 +7,7 @@ description: Habu Mizuho @e-elements GAMING HOUSE SQUAD Episode 09
 tags:
   - Variety
   - Sakurazaka46
-image: himitsupro-210306-habu-mizuho-e-elements-gaming-house-squad-episode-09.mp4_thumbs.jpg
+image: https://i.ibb.co/ZdvgG3w/Himitsu-Pro-210306-Habu-Mizuho-e-elements-GAMING-HOUSE-SQUAD-Episode-09-mp4-thumbs.jpg
 label: Google Drive
 url: https://acefile.co/f/39097519/himitsupro-210306-habu-mizuho-e-elements-gaming-house-squad-episode-09-mp4
 ---
