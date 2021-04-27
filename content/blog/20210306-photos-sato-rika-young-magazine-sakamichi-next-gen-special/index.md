@@ -7,7 +7,7 @@ description: "Sato Rika Young Magazine : Sakamichi Next Gen Special"
 tags:
   - Photos
   - Nogizaka46
-image: 4015.jpg
+image: https://i.ibb.co/M9gpFbB/image.png
 label: Google Drive
 url: https://drive.google.com/drive/folders/1wgnU4QrQNO7gcKcweLmhMTMd87K4_TlH?usp=sharing
 ---
