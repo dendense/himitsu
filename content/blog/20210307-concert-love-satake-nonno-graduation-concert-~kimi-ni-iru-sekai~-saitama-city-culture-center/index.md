@@ -9,7 +9,7 @@ description: =LOVE Satake Nonno Graduation Concert ~Kimi ni Iru Sekai~ @Saitama
 tags:
   - Concert
   - =LOVE
-image: himitsupro-210306-love-satake-nonno-graduation-concert-~kimi-ni-iru-sekai~-saitama-city-culture-center.mp4_thumbs.jpg
+image: https://i.ibb.co/mhBPwTj/image.png
 label: Google Drive
 url: https://acefile.co/f/38782021/himitsupro-210306-love-satake-nonno-graduation-concert-kimi-ni-iru-sekai-saitama-city-culture-center-1080p-mp4
 ---
