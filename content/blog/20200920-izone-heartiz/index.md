@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200920-izone-heartiz"
-date: "2020-09-20"
-title: "[Single] IZ*ONE - HEART*IZ"
-author: "Pillamore"
-description: "Album from IZ*ONE titled HEART*IZ."
-tags: ["Music", "IZONE"]
-image: cover.jpg
-image2: "../../assets/badges/musician.png"
+path: /blog/20200920-izone-heartiz
+author: Pillamore
 featured: false
+date: 2020-09-20
+title: "[Single] IZ*ONE - HEART*IZ"
+description: Album from IZ*ONE titled HEART*IZ.
+tags:
+  - Music
+  - IZONE
+image: https://i.ibb.co/30rHjLw/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1DmYaD_0f3NnaWbOpqdoHHtuARu0NsgaI/view?usp=sharing
 ---
