@@ -9,7 +9,7 @@ tags:
   - Nogizaka46
   - Sakurazaka46
   - Hinatazaka46
-image: himitsupro-210307-drama-borderless-episode-1.mp4_thumbs.jpg
+image: https://i.ibb.co/vP81XdT/image.png
 label: Pasted
 url: https://controlc.com/b58ac6c6
 ---
