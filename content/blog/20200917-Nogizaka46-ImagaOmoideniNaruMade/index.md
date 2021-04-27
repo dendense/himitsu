@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200917-Nogizaka46-ImagaOmoideniNaruMade"
-date: "2020-09-17"
+path: /blog/20200917-Nogizaka46-ImagaOmoideniNaruMade
+date: 2020-09-17
 title: "[Album] Nogizaka46 - Ima ga Omoide ni Naru Made"
-author: "SaikaChuu"
-description: "Nogizaka46 - Ima ga Omoide ni Naru Made album released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: SaikaChuu
+description: Nogizaka46 - Ima ga Omoide ni Naru Made album released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/Q9k9yY3/image.png
+image2: ""
 label: Pasted
 url: https://drive.google.com/file/d/1355OtuWI4B2d86nkRbuYI1yKwfSLCBOY/view?usp=sharing
 ---
