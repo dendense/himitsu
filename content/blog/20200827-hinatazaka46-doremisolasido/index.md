@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200827-hinatazaka46-doremisolasido"
-date: "2020-08-27"
-title: "Hinatazaka46 Single [Doremisolasido]"
-author: "Himitsu Staff"
-description: "Hinatazaka46 - Doremisolasido single released. Recommended Music!"
-tags: ["Music", "Hinatazaka46"]
-image: H462A.jpg
-label: Pasted # Tulis pasted jika banyak link, tulis GD/Mediafire/Racaty/dsb kalau cuma single link
-url: https://controlc.com/bf40184f #Link Dari pasted.co
+path: /blog/20200827-hinatazaka46-doremisolasido
+date: 2020-08-27
+title: Hinatazaka46 Single [Doremisolasido]
+author: Himitsu Staff
+description: Hinatazaka46 - Doremisolasido single released. Recommended Music!
+tags:
+  - Music
+  - Hinatazaka46
+image: https://i.ibb.co/rkyyzt3/image.png
+label: Pasted
+url: https://controlc.com/bf40184f
 ---
 
 # Format
