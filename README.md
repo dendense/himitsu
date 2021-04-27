@@ -20,7 +20,7 @@ Kami menggunakan Framework **[GatsbyJS](https://www.gatsbyjs.com/)** yang dimana
 - Rilis Beta Version ✅
 - Stable Live ✅
 
-# BETA DEVELOPMENT HAS RELEASED 
+# BETA DEVELOPMENT [CLOSED]
 
 Temporary Domain : **[Himitsu](https://sharp-euclid-d1315a.netlify.app/)**
 
