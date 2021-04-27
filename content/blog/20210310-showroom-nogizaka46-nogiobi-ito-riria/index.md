@@ -7,7 +7,7 @@ description: Nogizaka46 (Nogiobi) - Ito Riria
 tags:
   - Showroom
   - Nogizaka46
-image: ewg5-9wuyay5mrh.jpg
+image: https://i.ibb.co/9HhtcMx/image.png
 label: Google Drive
 url: https://acefile.co/f/39311626/himitsupro-210310-nogizaka46-showroom-nogiobi-ito-riria-ts
 ---
