@@ -7,7 +7,7 @@ description: Nogizaka46 (Nogiobi) - Tsutsui Ayame
 tags:
   - Showroom
   - Nogizaka46
-image: ev8vd0lucaajufv.jpg
+image: https://i.ibb.co/C650FnF/image.png
 label: Google Drive
 url: https://acefile.co/f/38809306/himitsupro-210308-nogizaka46-showroom-nogiobi-tsutsui-ayame-ts
 ---
