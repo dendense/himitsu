@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200918-Nogizaka46-ItsukaDekiruKaraKyouDekiru"
-date: "2020-09-18"
-title: "[Single] Nogizaka46 - Itsuka Dekiru Kara Kyou Dekiru"
-author: "SaikaChuu"
-description: "Nogizaka46 - Itsuka Dekiru Kara Kyou Dekiru single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+path: /blog/20200918-Nogizaka46-ItsukaDekiruKaraKyouDekiru
+author: SaikaChuu
 featured: false
+date: 2020-09-18
+title: "[Single] Nogizaka46 - Itsuka Dekiru Kara Kyou Dekiru"
+description: Nogizaka46 - Itsuka Dekiru Kara Kyou Dekiru single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/ctJ7qX2/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/6c19ff19
 ---
