@@ -10,7 +10,7 @@ tags:
   - Sakurazaka46
   - Hinatazaka46
   - STU48
-image: cover.jpg
+image: https://i.ibb.co/nBVBgrj/image.png
 label: Google Drive
 url: https://drive.google.com/drive/folders/1KMgMo60wpVBDAKTVmfXeBUdGcZmn564U?usp=sharing
 ---
