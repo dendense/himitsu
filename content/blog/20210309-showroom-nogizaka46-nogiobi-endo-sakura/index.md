@@ -7,7 +7,7 @@ description: Nogizaka46 (Nogiobi) - Endo Sakura
 tags:
   - Showroom
   - Nogizaka46
-image: ewburmzviagnuqp.jpg
+image: https://i.ibb.co/cLGY4RB/image.png
 label: Google Drive
 url: https://acefile.co/f/38920844/himitsupro-210309-nogizaka46-showroom-nogiobi-endo-sakura-ts
 ---
