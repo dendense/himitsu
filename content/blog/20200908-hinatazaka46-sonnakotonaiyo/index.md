@@ -1,15 +1,17 @@
 ---
-path: "/blog/20200908-hinatazaka46-sonnakotonaiyo"
-date: "2020-09-08"
-title: "[Single] Hinatazaka46 - Sonna Koto Nai Yo"
-author: "SakuMyao"
-description: "Hinatazaka46 - Sonna Koto Nai Yo single released. Recommended Music!"
-tags: ["Music", "Hinatazaka46"]
-image: image.jpg
-image2: "../../assets/badges/hinatazaka46.png"
+path: /blog/20200908-hinatazaka46-sonnakotonaiyo
+author: SakuMyao
 featured: false
+date: 2020-09-08
+title: "[Single] Hinatazaka46 - Sonna Koto Nai Yo"
+description: Hinatazaka46 - Sonna Koto Nai Yo single released. Recommended Music!
+tags:
+  - Music
+  - Hinatazaka46
+image: https://i.ibb.co/4f5DprX/image.png
+image2: ""
 label: Pasted.co
-url: "https://controlc.com/9f14867a"
+url: https://controlc.com/9f14867a
 ---
 
 # Format
