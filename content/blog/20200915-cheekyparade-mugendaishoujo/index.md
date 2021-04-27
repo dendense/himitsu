@@ -1,14 +1,15 @@
 ---
-path: "/blog/20200915-mugendaishoujo"
-date: "2020-09-15"
+path: /blog/20200915-mugendaishoujo
+date: 2020-09-15
 title: "[Single] Cheeky Parade - Mugendai Shoujo A"
-author: "Pillamore"
-description: "Cheeky Parade - Mugendai Shoujo A"
-tags: ["Cheeky Parade"]
-image: cover.jpg
-image2: "../../assets/badges/chika.png"
-label: "Google Drive"
-url: "https://drive.google.com/file/d/1jCGp_mG4a8flnbN1uZoAemlqOGmtuEVo/view?usp=sharing"
+author: Pillamore
+description: Cheeky Parade - Mugendai Shoujo A
+tags:
+  - Cheeky Parade
+image: https://i.ibb.co/NnxFQpn/image.png
+image2: ""
+label: Google Drive
+url: https://drive.google.com/file/d/1jCGp_mG4a8flnbN1uZoAemlqOGmtuEVo/view?usp=sharing
 ---
 
 # Format
