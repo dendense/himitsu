@@ -7,7 +7,8 @@ description: Sakurazaka46 SHOWROOM - Kobayashi Yui
 tags:
   - Showroom
   - Sakurazaka46
-image: ev3nwiiu8am1hir.jpg
+image: https://i.ibb.co/cDkgbwG/image.png
+image2: ""
 label: Google Drive
 url: https://acefile.co/f/38733162/himitsupro-210307-sakurazaka46-showroom-kobayashi-yui-mp4
 ---
