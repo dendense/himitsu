@@ -8,7 +8,7 @@ description: Kashiwagi Yuki - Can You Walk With Me @Getsu~Kin Ohiru no Song Show
 tags:
   - Perform
   - AKB48
-image: himitsupro-210304-kashiwagi-yuki-can-you-walk-with-me-getsu~kin-ohiru-no-song-show-hiruson-.mp4_thumbs.jpg
+image: https://i.ibb.co/6mpMCwt/image.png
 label: Google Drive
 url: https://acefile.co/f/38498830/himitsupro-210304-kashiwagi-yuki-can-you-walk-with-me-getsukin-ohiru-no-song-show-hiruson-mp4
 ---
