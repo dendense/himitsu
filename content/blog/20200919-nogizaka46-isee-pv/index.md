@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200919-nogizaka46-isee-pv"
-date: "2020-09-19"
+path: /blog/20200919-nogizaka46-isee-pv
+date: 2020-09-19
 title: "[MV] Nogizaka46 - I See..."
-author: "SakuMyao"
-description: "Nogizaka46 - I See Music Video released. Recommended Music!"
-tags: ["MV", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: SakuMyao
+description: Nogizaka46 - I See Music Video released. Recommended Music!
+tags:
+  - MV
+  - Nogizaka46
+image: https://i.ibb.co/0K1W9JX/image.png
+image2: ""
 label: google drive
 url: https://drive.google.com/file/d/11PGJWuv55HQUEotLOU-pmxsJZP4WJ27h/view?usp=sharing
 ---
