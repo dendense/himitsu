@@ -8,7 +8,7 @@ tags:
   - NMB48
   - Photobook
   - Making
-image: himitsupro-210226-making-of-photobook-jonishi-rei-mizu-no-ondo-.mp4_thumbs.jpg
+image: https://i.ibb.co/6ny85Bj/image.png
 label: Pasted
 url: https://controlc.com/32079cac
 ---
