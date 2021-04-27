@@ -7,7 +7,7 @@ description: Yamazaki Rena @Tokyo GOOD!
 tags:
   - Variety
   - Nogizaka46
-image: himitsupro-210301-yamazaki-rena-tokyo-good-episode-10.mp4_thumbs.jpg
+image: https://i.ibb.co/YB18Jnr/image.png
 label: Google Drive
 url: https://acefile.co/f/38315140/himitsupro-210301-yamazaki-rena-tokyo-good-episode-10-mp4
 ---
