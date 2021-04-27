@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200917-Nogizaka46-JikochuudeIkou!"
-date: "2020-09-17"
+path: /blog/20200917-Nogizaka46-JikochuudeIkou!
+date: 2020-09-17
 title: "[Single] Nogizaka46 - Jikochuu de Ikou!"
-author: "SaikaChuu"
-description: "Nogizaka46 - Jikochuu de Ikou! single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: SaikaChuu
+description: Nogizaka46 - Jikochuu de Ikou! single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/PgZ2zwm/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/e7d5651a
 ---
