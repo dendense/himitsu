@@ -7,7 +7,7 @@ description: Nogizaka46 (Nogiobi) - Matsuo Miyu
 tags:
   - Showroom
   - Nogizaka46
-image: evi0icyuuamkbzx.jpg
+image: https://i.ibb.co/ZMMcK4h/image.png
 label: Google Drive
 url: https://acefile.co/f/38378374/himitsupro-210303-nogizaka46-showroom-nogiobi-matsuo-miyu-ts
 ---
