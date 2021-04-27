@@ -105,13 +105,7 @@ export const blogQuery = graphql`
         tags
         label
         url
-        image {
-          childImageSharp {
-            fluid {
-              src
-            }
-          }
-        }
+        image
       }
       html
     }
