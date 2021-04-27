@@ -8,7 +8,7 @@ description: NMB48 Yamamoto Ayaka Graduation Concert ~Saigo no Isshoku~ @Orix Th
 tags:
   - Concert
   - NMB48
-image: himitsupro-210303-nmb48-yamamoto-ayaka-graduation-concert-~saigo-no-isshoku-orix-theater.mp4_thumbs.jpg
+image: https://i.ibb.co/HKd5XDL/image.png
 label: Google Drive
 url: https://acefile.co/f/38421682/himitsupro-210303-nmb48-yamamoto-ayaka-graduation-concert-saigo-no-isshoku-orix-theatre-mp4
 ---
