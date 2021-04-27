@@ -7,7 +7,7 @@ description: Eizouken ni wa Te wo Dasu na! (WEB-DL)
 tags:
   - Movie
   - Nogizaka46
-image: eviywdkveaqytou.jpg
+image: https://i.ibb.co/4S1hkZT/image.png
 label: Pasted
 url: https://controlc.com/f928126b
 ---
