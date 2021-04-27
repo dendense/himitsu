@@ -7,7 +7,7 @@ description: Nogizaka46 - Boku wa Boku wo Suki ni Naru (Special Edition)
 tags:
   - Music
   - Nogizaka46
-image: cover.jpg
+image: https://i.ibb.co/p4MGDtH/image.png
 label: Google Drive
 url: https://acefile.co/f/38432362/乃木坂46-僕は僕を好きになる-special-edition-flac-rar
 ---
