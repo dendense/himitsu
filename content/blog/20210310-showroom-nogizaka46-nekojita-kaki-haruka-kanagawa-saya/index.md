@@ -7,7 +7,7 @@ description: Nogizaka46 (Nekojita) - Kaki Haruka & Kanagawa Saya
 tags:
   - Showroom
   - Nogizaka46
-image: ewg_atsviampw_u.jpg
+image: https://i.ibb.co/qB5YV62/Ew-G-ATSVIAMp-W-U.jpg
 label: Google Drive
 url: https://acefile.co/f/39031847/himitsupro-210310-nogizaka46-showroom-nekojita-kaki-haruka-kanagawa-saya-ts
 ---
