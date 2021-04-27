@@ -8,7 +8,7 @@ tags:
   - Variety
   - Nogizaka46
   - SakuraiReika
-image: himitsupro-210301-ariyoshi-seminar-sakurai-reika.mp4_thumbs.jpg
+image: https://i.ibb.co/tzFrBFs/image.png
 label: Google Drive
 url: https://acefile.co/f/38586677/himitsupro-210301-ariyoshi-seminar-sakurai-reika-mp4
 ---
