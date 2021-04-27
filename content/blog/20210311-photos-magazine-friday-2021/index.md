@@ -7,7 +7,7 @@ description: Magazine FRIDAY 2021 (Yamashita Mizuki Cover)
 tags:
   - Photos
   - Nogizaka46
-image: cover.jpg
+image: https://i.ibb.co/LN8c4Dk/cover.jpg
 label: Google Drive
 url: https://drive.google.com/drive/folders/1mCA9y2wf6K0go8aBn-uCXqXX4wtig_x8?usp=sharing
 ---
