@@ -1,15 +1,17 @@
 ---
-path: "/blog/20200915-backnumber-happyend"
-date: "2020-09-15"
-title: "[Single] back number - Happy End"
-author: "SakuMyao"
-description: "back number - Happy End single released. Recommended Music!"
-tags: ["Music", "Musician"]
-image: image.jpg
-image2: "../../assets/badges/musician.png"
+path: /blog/20200915-backnumber-happyend
+author: SakuMyao
 featured: false
-label: "Google Drive"
-url: "https://drive.google.com/file/d/14fZSkfqTdcUkvL7LJW9Pv701soEszfBN/view?usp=sharing"
+date: 2020-09-15
+title: "[Single] back number - Happy End"
+description: back number - Happy End single released. Recommended Music!
+tags:
+  - Music
+  - Musician
+image: https://i.ibb.co/X4NR1ZX/image.png
+image2: ""
+label: Google Drive
+url: https://drive.google.com/file/d/14fZSkfqTdcUkvL7LJW9Pv701soEszfBN/view?usp=sharing
 ---
 
 # Format
