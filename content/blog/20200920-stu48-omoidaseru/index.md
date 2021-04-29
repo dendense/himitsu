@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200920-stu48-omoidaseru"
-date: "2020-09-20"
-title: "[Single] STU48 - Omoidaseru Koi wo Shiyou"
-author: "Pillamore"
-description: "Single from STU48 title Omoidaseru Koi wo Shiyou."
-tags: ["Music", "STU48"]
-image: cover.jpg
-image2: "../../assets/badges/48groups.png"
+path: /blog/20200920-stu48-omoidaseru
+author: Pillamore
 featured: false
+date: 2020-09-20
+title: "[Single] STU48 - Omoidaseru Koi wo Shiyou"
+description: Single from STU48 title Omoidaseru Koi wo Shiyou.
+tags:
+  - Music
+  - STU48
+image: https://i.ibb.co/7JXfbfY/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/b16f478b
 ---
