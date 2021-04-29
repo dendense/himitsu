@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200925-Nogizaka46-HadashideSummer"
-date: "2020-09-25"
-title: "[Single] Nogizaka46 - Hadashi de Summer"
-author: "SaikaChuu"
-description: "Nogizaka46 - Hadashi de Summer single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+path: /blog/20200925-Nogizaka46-HadashideSummer
+author: SaikaChuu
 featured: false
+date: 2020-09-25
+title: "[Single] Nogizaka46 - Hadashi de Summer"
+description: Nogizaka46 - Hadashi de Summer single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/SVHg5g0/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/056cbbda
 ---
