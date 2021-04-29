@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200926-Hinatazaka46-Hinatazaka461stAlbum-BonusVideo"
-date: "2020-09-26"
+path: /blog/20200926-Hinatazaka46-Hinatazaka461stAlbum-BonusVideo
+date: 2020-09-26
 title: "[Concert] Hinatazaka46 1st Album Bonus Video"
-author: "Chr0balord"
-description: "Hinatazaka46 1st Album Bonus Video (ALL TYPE)"
-tags: ["Concert", "Hinatazaka46"]
-image: image.jpg
-image2: "../../assets/badges/hinatazaka46.png"
+author: Chr0balord
+description: Hinatazaka46 1st Album Bonus Video (ALL TYPE)
+tags:
+  - Concert
+  - Hinatazaka46
+image: https://i.ibb.co/nfCT1HX/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/9b667f06
 ---
