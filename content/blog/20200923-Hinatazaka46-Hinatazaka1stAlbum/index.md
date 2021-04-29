@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200923-Hinatazaka46-Hinatazaka1stAlbum"
-date: "2020-09-23"
+path: /blog/20200923-Hinatazaka46-Hinatazaka1stAlbum
+date: 2020-09-23
 title: "[Album] Hinatazaka46 - Hinatazaka (ALL TYPE)"
-author: "Chr0balord"
-description: "Hinatazaka46 First Album"
-tags: ["Music", "Hinatazaka46"]
-image: image.jpg
-image2: "../../assets/badges/hinatazaka46.png"
+author: Chr0balord
+description: Hinatazaka46 First Album
+tags:
+  - Music
+  - Hinatazaka46
+image: https://i.ibb.co/MMdv6DZ/image.png
+image2: null
 label: Pasted
 url: https://controlc.com/a65f852b
 ---
