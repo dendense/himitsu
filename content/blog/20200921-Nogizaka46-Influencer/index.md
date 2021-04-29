@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200921-Nogizaka46-Influencer"
-date: "2020-09-21"
-title: "[Single] Nogizaka46 - Influencer"
-author: "SaikaChuu"
-description: "Nogizaka46 - Influencer single released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+path: /blog/20200921-Nogizaka46-Influencer
+author: SaikaChuu
 featured: false
+date: 2020-09-21
+title: "[Single] Nogizaka46 - Influencer"
+description: Nogizaka46 - Influencer single released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/1XLD27d/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/1920bf5b
 ---
