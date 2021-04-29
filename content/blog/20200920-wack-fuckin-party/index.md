@@ -1,13 +1,16 @@
 ---
-path: "/blog/20200920-wack-fuckin-party"
-date: "2020-09-20"
-title: "WACK FUCKIN' PARTY FINAL"
-author: "Pillamore"
-description: "WACK FUCKIN' PARTY FINAL without audience."
-tags: ["Concert", "WACK", "Chika"]
-image: cover.jpg
-image2: "../../assets/badges/chika.png"
+path: /blog/20200920-wack-fuckin-party
+author: Pillamore
 featured: false
+date: 2020-09-20
+title: WACK FUCKIN' PARTY FINAL
+description: WACK FUCKIN' PARTY FINAL without audience.
+tags:
+  - Concert
+  - WACK
+  - Chika
+image: https://i.ibb.co/crQpk5k/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1bFmjQGSLnYZTFt0oqw1soQnFQeVtH-Rf/view?usp=sharing
 ---
