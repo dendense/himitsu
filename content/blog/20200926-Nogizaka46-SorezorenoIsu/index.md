@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200926-Nogizaka46-SorezorenoIsu"
-date: "2020-09-26"
-title: "[Album] Nogizaka46 - Sorezore no Isu"
-author: "SaikaChuu"
-description: "Nogizaka46 - Sorezore no Isu album released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+path: /blog/20200926-Nogizaka46-SorezorenoIsu
+author: SaikaChuu
 featured: false
+date: 2020-09-26
+title: "[Album] Nogizaka46 - Sorezore no Isu"
+description: Nogizaka46 - Sorezore no Isu album released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/HBV9CgM/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/e1e2b68c
 ---
