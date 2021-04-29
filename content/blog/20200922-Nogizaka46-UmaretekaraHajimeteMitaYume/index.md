@@ -1,13 +1,15 @@
 ---
-path: "/blog/20200922-Nogizaka46-UmaretekaraHajimeteMitaYume"
-date: "2020-09-22"
-title: "[Album] Nogizaka46 - Umaretekara Hajimete Mita Yume"
-author: "SaikaChuu"
-description: "Nogizaka46 - Umaretekara Hajimete Mita Yume album released. Recommended Music!"
-tags: ["Music", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+path: /blog/20200922-Nogizaka46-UmaretekaraHajimeteMitaYume
+author: SaikaChuu
 featured: false
+date: 2020-09-22
+title: "[Album] Nogizaka46 - Umaretekara Hajimete Mita Yume"
+description: Nogizaka46 - Umaretekara Hajimete Mita Yume album released. Recommended Music!
+tags:
+  - Music
+  - Nogizaka46
+image: https://i.ibb.co/1XQ8149/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/19300c2c
 ---
