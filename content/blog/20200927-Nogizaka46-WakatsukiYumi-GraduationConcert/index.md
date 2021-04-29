@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200927-Nogizaka46-WakatsukiYumi-GraduationConcertFull"
-date: "2020-09-27"
+path: /blog/20200927-Nogizaka46-WakatsukiYumi-GraduationConcertFull
+date: 2020-09-27
 title: "[Concert] Nogizaka46 Wakatsuki Yumi Graduation Concert @Nippon Budokan (FULL)"
-author: "Chr0balord"
-description: "Wakatsuki Yumi Graduation Concert FULL"
-tags: ["Concert", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: Chr0balord
+description: Wakatsuki Yumi Graduation Concert FULL
+tags:
+  - Concert
+  - Nogizaka46
+image: https://i.ibb.co/8PfXWnd/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1aZrbzlrHrycPUbeQls0kPdMonOv-0WW2/view?usp=sharing
 ---
