@@ -1,12 +1,14 @@
 ---
-path: "/blog/20201004-Nogizaka46-4th-Generation-TokyoIdol-FestivalOnline-2020"
-date: "2020-10-04"
+path: /blog/20201004-Nogizaka46-4th-Generation-TokyoIdol-FestivalOnline-2020
+date: 2020-10-04
 title: "[Perform] Nogizaka46 4th Generation @Tokyo Idol Festival Online 2020"
-author: "Chr0balord"
-description: "Perform Nogizaka46 4th Generation @Tokyo Idol Festival Online 2020"
-tags: ["Perform", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: Chr0balord
+description: Perform Nogizaka46 4th Generation @Tokyo Idol Festival Online 2020
+tags:
+  - Perform
+  - Nogizaka46
+image: https://i.ibb.co/jgCZMpW/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1lwSR-Fs_ciWR0IkGG2ZWMuv72_l-f0D6/view?usp=sharing
 ---
