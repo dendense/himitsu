@@ -1,12 +1,14 @@
 ---
-path: "/blog/20201005-Hinatazaka46-TokyoIdol-FestivalOnline-2020"
-date: "2020-10-05"
+path: /blog/20201005-Hinatazaka46-TokyoIdol-FestivalOnline-2020
+date: 2020-10-05
 title: "[Perform] Hinatazaka46 @Tokyo Idol Festival Online 2020"
-author: "Chr0balord"
-description: "Perform Hinatazaka46 @Tokyo Idol Festival Online 2020"
-tags: ["Perform", "Hinatazaka46"]
-image: image.jpg
-image2: "../../assets/badges/hinatazaka46.png"
+author: Chr0balord
+description: Perform Hinatazaka46 @Tokyo Idol Festival Online 2020
+tags:
+  - Perform
+  - Hinatazaka46
+image: https://i.ibb.co/Pm3np2z/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1WrRgqH6nyQLNSyAmucZQjVt7TuUJvYjD/view?usp=sharing
 ---
