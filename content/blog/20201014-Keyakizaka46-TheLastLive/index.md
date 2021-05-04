@@ -1,12 +1,14 @@
 ---
-path: "/blog/20201014-Keyakizaka46-TheLastLive"
-date: "2020-10-14"
+path: /blog/20201014-Keyakizaka46-TheLastLive
+date: 2020-10-14
 title: "[Concert] Keyakizaka46 The Last Live @Yoyogi National Gymnasium"
-author: "Chr0balord"
-description: "Keyakizaka46 The Last Live Concert"
-tags: ["Concert", "Keyakizaka46"]
-image: image.png
-image2: "../../assets/badges/hinatazaka46.png"
+author: Chr0balord
+description: Keyakizaka46 The Last Live Concert
+tags:
+  - Concert
+  - Keyakizaka46
+image: https://i.ibb.co/JmPCLkF/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/6a7500d8
 ---
