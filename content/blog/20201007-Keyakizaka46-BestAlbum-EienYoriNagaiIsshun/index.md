@@ -1,12 +1,15 @@
 ---
-path: "/blog/20200923-Keyakizaka46-BestAlbum-EienYoriNagaiIsshun"
-date: "2020-10-07"
-title: "[Album] Keyakizaka46 - Eien Yori Nagai Isshun ~Ano Koro, Tashikani Sonzai Shita Watashitachi~ (ALL TYPE)"
-author: "Chr0balord"
-description: "Keyakizaka46 Best Album"
-tags: ["Music", "Keyakizaka46"]
-image: image.jpg
-image2: "../../assets/badges/hinatazaka46.png"
+path: /blog/20200923-Keyakizaka46-BestAlbum-EienYoriNagaiIsshun
+date: 2020-10-07
+title: "[Album] Keyakizaka46 - Eien Yori Nagai Isshun ~Ano Koro, Tashikani
+  Sonzai Shita Watashitachi~ (ALL TYPE)"
+author: Chr0balord
+description: Keyakizaka46 Best Album
+tags:
+  - Music
+  - Keyakizaka46
+image: https://i.ibb.co/YfxC8sb/image.png
+image2: ""
 label: Pasted
 url: https://controlc.com/ec3d7046
 ---
