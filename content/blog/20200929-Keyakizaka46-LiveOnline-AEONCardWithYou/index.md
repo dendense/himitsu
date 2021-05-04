@@ -1,12 +1,14 @@
 ---
-path: "/blog/20200929-Keyakizaka46-LiveOnline-AEONCARDWithYou"
-date: "2020-09-29"
+path: /blog/20200929-Keyakizaka46-LiveOnline-AEONCARDWithYou
+date: 2020-09-29
 title: "[Concert] Keyakizaka46 Live Online, AEON Card with You!"
-author: "Chr0balord"
-description: "Keyakizaka46 Live Online, AEON Card with You!"
-tags: ["Concert", "Keyakizaka46"]
-image: image.jpg
-image2: "../../assets/badges/hinatazaka46.png"
+author: Chr0balord
+description: Keyakizaka46 Live Online, AEON Card with You!
+tags:
+  - Concert
+  - Keyakizaka46
+image: https://i.ibb.co/BGQqtR4/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1LfwvSgelNLBFjm1txKIhZgGCrKy7iEYI/view?usp=sharing
 ---
