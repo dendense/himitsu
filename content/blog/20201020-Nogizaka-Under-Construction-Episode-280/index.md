@@ -1,12 +1,14 @@
 ---
-path: "/blog/20201020-Nogizaka-Under-Construction-Episode-280"
-date: "2020-10-20"
+path: /blog/20201020-Nogizaka-Under-Construction-Episode-280
+date: 2020-10-20
 title: "[Variety] Nogizaka Under Construction Episode 280"
-author: "Chr0balord"
-description: "Nogizaka Under Construction Episode 280"
-tags: ["Variety", "Nogizaka46"]
-image: image.jpg
-image2: "../../assets/badges/nogizaka46.png"
+author: Chr0balord
+description: Nogizaka Under Construction Episode 280
+tags:
+  - Variety
+  - Nogizaka46
+image: https://i.ibb.co/RNmnfhq/image.png
+image2: ""
 label: Google Drive
 url: https://drive.google.com/file/d/1KLcrTG6Dtp_XcXILhuvxF9injv2gpo3N/view?usp=sharing
 ---
